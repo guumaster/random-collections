@@ -2,6 +2,8 @@
 
 # ES6
 
+* [ES6 Features list](http://es6-features.org/) ([repo](https://github.com/rse/es6-features))
+
 ## Articles
 
 * [In-Depth ES6 - MDN](https://hacks.mozilla.org/category/es6-in-depth/)
