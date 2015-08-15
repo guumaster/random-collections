@@ -31,16 +31,36 @@
 ## Reactive programming
 
 * [Intro to reactive programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+* [Reactive frontend](https://auth0.com/events/forwardjs-reactive-frontend) [slides](http://mgonto.github.io/reactive-frontend-oscon/)
+
 
 ## React
 
 * [ES6 components with React & Browserify](http://www.kellyjandrews.com/2015/04/01/modular-react-components-with-browserify.html)
 * [React & ES6](http://www.tamas.io/react-with-es6/)
+* [React & D3](http://sxywu.github.io/react-d3/)
 
+* [Reactive Flux](https://github.com/codesuki/reactive-flux)
+
+## React + RxJS
+* [React + RxJS example](http://eliseumds.github.io/react-autocomplete/)
+* [RxJS instead of Flux](https://gist.github.com/justinwoo/08f9f8fcdcf865025f18)
+* [Example repo](https://github.com/justinwoo/react-rxjs-flow)
+* [React & RxJS](https://github.com/fdecampredon/react-rxjs-todomvc)
+
+
+## ES6
+
+* [JS, Babel ES6](https://strongloop.com/strongblog/javascript-babel-future/)
 
 ## Books
 
 * [You don't know JS](https://github.com/getify/You-Dont-Know-JS/)
+
+## Others
+
+* [Break the web forward](http://breakthewebforward.com/)
+* [What does my site cost](http://whatdoesmysitecost.com/test/)
 
 
 
