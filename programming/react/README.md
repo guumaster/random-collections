@@ -11,9 +11,10 @@
 
 * [awesome-react](https://github.com/enaqx/awesome-react)
 * [React Components](http://react-components.com/)
-* 
 
 
 ## Examples
 
 * [GuildWars2 WvW with React & ES6](https://github.com/fooey/gw2w2w-react)
+* [Frontend Master React exercises](https://github.com/FrontendMasters/2015-02-13-React/tree/master/excercises)
+* 
