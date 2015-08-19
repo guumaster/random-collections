@@ -23,3 +23,8 @@
 * [Functional fun](http://es.slideshare.net/NataliaZaslavskaya1/functional-es6)
 * [Functional Programming talk](http://scott.sauyet.com/Javascript/Talk/2014/03/12/)
 
+## Videos
+
+* [Functional programming series](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+* [Category Theory JS](https://www.youtube.com/playlist?list=PLwuUlC2HlHGe7vmItFmrdBLn6p0AS8ALX)
+
