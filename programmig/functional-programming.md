@@ -8,6 +8,7 @@
 * [Futures and Monoids — Medium](https://medium.com/@yelouafi/futures-and-monoids-7e9f4574bd88)
 * [Higher order functions](http://eloquentjavascript.net/05_higher_order.html)
 * [Don't be scared of functional programming](http://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming/)
+* [Category Theory blog](https://jscategory.wordpress.com/source-code/)
 
 ## Functions
 * [1-lines FP functions](https://github.com/1-liners/1-liners)
