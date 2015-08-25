@@ -2,7 +2,6 @@
 
 ## Functional stuff
 
-* [From Map/Reduce to functional programming - MDN](https://hacks.mozilla.org/2015/01/from-mapreduce-to-javascript-functional-programming/)
 * [Nodeschool functiona workshop](https://github.com/timoxley/functional-javascript-workshop)
 * [FP Jargons](https://github.com/hemanth/functional-programming-jargons)
 * [Futures and Monoids — Medium](https://medium.com/@yelouafi/futures-and-monoids-7e9f4574bd88)
