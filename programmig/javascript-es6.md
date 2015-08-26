@@ -5,6 +5,7 @@
 * [ES6 Features list](http://es6-features.org/) ([repo](https://github.com/rse/es6-features))
 * [ES5/ES2015/6 feature list](http://jsfeatures.in/)
 * [lukehoban/es6features](https://github.com/lukehoban/es6features)
+* [ES6 today slides](https://speakerdeck.com/rauschma/using-ecmascript-6-today)
 
 ## Articles
 
