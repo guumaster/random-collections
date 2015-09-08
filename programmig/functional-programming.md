@@ -2,12 +2,17 @@
 
 ## Functional stuff
 
-* [Nodeschool functiona workshop](https://github.com/timoxley/functional-javascript-workshop)
+* [Nodeschool functional workshop](https://github.com/timoxley/functional-javascript-workshop)
 * [FP Jargons](https://github.com/hemanth/functional-programming-jargons)
 * [Futures and Monoids — Medium](https://medium.com/@yelouafi/futures-and-monoids-7e9f4574bd88)
 * [Higher order functions](http://eloquentjavascript.net/05_higher_order.html)
 * [Don't be scared of functional programming](http://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming/)
 * [Category Theory blog](https://jscategory.wordpress.com/source-code/)
+* [Blog about functional programming](http://autosponge.github.io/)
+* [Functional & Ramda](http://buzzdecafe.github.io/)
+* [Ramda's author blog](http://fr.umio.us/)
+
+## Libraries
 * [Lodash FP](https://github.com/lodash/lodash-fp)
 
 ## Functions
@@ -18,6 +23,8 @@
 ## Books
 * [Read JavaScript Allongé, the "Six" Edition | Leanpub](https://leanpub.com/javascriptallongesix/read)
 * [Mostly adequate guide to Functional programming](http://drboolean.gitbooks.io/mostly-adequate-guide/)
+* [Functional JavaScript. Introducing Functional Programming with Underscore.js](http://www.functionaljavascript.com/)
+* [Category Theory for programmers](http://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 
 ## Slides 
 
