@@ -10,3 +10,7 @@
 ## build system
 
 * [npm as your build script](https://drublic.de/blog/npm-builds/)
+
+## authentication 
+
+* [Passport flow](http://toon.io/understanding-passportjs-authentication-flow/)
