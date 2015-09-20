@@ -8,3 +8,4 @@
   * Converts human readable expression to a cron string
 * [npm-check](https://www.npmjs.com/package/npm-check)
   * Check for outdated, incorrect, and unused dependencies.
+* [cut-release]()
