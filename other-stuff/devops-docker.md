@@ -1,9 +1,21 @@
+
+## Articles & Tutorials
+
+[Dockerize a node app](https://nodesource.com/blog/dockerizing-your-nodejs-applications)
+
+
 ## Running mongodb dockerized
 
 ```sh
 docker run -d -p 27017:27017 --name mongodb dockerfile/mongodb mongod --smallfiles
 ```
 
+## Remove images
+
+```sh
+docker images --no-trunc
+docker rmi <image_id>
+```
 
 ## Docker word reference
 
