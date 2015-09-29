@@ -9,3 +9,6 @@
 * [npm-check](https://www.npmjs.com/package/npm-check)
   * Check for outdated, incorrect, and unused dependencies.
 * [cut-release]()
+
+* [release-it](http://webpro.github.io/release-it/)
+  * Interactive release tool for Git repositories. Increment version, commit, tag, push, build, publish to npm. 
