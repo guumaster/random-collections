@@ -11,6 +11,7 @@
 * [Blog about functional programming](http://autosponge.github.io/)
 * [Functional & Ramda](http://buzzdecafe.github.io/)
 * [Ramda's author blog](http://fr.umio.us/)
+* [Point-free](http://glebbahmutov.com/blog//point-free-programming-is-not-pointless/)
 
 ## Libraries
 * [Lodash FP](https://github.com/lodash/lodash-fp)
