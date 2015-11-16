@@ -12,3 +12,12 @@
 
 * [release-it](http://webpro.github.io/release-it/)
   * Interactive release tool for Git repositories. Increment version, commit, tag, push, build, publish to npm. 
+
+
+
+Private NPM
+
+* [Kappa Private server (from Paypal)](https://github.com/krakenjs/kappa)
+* [How to use Sinopia](https://blog.dylants.com/2014/05/10/creating-a-private-npm-registry-with-sinopia/)
+* [Another Sinopia tutorial](http://maxgfeller.com/blog/2014/02/26/your-own-private-npm-repository-with-sinopia/)
+* [Docker Sinopia](https://github.com/keyvanfatehi/docker-sinopia)
