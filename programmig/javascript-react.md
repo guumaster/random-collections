@@ -18,4 +18,7 @@
 
 * [GuildWars2 WvW with React & ES6](https://github.com/fooey/gw2w2w-react)
 * [Frontend Master React exercises](https://github.com/FrontendMasters/2015-02-13-React/tree/master/excercises)
-* 
+
+## Components
+
+* [React Material Design Lite](https://github.com/tleunen/react-mdl)
