@@ -12,3 +12,6 @@
 * [currying & composition](http://jsbin.com/yogeku/edit?js,console)
 * [recursion & str manipulation](http://jsbin.com/laxite/19/edit?js,console)
 
+# Tools
+
+* [Fake JSON server](http://jsonplaceholder.typicode.com/)
