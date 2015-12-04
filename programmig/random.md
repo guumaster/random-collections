@@ -15,3 +15,4 @@
 # Tools
 
 * [Fake JSON server](http://jsonplaceholder.typicode.com/)
+* [Split panes](https://github.com/nathancahill/Split.js)
