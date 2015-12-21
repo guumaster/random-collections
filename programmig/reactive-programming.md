@@ -8,6 +8,7 @@
 * [Reactive Manifesto](http://www.reactivemanifesto.org/)
 * [RxJs - Javascript Reactive Extensions](http://reactive-extensions.github.io/RxJS/)
 * [RxMarbles](http://rxmarbles.com/)
+* [RxVision](http://jaredforsyth.com/rxvision/)
 
 
 ## Articles & Tutorials
@@ -18,6 +19,7 @@
 * [Procedural to reactive](http://bahmutov.calepin.co/journey-from-procedural-to-reactive-javascript-with-stops.html)
 * [Rx Book](http://xgrommx.github.io/rx-book)
 * [JavaScript Allongé](https://leanpub.com/javascript-allonge)
+* [React reactive apps](https://medium.com/@garychambers108/functional-reactive-react-js-b04a8d97a540#.bqjzfsep8)
 
 ## Presentations & videos
 
