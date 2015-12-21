@@ -25,6 +25,7 @@
 
 ## PostCSS & BEM
 
+* [Everyone needs to learn PostCSS](http://davidtheclark.com/its-time-for-everyone-to-learn-about-postcss/)
 * [Why to use PostCSS](http://ai.github.io/about-postcss/en/)
 * [PostCSS complete guide](http://webdesign.tutsplus.com/categories/postcss)
 * [BEM (block, element, modifier)](http://getbem.com/introduction/)
