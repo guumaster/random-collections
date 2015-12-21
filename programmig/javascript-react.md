@@ -9,6 +9,11 @@
 * [React state best practices](http://brewhouse.io/blog/2015/03/24/best-practices-for-component-state-in-reactjs.html)
 * [React router](http://blog.koalite.com/2014/12/rutas-en-reactjs-con-react-router/)
 * [The power of Immutability and React — Medium](https://medium.com/@sharifsbeat/the-power-of-immutability-and-react-daf46f2a5f4d)
+* [React traingin material](https://github.com/ReactJSTraining/react-training-material)
+
+## Testing React
+
+* [Unit test with expect-jsx](https://blog.algolia.com/how-we-unit-test-react-components-using-expect-jsx/)
 
 ## React Redux
 
@@ -36,6 +41,7 @@
 
 ## Full Examples
 
-* [React playground](https://rnplay.org)/
+* [React playground](https://rnplay.org)
+* [Redux memory game](https://github.com/mauricius/redux-memory-game/)
 * [GuildWars2 WvW with React & ES6](https://github.com/fooey/gw2w2w-react)
 * [Frontend Master React exercises](https://github.com/FrontendMasters/2015-02-13-React/tree/master/excercises)
