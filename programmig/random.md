@@ -16,3 +16,8 @@
 
 * [Fake JSON server](http://jsonplaceholder.typicode.com/)
 * [Split panes](https://github.com/nathancahill/Split.js)
+
+
+## Podcasts
+
+* [frontend podcasts](https://pawelgrzybek.com/my-favourite-front-end-related-podcasts/)
