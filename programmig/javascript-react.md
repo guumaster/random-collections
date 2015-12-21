@@ -17,7 +17,7 @@
 * [getting started with redux](http://www.jchapron.com/2015/08/14/getting-started-with-redux/)
 * [just enough redux](https://medium.com/@Lilobase/the-just-enough-redux-reading-list-74c954e1941#.tr7eekfbq)
 * [mastering react redux](https://www.stanleycyang.com/tutorials/mastering-react-redux)
-* 
+* [Simple way to route with redux](http://jlongster.com/A-Simple-Way-to-Route-with-Redux)
 
 ## React component catalogs
 
