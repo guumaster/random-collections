@@ -21,3 +21,10 @@
 ## Podcasts
 
 * [frontend podcasts](https://pawelgrzybek.com/my-favourite-front-end-related-podcasts/)
+
+
+## PostCSS & BEM
+
+* [Why to use PostCSS](http://ai.github.io/about-postcss/en/)
+* [PostCSS complete guide](http://webdesign.tutsplus.com/categories/postcss)
+* [BEM (block, element, modifier)](http://getbem.com/introduction/)
