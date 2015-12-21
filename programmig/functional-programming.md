@@ -12,6 +12,9 @@
 * [Functional & Ramda](http://buzzdecafe.github.io/)
 * [Ramda's author blog](http://fr.umio.us/)
 * [Point-free](http://glebbahmutov.com/blog//point-free-programming-is-not-pointless/)
+* [Currying vs Partial application](http://www.datchley.name/currying-vs-partial-application/)
+* [Javascript Higher order functions](http://blog.carbonfive.com/2015/01/05/tidying-up-a-javascript-application-with-higher-order-functions/)
+* [Functional w/Curried JavaScript](http://blog.carbonfive.com/2015/01/14/gettin-freaky-functional-wcurried-javascript/)
 
 ## Libraries
 * [Lodash FP](https://github.com/lodash/lodash-fp)
