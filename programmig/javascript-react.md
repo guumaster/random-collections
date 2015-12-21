@@ -2,6 +2,7 @@
 
 ## Tutorials 
 
+* [React Cheatsheet](http://reactcheatsheet.com/)
 * [awesome-react](https://github.com/enaqx/awesome-react)
 * [Rising stacks - React Way](https://blog.risingstack.com/the-react-js-way-flux-architecture-with-immutable-js/)
 * [React, ES6 + Immutable](https://github.com/hekike/ES6-Immutable-React)
@@ -18,6 +19,7 @@
 * [just enough redux](https://medium.com/@Lilobase/the-just-enough-redux-reading-list-74c954e1941#.tr7eekfbq)
 * [mastering react redux](https://www.stanleycyang.com/tutorials/mastering-react-redux)
 * [Simple way to route with redux](http://jlongster.com/A-Simple-Way-to-Route-with-Redux)
+* [Reasoning about redux apps](http://www.gregfiorentino.com/general/2015/08/02/reasoning-redux.html)
 
 ## React component catalogs
 
@@ -30,7 +32,7 @@
 * [React Material Design Lite](https://github.com/tleunen/react-mdl)
 * [React GL](https://projectseptemberinc.gitbooks.io/gl-react/content/)
 * [Photo Gallery](https://github.com/neptunian/react-photo-gallery)
-* 
+* [React Native for web](https://github.com/necolas/react-native-web)
 
 ## Full Examples
 
