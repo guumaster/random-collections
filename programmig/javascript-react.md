@@ -25,6 +25,7 @@
 * [mastering react redux](https://www.stanleycyang.com/tutorials/mastering-react-redux)
 * [Simple way to route with redux](http://jlongster.com/A-Simple-Way-to-Route-with-Redux)
 * [Reasoning about redux apps](http://www.gregfiorentino.com/general/2015/08/02/reasoning-redux.html)
+* [redux responsive](http://alec.aivazis.com/blog/managing-responsive-state-in-redux)
 
 ## React component catalogs
 
