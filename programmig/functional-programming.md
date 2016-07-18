@@ -16,6 +16,25 @@
 * [Javascript Higher order functions](http://blog.carbonfive.com/2015/01/05/tidying-up-a-javascript-application-with-higher-order-functions/)
 * [Functional w/Curried JavaScript](http://blog.carbonfive.com/2015/01/14/gettin-freaky-functional-wcurried-javascript/)
 
+
+## Blog Posts
+
+* [https://www.infoq.com/presentations/fp-design-patterns](https://www.infoq.com/presentations/fp-design-patterns)
+* [http://scott.sauyet.com/Javascript/Talk/2014/03/12/#slide-38](http://scott.sauyet.com/Javascript/Talk/2014/03/12/#slide-38)
+* [https://dzone.com/refcardz/functional-programming-with-javascript?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fpublications](https://dzone.com/refcardz/functional-programming-with-javascript?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fpublications)
+* [http://blog.mgechev.com/2013/01/21/functional-programming-with-javascript/](http://blog.mgechev.com/2013/01/21/functional-programming-with-javascript/)
+* [https://blog.jcoglan.com/2013/03/30/callbacks-are-imperative-promises-are-functional-nodes-biggest-missed-opportunity/](https://blog.jcoglan.com/2013/03/30/callbacks-are-imperative-promises-are-functional-nodes-biggest-missed-opportunity/)
+* [http://blog.8thlight.com/uncle-bob/2012/08/24/functional-programming-for-the-object-oriented-programmer.html](http://blog.8thlight.com/uncle-bob/2012/08/24/functional-programming-for-the-object-oriented-programmer.html)
+* [https://www.fpcomplete.com/blog/2012/04/the-downfall-of-imperative-programming](https://www.fpcomplete.com/blog/2012/04/the-downfall-of-imperative-programming)
+* [http://www.datchley.name/getting-functional-with-javascript-part-3/](http://www.datchley.name/getting-functional-with-javascript-part-3/)
+* [https://docs.google.com/presentation/d/1YOJ2hU60KcXJ3m3CG28EtfTO4t1OP_JR0gpM82i2xcI/edit#slide=id.g338d117be_040](https://docs.google.com/presentation/d/1YOJ2hU60KcXJ3m3CG28EtfTO4t1OP_JR0gpM82i2xcI/edit#slide=id.g338d117be_040)
+* [https://medium.com/@_juicemia/a-practical-monad-in-javascript-b98e94db5b1c#.jxhzjwjaq](https://medium.com/@_juicemia/a-practical-monad-in-javascript-b98e94db5b1c#.jxhzjwjaq)
+* [http://blog.carbonfive.com/2015/01/14/gettin-freaky-functional-wcurried-javascript/](http://blog.carbonfive.com/2015/01/14/gettin-freaky-functional-wcurried-javascript/)
+* [https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c#.8wbtyho98](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c#.8wbtyho98)
+* [https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-part-2-f45228c49eed#.iuyp77wf7](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-part-2-f45228c49eed#.iuyp77wf7)
+* [https://medium.com/@collardeau/part-3-an-intro-to-functional-programming-concepts-in-javascript-febf9368ffe6#.jvzk0j3w2](https://medium.com/@collardeau/part-3-an-intro-to-functional-programming-concepts-in-javascript-febf9368ffe6#.jvzk0j3w2)
+
+
 ## Libraries
 * [Lodash FP](https://github.com/lodash/lodash-fp)
 
