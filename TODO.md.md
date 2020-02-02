@@ -12,7 +12,8 @@
 ### Golang 
 
 * [create-your-own-cli](https://itnext.io/how-to-create-your-own-cli-with-golang-3c50727ac608)
+* [Building an Awesome CLI App in Go – OSCON 2017 - spf13.com](https://spf13.com/presentation/building-an-awesome-cli-app-in-go-oscon/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTc4NjE0OV19
+eyJoaXN0b3J5IjpbOTA0ODY2NDkzLC0xMDE3ODYxNDldfQ==
 -->
