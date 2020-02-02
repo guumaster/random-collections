@@ -1,23 +1,40 @@
 # Golang
 
 
+### Links (2020-01)
+* [emitter pub/sub](https://github.com/emitter-io/emitter) alternative to NATS
+* [teeproxy: multiply requests](https://github.com/chrislusf/teeproxy)
+* [benmanns/goworker: goworker is a Go-based background worker that runs 10 to 100,000* times faster than Ruby-based workers.](https://github.com/benmanns/goworker)
+* [slug: URL-friendly slugify with multiple languages support.](https://github.com/gosimple/slug)
+* [systray: a cross platfrom Go library to place an icon and menu in the notification area](https://github.com/getlantern/systray)
+* [gjson: Get JSON values quickly - JSON parser for Go](https://github.com/tidwall/gjson)
+
+## Libraries
+
+### NATS & Go
+
+* [nats-io/go-nats-streaming: NATS Streaming System](https://github.com/nats-io/go-nats-streaming)
+
+
+
+## Articles
+
+* [Building Distributed Systems and Microservices in Go with NATS Streaming](https://medium.com/@shijuvar/building-distributed-systems-and-microservices-in-go-with-nats-streaming-d8b4baa633a2)
+* [Communication using NATS Streaming and Go - My Code Smells!](https://mycodesmells.com/post/communication-using-nats-streaming-and-go)
+
 
 ## IDE
 
 * [Setup Go Development Environment with Visual Studio Code](https://rominirani.com/setup-go-development-environment-with-visual-studio-code-7ea5d643a51a)
 
-## Protobuf
+### Protobuf
 
 #### Tutorials
 * [Protocol Buffer Basics: Go |  Google Developers](https://developers.google.com/protocol-buffers/docs/gotutorial)
 * [Go Protocol Buffer Tutorial | TutorialEdge.net](https://tutorialedge.net/golang/go-protocol-buffer-tutorial/)
 
 
-## NATS & Go
 
-* [nats-io/go-nats-streaming: NATS Streaming System](https://github.com/nats-io/go-nats-streaming)
-* [Building Distributed Systems and Microservices in Go with NATS Streaming](https://medium.com/@shijuvar/building-distributed-systems-and-microservices-in-go-with-nats-streaming-d8b4baa633a2)
-* [Communication using NATS Streaming and Go - My Code Smells!](https://mycodesmells.com/post/communication-using-nats-streaming-and-go)
 
 
 ## Postgres in Go
@@ -75,5 +92,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjE2ODc1NDhdfQ==
+eyJoaXN0b3J5IjpbMTY0Njg5NTA2MSwtMTQ2MTY4NzU0OF19
 -->
