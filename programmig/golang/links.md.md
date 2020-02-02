@@ -11,7 +11,7 @@
 
 ## Libraries
 
-### NATS & Go
+### NATS
 
 * [nats-io/go-nats-streaming: NATS Streaming System](https://github.com/nats-io/go-nats-streaming)
 
@@ -92,5 +92,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Njg5NTA2MSwtMTQ2MTY4NzU0OF19
+eyJoaXN0b3J5IjpbLTEwODY5NzQ5MjksLTE0NjE2ODc1NDhdfQ
+==
 -->
