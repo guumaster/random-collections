@@ -23,7 +23,6 @@
 * [logrus: Structured logging in Go](https://github.com/Sirupsen/logrus)
 
 
-*emphasized text*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MzYwODU4MF19
+eyJoaXN0b3J5IjpbMTc4NzQyNDYwMV19
 -->
