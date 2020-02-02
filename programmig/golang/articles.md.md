@@ -14,7 +14,9 @@
 * [A Beginners Guide to Context - Golang UK Conference](https://www.gophercon.co.uk/archive/2017/videos/2016/a-beginners-guide-to-context/)
 * [Understanding the context package in golang - Parikshit Agnihotry](http://p.agnihotry.com/post/understanding_the_context_package_in_golang/)
 * [golang-using-context-cancellation](https://www.sohamkamani.com/blog/golang/2018-06-17-golang-using-context-cancellation/)
-
+* [Go: Context and Cancellation by Propagation - A Journey With Go - Medium](https://medium.com/a-journey-with-go/go-context-and-cancellation-by-propagation-7a808bbc889c)
+* [How to correctly use context.Context in Go 1.7 - Jack Lindamood - Medium](https://medium.com/@cep21/how-to-correctly-use-context-context-in-go-1-7-8f2c0fafdf39)
+* 
 
 ### Sample CLI projects
 
@@ -80,5 +82,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTA0NzExMjQsMTE2MTg4NjI3Nl19
+eyJoaXN0b3J5IjpbLTExNTM1ODE3NjksLTIwMTA0NzExMjQsMT
+E2MTg4NjI3Nl19
 -->
