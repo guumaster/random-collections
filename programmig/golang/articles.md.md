@@ -16,7 +16,7 @@
 * [Anatomy of Channels in Go - Concurrency in Go – Run Go – Medium](https://medium.com/rungo/anatomy-of-channels-in-go-concurrency-in-go-1ec336086adb)
 
 ### Sample CLI projects
--   [**kubectl**](https://github.com/kubernetes/kubectl)**:** Kubernetes’ CLI
+-   [**kubectl**](https://github.com/kubernetes/kubectl)**:** Kubernetes CLI
 -   [**minikube**](https://github.com/kubernetes/minikube): A tool for running Kubernetes locally
 -   [**helm**](https://github.com/helm/helm): A Kubernetes package manager
 -   [**kops**](https://github.com/kubernetes/kops)**:**  A tool for managing production Kubernetes
@@ -71,5 +71,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDczMTc0MjBdfQ==
+eyJoaXN0b3J5IjpbLTMxNzA5ODc4M119
 -->
