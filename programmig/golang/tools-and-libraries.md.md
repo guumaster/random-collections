@@ -12,7 +12,7 @@
 ### CLI
 * [uitable: terminal tabular data](https://github.com/gosuri/uitable)
 * [urfave/cli command line apps](https://github.com/urfave/cli)
-* [AlecAivazis/survey: A golang library for building interactive prompts with full support for windows and posix terminals.](https://github.com/AlecAivazis/survey)
+* [survey: interactive prompts](https://github.com/AlecAivazis/survey)
 
 
 ### NATS
@@ -35,5 +35,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODU3NTEzMl19
+eyJoaXN0b3J5IjpbLTExODMxOTU2M119
 -->
