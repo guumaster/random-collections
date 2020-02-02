@@ -15,12 +15,13 @@
 * [kubectl-aliases - GitHub](https://github.com/ahmetb/kubectl-aliases)
 
 
+
 ## Browser Sessions
 
 ### Kubernetes Metrics Scrapper (2020-01)
 
-* [dashboard/08_scraper-deployment.yaml @ kubernetes/dashboard](https://github.com/kubernetes/dashboard/blob/da7620171ed9a24699c19709f40925b4308e89b5/aio/deploy/alternative/08_scraper-deployment.yaml)
-* [dashboard-metrics-scraper/api.go @ dashboard-metrics-scraper](https://github.com/kubernetes-sigs/dashboard-metrics-scraper/blob/master/pkg/api/api.go)
+* [dashboard/scraper-deployment @ kubernetes/dashboard](https://github.com/kubernetes/dashboard/blob/da7620171ed9a24699c19709f40925b4308e89b5/aio/deploy/alternative/08_scraper-deployment.yaml)
+* [dashboard-metrics-scraper @ dashboard-metrics-scraper](https://github.com/kubernetes-sigs/dashboard-metrics-scraper/blob/master/pkg/api/api.go)
 
 
 ### Kubernetes Informers (2020-01)
@@ -34,5 +35,5 @@
 * [Kubernetes: cmd/kube-proxy | Fossies](https://fossies.org/linux/kubernetes/cmd/kube-proxy/app/server.go)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODIzMzY2NDYsNTc0ODMzNzcyXX0=
+eyJoaXN0b3J5IjpbLTI3NDczMTI4NSw1NzQ4MzM3NzJdfQ==
 -->
