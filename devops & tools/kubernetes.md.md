@@ -12,7 +12,7 @@
 
 
 ## Tools
-* [GitHub - ahmetb/kubectl-aliases: Programmatically generated handy kubectl aliases.](https://github.com/ahmetb/kubectl-aliases)
+* [kubectl-aliases - GitHub](https://github.com/ahmetb/kubectl-aliases)
 
 
 ## Kubernetes Informers (2020-01)
@@ -26,5 +26,5 @@
 * [Kubernetes: cmd/kube-proxy | Fossies](https://fossies.org/linux/kubernetes/cmd/kube-proxy/app/server.go)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0ODMzNzcyXX0=
+eyJoaXN0b3J5IjpbLTIxMTM0NjkwNTksNTc0ODMzNzcyXX0=
 -->
