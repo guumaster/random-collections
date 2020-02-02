@@ -7,27 +7,8 @@
 
 ### The picks
 
-![img](http://tclhost.com/PAvfpwu.gif)
-
-![img](http://tclhost.com/wWhMSul.gif)
-
-![img](http://tclhost.com/Q9D8128.gif)
-
-![img](http://tclhost.com/peaNwEc.gif)
-
-![img](http://tclhost.com/CG6sqvv.gif)
-
 ![img](http://www.topito.com/wp-content/uploads/2013/01/code-29.gif)
 
-![img](http://tclhost.com/oi6TkKC.gif)
-
-![img](http://tclhost.com/PHtlKGW.gif)
-
-![img](http://tclhost.com/RP8HBQ5.gif)
-
-![img](http://tclhost.com/S5AjmAj.gif)
-
-![img](http://tclhost.com/Erz9X48.gif)
 
 ![img](http://www.topito.com/wp-content/uploads/2013/01/code-35.gif)
 
@@ -98,3 +79,6 @@
 ![img](http://tclhost.com/ENlkQ1k.gif)
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTcxNDQ5OTk2MF19
+-->
