@@ -6,12 +6,6 @@
 
 * [A viewport library](http://asvd.github.io/viewport/)
 
-
-## My random FP tests on jsbin (change editor to ES6)
-
-* [currying & composition](http://jsbin.com/yogeku/edit?js,console)
-* [recursion & str manipulation](http://jsbin.com/laxite/19/edit?js,console)
-
 # Tools
 
 * [Fake JSON server](http://jsonplaceholder.typicode.com/)
@@ -29,3 +23,6 @@
 * [Why to use PostCSS](http://ai.github.io/about-postcss/en/)
 * [PostCSS complete guide](http://webdesign.tutsplus.com/categories/postcss)
 * [BEM (block, element, modifier)](http://getbem.com/introduction/)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTk4MDEzODc1Ml19
+-->
