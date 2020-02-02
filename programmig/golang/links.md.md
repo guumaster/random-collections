@@ -25,16 +25,12 @@
 * [logrus: Structured logging in Go](https://github.com/Sirupsen/logrus)
 
 
-### Examples
-
-* [Merge CSV Files Using Golang Channels](https://danrl.com/blog/2018/merging-huuuge-csv-files-using-golang-channels/)
-
-
-
-
-
 
 ## Articles
+
+### CSV
+
+* [Merge CSV Files Using Golang Channels](https://danrl.com/blog/2018/merging-huuuge-csv-files-using-golang-channels/)
 
 ### Nats
 
@@ -84,6 +80,7 @@
 * [Chapter 8: Concurrency | Go Bootcamp | Softcover.io](http://www.golangbootcamp.com/book/concurrency)
 * [alco/gostart: A getting started guide for Go newcomers](https://github.com/alco/gostart)
 
+
 ## Complain articles
 
 * [More Adventures in the Land of Go](http://pinchito.es/2018/more-golang-adventures.html)
@@ -97,6 +94,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzU5NzQyMTksLTE0NjE2ODc1NDhdfQ
-==
+eyJoaXN0b3J5IjpbMTM0NDY1NDA2MiwtMTQ2MTY4NzU0OF19
 -->
