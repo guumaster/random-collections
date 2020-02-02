@@ -1,14 +1,18 @@
 # Random programming stuff
 
+
+## Algorithms
 * [Sorting algorithms visually explained](http://www.sorting-algorithms.com/)
+
+
+## Tools
+* [Fake JSON server](http://jsonplaceholder.typicode.com/)
+
+
+## UI Libs
+* [Split panes](https://github.com/nathancahill/Split.js)
 * [A viewport library](http://asvd.github.io/viewport/)
 
-# Tools
-
-* [Fake JSON server](http://jsonplaceholder.typicode.com/)
-* [Split panes](https://github.com/nathancahill/Split.js)
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MzE2MDYzM119
+eyJoaXN0b3J5IjpbLTExMTMwMDcxNzZdfQ==
 -->
