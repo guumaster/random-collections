@@ -11,9 +11,9 @@
 
 ### CLI
 * [uitable: terminal tabular data](https://github.com/gosuri/uitable)
-* [urfave/cli command line apps](https://github.com/urfave/cli)
+* [cli: command line apps](https://github.com/urfave/cli)
 * [survey: interactive prompts](https://github.com/AlecAivazis/survey)
-
+* [color: terminal output with color](https://github.com/fatih/color)
 
 ### NATS
 
@@ -35,5 +35,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODMxOTU2M119
+eyJoaXN0b3J5IjpbLTE5MDA2MzE0MTEsLTExODMxOTU2M119
 -->
