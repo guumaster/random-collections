@@ -14,6 +14,14 @@
 * [Github mongo-go-driver/examples.go](https://github.com/mongodb/mongo-go-driver/blob/master/examples/documentation_examples/examples.go)
 
 
+
+## NATS & Go
+
+* [nats-io/go-nats-streaming: NATS Streaming System](https://github.com/nats-io/go-nats-streaming)
+* [Building Distributed Systems and Microservices in Go with NATS Streaming](https://medium.com/@shijuvar/building-distributed-systems-and-microservices-in-go-with-nats-streaming-d8b4baa633a2)
+* [Communication using NATS Streaming and Go - My Code Smells!](https://mycodesmells.com/post/communication-using-nats-streaming-and-go)
+
+
 ## Postgres in Go
 
 * [How to use PostgreSQL · Build web application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/en/05.4.html)
@@ -68,5 +76,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjgyOTg2Nl19
+eyJoaXN0b3J5IjpbNjQwMDg3ODIzLC02MTY4Mjk4NjZdfQ==
 -->
