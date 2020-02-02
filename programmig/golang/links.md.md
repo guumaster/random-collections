@@ -43,6 +43,7 @@
 * [Concurrency Patterns: Golang – Thejas Babu – Medium](https://medium.com/@thejasbabu/concurrency-patterns-golang-5c5e1bcd0833)
 * [Anatomy of Channels in Go - Concurrency in Go – Run Go – Medium](https://medium.com/rungo/anatomy-of-channels-in-go-concurrency-in-go-1ec336086adb)
 
+
 ## Tutorials & Videos
 
 * [Golang tutorial](https://golangbot.com/learn-golang-series/)
@@ -74,5 +75,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MjU0ODAxMF19
+eyJoaXN0b3J5IjpbLTE0NjE2ODc1NDhdfQ==
 -->
