@@ -9,6 +9,7 @@
 
 ## Tutorials
 * [Kubernetes By Example](http://kubernetesbyexample.com/)
+* [Using Kubernetes for Local Development](https://nemethgergely.com/using-kubernetes-for-local-development/)
 
 
 ## Tools
@@ -35,5 +36,5 @@
 * [Kubernetes: cmd/kube-proxy | Fossies](https://fossies.org/linux/kubernetes/cmd/kube-proxy/app/server.go)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NDczMTI4NSw1NzQ4MzM3NzJdfQ==
+eyJoaXN0b3J5IjpbLTUyMTgzNzM1MCw1NzQ4MzM3NzJdfQ==
 -->
