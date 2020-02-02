@@ -10,18 +10,21 @@
 * [Singleton Pattern in Go · marcio.io](http://marcio.io/2015/07/singleton-pattern-in-go/)
 
 
-### Concurrency
-
-* [Concurrency Patterns: Golang – Thejas Babu – Medium](https://medium.com/@thejasbabu/concurrency-patterns-golang-5c5e1bcd0833)
-* [Anatomy of Channels in Go - Concurrency in Go – Run Go – Medium](https://medium.com/rungo/anatomy-of-channels-in-go-concurrency-in-go-1ec336086adb)
-
 ### Sample CLI projects
+
 -   [**kubectl**](https://github.com/kubernetes/kubectl)**:** Kubernetes CLI
 -   [**minikube**](https://github.com/kubernetes/minikube): A tool for running Kubernetes locally
 -   [**helm**](https://github.com/helm/helm): A Kubernetes package manager
 -   [**kops**](https://github.com/kubernetes/kops)**:**  A tool for managing production Kubernetes
 -   [**eksctl**](https://github.com/weaveworks/eksctl): The official CLI for Amazon EKS
-- 
+
+
+### Concurrency
+
+* [Concurrency Patterns: Golang – Thejas Babu – Medium](https://medium.com/@thejasbabu/concurrency-patterns-golang-5c5e1bcd0833)
+* [Anatomy of Channels in Go - Concurrency in Go – Run Go – Medium](https://medium.com/rungo/anatomy-of-channels-in-go-concurrency-in-go-1ec336086adb)
+
+
 ### CSV
 
 * [Merge CSV Files Using Golang Channels](https://danrl.com/blog/2018/merging-huuuge-csv-files-using-golang-channels/)
@@ -71,5 +74,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNzA5ODc4M119
+eyJoaXN0b3J5IjpbMTE2MTg4NjI3Nl19
 -->
