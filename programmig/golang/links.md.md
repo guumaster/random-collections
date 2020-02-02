@@ -15,36 +15,42 @@
 
 * [nats-io/go-nats-streaming: NATS Streaming System](https://github.com/nats-io/go-nats-streaming)
 
+### Postgres
+* [jmoiron/sqlx: general purpose extensions to golang's database/sql](https://github.com/jmoiron/sqlx)
+
 
 
 ## Articles
 
+### Nats
+
 * [Building Distributed Systems and Microservices in Go with NATS Streaming](https://medium.com/@shijuvar/building-distributed-systems-and-microservices-in-go-with-nats-streaming-d8b4baa633a2)
 * [Communication using NATS Streaming and Go - My Code Smells!](https://mycodesmells.com/post/communication-using-nats-streaming-and-go)
+
+### Protobuf
+
+* [Protocol Buffer Basics: Go |  Google Developers](https://developers.google.com/protocol-buffers/docs/gotutorial)
+* [Go Protocol Buffer Tutorial | TutorialEdge.net](https://tutorialedge.net/golang/go-protocol-buffer-tutorial/)
+
+### Postgres in Go
+
+* [How to use PostgreSQL · Build web application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/en/05.4.html)
+* [Illustrated Guide to SQLX](http://jmoiron.github.io/sqlx/)
+* [Querying for a single record using Go's database/sql package - Calhoun.io](https://www.calhoun.io/querying-for-a-single-record-using-gos-database-sql-package/)
+* [Golang and Json in Postgres](https://sitaramshelke.me/golang-postgres-json.html)
+* [Practical Persistence in Go: SQL Databases - Alex Edwards](https://www.alexedwards.net/blog/practical-persistence-sql)
+
+
+
+
 
 
 ## IDE
 
 * [Setup Go Development Environment with Visual Studio Code](https://rominirani.com/setup-go-development-environment-with-visual-studio-code-7ea5d643a51a)
 
-### Protobuf
-
-#### Tutorials
-* [Protocol Buffer Basics: Go |  Google Developers](https://developers.google.com/protocol-buffers/docs/gotutorial)
-* [Go Protocol Buffer Tutorial | TutorialEdge.net](https://tutorialedge.net/golang/go-protocol-buffer-tutorial/)
 
 
-
-
-
-## Postgres in Go
-
-* [How to use PostgreSQL · Build web application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/en/05.4.html)
-* [Illustrated Guide to SQLX](http://jmoiron.github.io/sqlx/)
-* [Querying for a single record using Go's database/sql package - Calhoun.io](https://www.calhoun.io/querying-for-a-single-record-using-gos-database-sql-package/)
-* [Golang and Json in Postgres](https://sitaramshelke.me/golang-postgres-json.html)
-* [jmoiron/sqlx: general purpose extensions to golang's database/sql](https://github.com/jmoiron/sqlx)
-* [Practical Persistence in Go: SQL Databases - Alex Edwards](https://www.alexedwards.net/blog/practical-persistence-sql)
 
 
 
@@ -92,6 +98,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODY5NzQ5MjksLTE0NjE2ODc1NDhdfQ
+eyJoaXN0b3J5IjpbLTEzODAwMTA1MjAsLTE0NjE2ODc1NDhdfQ
 ==
 -->
