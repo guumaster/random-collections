@@ -22,9 +22,9 @@
 * [Dynamic Kubernetes Informers | FireHydrant](uri=https://www.firehydrant.io/blog/dynamic-kubernetes-informers/)
 * [blog-dynamic-informers/main.go at master · firehydrant/blog-dynamic-informers](https://github.com/firehydrant/blog-dynamic-informers/blob/master/main.go)
 * [What's the best way to get notified when kubernetes Deployments change using the k8s.io/client-go library? - Stack Overflow](https://stackoverflow.com/questions/53200785/whats-the-best-way-to-get-notified-when-kubernetes-deployments-change-using-the)
-* [Watch for resources in all namespaces. (1140313d) · Commits · uplex-varnish / k8s-ingress · GitLab](https://code.uplex.de/uplex-varnish/k8s-ingress/commit/1140313d7b1a63d49fb4d1f466dda92f82478fe0)
-* [Kubernetes: cmd/kube-proxy/app/server.go | Fossies](https://fossies.org/linux/kubernetes/cmd/kube-proxy/app/server.go)
+* [Watch for resources in all namespaces / k8s-ingress · GitLab](https://code.uplex.de/uplex-varnish/k8s-ingress/commit/1140313d7b1a63d49fb4d1f466dda92f82478fe0)
+* [Kubernetes: cmd/kube-proxy | Fossies](https://fossies.org/linux/kubernetes/cmd/kube-proxy/app/server.go)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjIyMTEyMTZdfQ==
+eyJoaXN0b3J5IjpbLTE5NDgyMTQwMl19
 -->
