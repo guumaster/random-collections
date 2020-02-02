@@ -3,10 +3,11 @@
 
 * [emitter pub/sub](https://github.com/emitter-io/emitter) alternative to NATS
 * [teeproxy: multiply requests](https://github.com/chrislusf/teeproxy)
-* [benmanns/goworker: goworker is a Go-based background worker that runs 10 to 100,000* times faster than Ruby-based workers.](https://github.com/benmanns/goworker)
-* [slug: URL-friendly slugify with multiple languages support.](https://github.com/gosimple/slug)
-* [systray: a cross platfrom Go library to place an icon and menu in the notification area](https://github.com/getlantern/systray)
-* [gjson: Get JSON values quickly - JSON parser for Go](https://github.com/tidwall/gjson)
+* [benmanns/goworker](https://github.com/benmanns/goworker)
+* [slug: URL-friendly](https://github.com/gosimple/slug)
+* [systray: a cross platfrom icon and menu in the notification area](https://github.com/getlantern/systray)
+* [gjson: JSON parser for Go](https://github.com/tidwall/gjson)
+* [uitable: terminal tabular data](https://github.com/gosuri/uitable)
 
 
 ### NATS
@@ -29,5 +30,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMjE3MTg3XX0=
+eyJoaXN0b3J5IjpbLTg3NDg3MzYxXX0=
 -->
