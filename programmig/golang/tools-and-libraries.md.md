@@ -16,13 +16,18 @@
 ### Postgres
 * [jmoiron/sqlx: general purpose extensions to golang's database/sql](https://github.com/jmoiron/sqlx)
 
+
 ### CSV
 * [csvtk/freq.go at master · shenwei356/csvtk](https://github.com/shenwei356/csvtk/blob/master/csvtk/cmd/freq.go)
 
+
 ### Logging
 * [logrus: Structured logging in Go](https://github.com/Sirupsen/logrus)
+* [eris: eris provides a better way to handle, trace, and log errors in Go 🎆](https://github.com/rotisserie/eris)
+* [zerolog](https://github.com/rs/zerolog)
+* [zap](https://github.com/uber-go/zap)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzQyNDYwMV19
+eyJoaXN0b3J5IjpbMTYwMjgyMDIyNl19
 -->
