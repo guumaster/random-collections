@@ -1,3 +1,11 @@
+# Golang
+
+
+### Code examples
+
+* [generating-good-unique-ids-in-go](https://blog.kowalczyk.info/article/JyRZ/generating-good-unique-ids-in-go.html)
+
+
 ## IDE
 
 * [Setup Go Development Environment with Visual Studio Code](https://rominirani.com/setup-go-development-environment-with-visual-studio-code-7ea5d643a51a)
@@ -7,12 +15,6 @@
 #### Tutorials
 * [Protocol Buffer Basics: Go |  Google Developers](https://developers.google.com/protocol-buffers/docs/gotutorial)
 * [Go Protocol Buffer Tutorial | TutorialEdge.net](https://tutorialedge.net/golang/go-protocol-buffer-tutorial/)
-
-
-#### Examples
-* [mongodb/mongo-go-driver: The Go driver for MongoDB](https://github.com/mongodb/mongo-go-driver/#usage)
-* [Github mongo-go-driver/examples.go](https://github.com/mongodb/mongo-go-driver/blob/master/examples/documentation_examples/examples.go)
-
 
 
 ## NATS & Go
@@ -76,5 +78,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwMDg3ODIzXX0=
+eyJoaXN0b3J5IjpbMjAwNTMyMzUzNV19
 -->
