@@ -18,6 +18,20 @@
 ### Postgres
 * [jmoiron/sqlx: general purpose extensions to golang's database/sql](https://github.com/jmoiron/sqlx)
 
+### CSV
+* [csvtk/freq.go at master · shenwei356/csvtk](https://github.com/shenwei356/csvtk/blob/master/csvtk/cmd/freq.go)
+
+### Logging
+* [logrus: Structured logging in Go](https://github.com/Sirupsen/logrus)
+
+
+### Examples
+
+* [Merge CSV Files Using Golang Channels](https://danrl.com/blog/2018/merging-huuuge-csv-files-using-golang-channels/)
+
+
+
+
 
 
 ## Articles
@@ -27,10 +41,12 @@
 * [Building Distributed Systems and Microservices in Go with NATS Streaming](https://medium.com/@shijuvar/building-distributed-systems-and-microservices-in-go-with-nats-streaming-d8b4baa633a2)
 * [Communication using NATS Streaming and Go - My Code Smells!](https://mycodesmells.com/post/communication-using-nats-streaming-and-go)
 
+
 ### Protobuf
 
 * [Protocol Buffer Basics: Go |  Google Developers](https://developers.google.com/protocol-buffers/docs/gotutorial)
 * [Go Protocol Buffer Tutorial | TutorialEdge.net](https://tutorialedge.net/golang/go-protocol-buffer-tutorial/)
+
 
 ### Postgres in Go
 
@@ -39,15 +55,6 @@
 * [Querying for a single record using Go's database/sql package - Calhoun.io](https://www.calhoun.io/querying-for-a-single-record-using-gos-database-sql-package/)
 * [Golang and Json in Postgres](https://sitaramshelke.me/golang-postgres-json.html)
 * [Practical Persistence in Go: SQL Databases - Alex Edwards](https://www.alexedwards.net/blog/practical-persistence-sql)
-
-
-
-
-
-
-## IDE
-
-* [Setup Go Development Environment with Visual Studio Code](https://rominirani.com/setup-go-development-environment-with-visual-studio-code-7ea5d643a51a)
 
 
 
@@ -67,6 +74,7 @@
 * [Anatomy of Channels in Go - Concurrency in Go – Run Go – Medium](https://medium.com/rungo/anatomy-of-channels-in-go-concurrency-in-go-1ec336086adb)
 
 
+
 ## Tutorials & Videos
 
 * [Golang tutorial](https://golangbot.com/learn-golang-series/)
@@ -81,23 +89,14 @@
 * [More Adventures in the Land of Go](http://pinchito.es/2018/more-golang-adventures.html)
 * [Adventures in the Land of Go](http://pinchito.es/2016/golang-adventures.html)
 * [Ten Reasons Why I Don't Like Golang](https://www.teamten.com/lawrence/writings/why-i-dont-like-go.html)
-* 
-
-## Examples
-
-* [Merge CSV Files Using Golang Channels](https://danrl.com/blog/2018/merging-huuuge-csv-files-using-golang-channels/)
 
 
-## Tools
-* [csvtk/freq.go at master · shenwei356/csvtk](https://github.com/shenwei356/csvtk/blob/master/csvtk/cmd/freq.go)
+## IDE
 
-
-### Logging
-* [logrus: Structured logging in Go](https://github.com/Sirupsen/logrus)
-
+* [Setup Go Development Environment with Visual Studio Code](https://rominirani.com/setup-go-development-environment-with-visual-studio-code-7ea5d643a51a)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODAwMTA1MjAsLTE0NjE2ODc1NDhdfQ
+eyJoaXN0b3J5IjpbLTIxMzU5NzQyMTksLTE0NjE2ODc1NDhdfQ
 ==
 -->
