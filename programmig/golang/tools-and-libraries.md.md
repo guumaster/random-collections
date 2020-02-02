@@ -22,12 +22,12 @@
 
 
 ### Logging
-* [logrus: Structured logging in Go](https://github.com/Sirupsen/logrus)
+* [logrus](https://github.com/Sirupsen/logrus)
 * [eris](https://github.com/rotisserie/eris)
 * [zerolog](https://github.com/rs/zerolog)
 * [zap](https://github.com/uber-go/zap)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NzczOTMwXX0=
+eyJoaXN0b3J5IjpbMTEwMjE3MTg3XX0=
 -->
