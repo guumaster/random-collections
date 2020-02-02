@@ -16,7 +16,6 @@
 * [Anatomy of Channels in Go - Concurrency in Go – Run Go – Medium](https://medium.com/rungo/anatomy-of-channels-in-go-concurrency-in-go-1ec336086adb)
 
 
-
 ### CSV
 
 * [Merge CSV Files Using Golang Channels](https://danrl.com/blog/2018/merging-huuuge-csv-files-using-golang-channels/)
@@ -66,5 +65,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzE2MTYxOF19
+eyJoaXN0b3J5IjpbLTE4NzkwODE3MDBdfQ==
 -->
