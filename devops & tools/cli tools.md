@@ -1,5 +1,4 @@
 
-
 ### CSV utils
 
 * [**xsv**: A fast CSV command line toolkit written in Rust](https://github.com/BurntSushi/xsv)
@@ -14,5 +13,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwOTAwNTc1XX0=
+eyJoaXN0b3J5IjpbMjc4NTkwMjg1XX0=
 -->
