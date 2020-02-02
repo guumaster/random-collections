@@ -1,7 +1,15 @@
 # Golang
 
-
 ## Articles
+* [generating-good-unique-ids-in-go](https://blog.kowalczyk.info/article/JyRZ/generating-good-unique-ids-in-go.html)
+* [Effective Go - The Go Programming Language](https://golang.org/doc/effective_go.html#names)
+* [Faster builds in Docker with Go 1.11 - Container Solutions](https://container-solutions.com/faster-builds-in-docker-with-go-1-11/)
+* [Introducing NATS to Go Developers – Shiju Varghese – Medium](https://medium.com/@shijuvar/introducing-nats-to-go-developers-3cfcb98c21d0)
+* [golang-using-context-cancellation](https://www.sohamkamani.com/blog/golang/2018-06-17-golang-using-context-cancellation/)
+* [Singleton Pattern in Go · marcio.io](http://marcio.io/2015/07/singleton-pattern-in-go/)
+* [Concurrency Patterns: Golang – Thejas Babu – Medium](https://medium.com/@thejasbabu/concurrency-patterns-golang-5c5e1bcd0833)
+* [Anatomy of Channels in Go - Concurrency in Go – Run Go – Medium](https://medium.com/rungo/anatomy-of-channels-in-go-concurrency-in-go-1ec336086adb)
+
 
 ### CSV
 
@@ -30,18 +38,6 @@
 
 
 
-## Articles
-* [generating-good-unique-ids-in-go](https://blog.kowalczyk.info/article/JyRZ/generating-good-unique-ids-in-go.html)
-* [Effective Go - The Go Programming Language](https://golang.org/doc/effective_go.html#names)
-* [Faster builds in Docker with Go 1.11 - Container Solutions](https://container-solutions.com/faster-builds-in-docker-with-go-1-11/)
-* [Introducing NATS to Go Developers – Shiju Varghese – Medium](https://medium.com/@shijuvar/introducing-nats-to-go-developers-3cfcb98c21d0)
-* [https://www.sohamkamani.com/blog/golang/2018-06-17-golang-using-context-cancellation/](https://www.sohamkamani.com/blog/golang/2018-06-17-golang-using-context-cancellation/)
-* [Singleton Pattern in Go · marcio.io](http://marcio.io/2015/07/singleton-pattern-in-go/)
-* [Concurrency Patterns: Golang – Thejas Babu – Medium](https://medium.com/@thejasbabu/concurrency-patterns-golang-5c5e1bcd0833)
-* [Anatomy of Channels in Go - Concurrency in Go – Run Go – Medium](https://medium.com/rungo/anatomy-of-channels-in-go-concurrency-in-go-1ec336086adb)
-
-
-
 ## Tutorials & Videos
 
 * [Golang tutorial](https://golangbot.com/learn-golang-series/)
@@ -66,5 +62,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAwMDYyMjU3LC0xNDYxNjg3NTQ4XX0=
+eyJoaXN0b3J5IjpbODk0MjU1ODMwLC0xNDYxNjg3NTQ4XX0=
 -->
