@@ -1,13 +1,19 @@
 
 ## Libraries
 
+### Unsorted
+
 * [emitter pub/sub](https://github.com/emitter-io/emitter) alternative to NATS
 * [teeproxy: multiply requests](https://github.com/chrislusf/teeproxy)
 * [benmanns/goworker](https://github.com/benmanns/goworker)
 * [slug: URL-friendly](https://github.com/gosimple/slug)
 * [systray: a cross platfrom icon and menu in the notification area](https://github.com/getlantern/systray)
 * [gjson: JSON parser for Go](https://github.com/tidwall/gjson)
-* [emoji: emoji terminal output](https://github.com/kyokomi/emoji)
+
+
+### Collections
+* [ awesome Go software](https://oxozle.com/awetop/avelino-awesome-go/)
+
 
 ### CLI
 * [uitable: terminal tabular data](https://github.com/gosuri/uitable)
@@ -15,6 +21,7 @@
 * [survey: interactive prompts](https://github.com/AlecAivazis/survey)
 * [color: terminal output with color](https://github.com/fatih/color)
 * [go-prompt: interactive prompts](https://github.com/c-bata/go-prompt)
+* [emoji: emoji terminal output](https://github.com/kyokomi/emoji)
 
 
 ### NATS
@@ -37,5 +44,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2MDQxNTc0LC0xMTgzMTk1NjNdfQ==
+eyJoaXN0b3J5IjpbMTE3MzYwMzc5OSwyMjYwNDE1NzQsLTExOD
+MxOTU2M119
 -->
