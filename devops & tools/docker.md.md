@@ -1,4 +1,11 @@
 
+
+## Containerization
+
+* [Docker/Node Best practices](https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md#cmd)
+* [dumb-init/README.md at master · Yelp/dumb-init](https://github.com/Yelp/dumb-init/blob/master/README.md)
+
+
 ## Articles & Tutorials
 
 * [Dockerize a node app](https://nodesource.com/blog/dockerizing-your-nodejs-applications)
@@ -21,5 +28,5 @@ DOCKER_OPTS="-g /path/to/docker/data"
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzOTU4MTAzXX0=
+eyJoaXN0b3J5IjpbLTIwODE0MjM3NzRdfQ==
 -->
