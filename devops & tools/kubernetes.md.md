@@ -15,7 +15,15 @@
 * [kubectl-aliases - GitHub](https://github.com/ahmetb/kubectl-aliases)
 
 
-## Kubernetes Informers (2020-01)
+## Browser Sessions
+
+### Kubernetes Metrics Scrapper (2020-01)
+
+* [dashboard/08_scraper-deployment.yaml @ kubernetes/dashboard](https://github.com/kubernetes/dashboard/blob/da7620171ed9a24699c19709f40925b4308e89b5/aio/deploy/alternative/08_scraper-deployment.yaml)
+* [dashboard-metrics-scraper/api.go @ dashboard-metrics-scraper](https://github.com/kubernetes-sigs/dashboard-metrics-scraper/blob/master/pkg/api/api.go)
+
+
+### Kubernetes Informers (2020-01)
 
 * [Watch events on a kubernetes service using its go client - Stack Overflow](https://stackoverflow.com/questions/40975307/how-to-watch-events-on-a-kubernetes-service-using-its-go-client)
 * [Write your own kubernetes controller with informers](https://medium.com/@muhammet.arslan/write-your-own-kubernetes-controller-with-informers-9920e8ab6f84)
@@ -26,5 +34,5 @@
 * [Kubernetes: cmd/kube-proxy | Fossies](https://fossies.org/linux/kubernetes/cmd/kube-proxy/app/server.go)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTM0NjkwNTksNTc0ODMzNzcyXX0=
+eyJoaXN0b3J5IjpbLTExODIzMzY2NDYsNTc0ODMzNzcyXX0=
 -->
