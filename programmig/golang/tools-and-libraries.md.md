@@ -7,7 +7,12 @@
 * [slug: URL-friendly](https://github.com/gosimple/slug)
 * [systray: a cross platfrom icon and menu in the notification area](https://github.com/getlantern/systray)
 * [gjson: JSON parser for Go](https://github.com/tidwall/gjson)
+* [emoji: emoji terminal output](https://github.com/kyokomi/emoji)
+
+### CLI
 * [uitable: terminal tabular data](https://github.com/gosuri/uitable)
+* [urfave/cli command line apps](https://github.com/urfave/cli)
+* [AlecAivazis/survey: A golang library for building interactive prompts with full support for windows and posix terminals.](https://github.com/AlecAivazis/survey)
 
 
 ### NATS
@@ -30,5 +35,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDg3MzYxXX0=
+eyJoaXN0b3J5IjpbLTQyODU3NTEzMl19
 -->
