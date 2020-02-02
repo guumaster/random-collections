@@ -3,6 +3,7 @@
 
 * [All – Tiny Helpers](https://tiny-helpers.dev/) A collection of lots of simple online tools.
 * [Awesome Frontend collection](https://awesomejs.dev/)
+* * [explainshell.com - show help text with visual help](https://explainshell.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMDE2ODIzMF19
+eyJoaXN0b3J5IjpbLTE4OTgyNTA1NTRdfQ==
 -->
