@@ -14,6 +14,8 @@
 * [cli: command line apps](https://github.com/urfave/cli)
 * [survey: interactive prompts](https://github.com/AlecAivazis/survey)
 * [color: terminal output with color](https://github.com/fatih/color)
+* [go-prompt: interactive prompts](https://github.com/c-bata/go-prompt)
+
 
 ### NATS
 
@@ -35,5 +37,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDA2MzE0MTEsLTExODMxOTU2M119
+eyJoaXN0b3J5IjpbMjI2MDQxNTc0LC0xMTgzMTk1NjNdfQ==
 -->
