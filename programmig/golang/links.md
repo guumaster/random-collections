@@ -3,6 +3,17 @@
 * [Setup Go Development Environment with Visual Studio Code](https://rominirani.com/setup-go-development-environment-with-visual-studio-code-7ea5d643a51a)
 
 
+## Postgres in Go
+
+* [How to use PostgreSQL · Build web application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/en/05.4.html)
+* [Illustrated Guide to SQLX](http://jmoiron.github.io/sqlx/)
+* [Querying for a single record using Go's database/sql package - Calhoun.io](https://www.calhoun.io/querying-for-a-single-record-using-gos-database-sql-package/)
+* [Golang and Json in Postgres](https://sitaramshelke.me/golang-postgres-json.html)
+* [jmoiron/sqlx: general purpose extensions to golang's database/sql](https://github.com/jmoiron/sqlx)
+* [Practical Persistence in Go: SQL Databases - Alex Edwards](https://www.alexedwards.net/blog/practical-persistence-sql)
+
+
+
 ## Articles
 
 * [Effective Go - The Go Programming Language](https://golang.org/doc/effective_go.html#names)
@@ -46,5 +57,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NjkzNzY5OF19
+eyJoaXN0b3J5IjpbLTE4NTkyOTI2NjBdfQ==
 -->
