@@ -3,11 +3,17 @@
 ## Articles
 
 * [generating-good-unique-ids-in-go](https://blog.kowalczyk.info/article/JyRZ/generating-good-unique-ids-in-go.html)
-* [Effective Go - The Go Programming Language](https://golang.org/doc/effective_go.html#names)
 * [Faster builds in Docker with Go 1.11 - Container Solutions](https://container-solutions.com/faster-builds-in-docker-with-go-1-11/)
 * [Introducing NATS to Go Developers – Shiju Varghese – Medium](https://medium.com/@shijuvar/introducing-nats-to-go-developers-3cfcb98c21d0)
-* [golang-using-context-cancellation](https://www.sohamkamani.com/blog/golang/2018-06-17-golang-using-context-cancellation/)
 * [Singleton Pattern in Go · marcio.io](http://marcio.io/2015/07/singleton-pattern-in-go/)
+
+
+### Context 
+* [Go Concurrency Patterns: Pipelines and cancellation - The Go Blog](https://blog.golang.org/pipelines)
+* [Go Concurrency Patterns: Context - The Go Blog](https://blog.golang.org/context)
+* [A Beginners Guide to Context - Golang UK Conference](https://www.gophercon.co.uk/archive/2017/videos/2016/a-beginners-guide-to-context/)
+* [Understanding the context package in golang - Parikshit Agnihotry](http://p.agnihotry.com/post/understanding_the_context_package_in_golang/)
+* [golang-using-context-cancellation](https://www.sohamkamani.com/blog/golang/2018-06-17-golang-using-context-cancellation/)
 
 
 ### Sample CLI projects
@@ -74,5 +80,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTg4NjI3Nl19
+eyJoaXN0b3J5IjpbLTIwMTA0NzExMjQsMTE2MTg4NjI3Nl19
 -->
