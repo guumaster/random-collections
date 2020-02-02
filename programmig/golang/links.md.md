@@ -1,10 +1,6 @@
 # Golang
 
 
-### Code examples
-
-* [generating-good-unique-ids-in-go](https://blog.kowalczyk.info/article/JyRZ/generating-good-unique-ids-in-go.html)
-
 
 ## IDE
 
@@ -36,7 +32,7 @@
 
 
 ## Articles
-
+* [generating-good-unique-ids-in-go](https://blog.kowalczyk.info/article/JyRZ/generating-good-unique-ids-in-go.html)
 * [Effective Go - The Go Programming Language](https://golang.org/doc/effective_go.html#names)
 * [Faster builds in Docker with Go 1.11 - Container Solutions](https://container-solutions.com/faster-builds-in-docker-with-go-1-11/)
 * [Introducing NATS to Go Developers – Shiju Varghese – Medium](https://medium.com/@shijuvar/introducing-nats-to-go-developers-3cfcb98c21d0)
@@ -78,5 +74,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNTMyMzUzNV19
+eyJoaXN0b3J5IjpbLTY0MjU0ODAxMF19
 -->
