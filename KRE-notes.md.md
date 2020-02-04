@@ -3,7 +3,7 @@
 
 Before starting with UI, you need to know some basic concept that we defined in order to simplify all the underlying complexity. 
 
-We won't be digging deeper on the technical details and requirements on this presentation in order to focus on all the features of Konstellation. 
+We won't be going deeper on the technical details and requirements on this presentation in order to focus on all the features of Konstellation. 
 
 From the beginning we've designed our tool as a Cloud Native Application. So it was easy to pick Kubernetes as our foundation layer. This alone gives us lots of advantages out-of-the-box, cloud vendor agnostic, easy orchestration, distribution, monitoring, and lot more.
 
@@ -64,7 +64,8 @@ Once you choose a runtime, you see all it's version and the status of each one. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NzMyMTk3NCwxNTE2NTQyNDQ2LDQ3Mj
-kwMDM4OSwtMTQ1MDM4Nzc1NSwtNzE2Mzg1MTcsMTE4NTI0MTA0
-MCwtMTU0OTMyNTUyLC0yMDI3OTc1OTE3XX0=
+eyJoaXN0b3J5IjpbMTY5NDMzMDEwNSwxODk3MzIxOTc0LDE1MT
+Y1NDI0NDYsNDcyOTAwMzg5LC0xNDUwMzg3NzU1LC03MTYzODUx
+NywxMTg1MjQxMDQwLC0xNTQ5MzI1NTIsLTIwMjc5NzU5MTddfQ
+==
 -->
