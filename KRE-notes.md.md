@@ -31,8 +31,7 @@ A version is the sum of all the code and models that make your solution work. Th
 **KRT** 
 ¿And how do you create and put your version in a runtime? You need a KRT file. This is a package that contains a version. Same as saying it contains the code, the model and a definition file of your solution. This is the file that you can upload and would be handle by the engine and live inside a runtime.
 
-At this point the KRT file is generated manually, but in future versions this will be exported by a Data Scientist from the Konstellation Development Toolkit directly. 
-
+A side note. At this point the KRT file is generated manually, but in future versions this will be exported by a Data Scientist from the Konstellation Development Toolkit directly. 
 
 3.  GO TO ADMIN UI
 
@@ -44,8 +43,8 @@ Once you choose a runtime, you see all it's version and the status of each one. 
 
 - Explain status
 	- STOPPED: No resource is actually running (no resources in use)
-	- STARTED: All needed resources are running, but not accessible
-	- PUBLISHED: All is running AND accessible to consume.
+	- **STARTED**: All needed resources are running, but not accessible
+	- **PUBLISHED**: All is running AND accessible to consume.
 
 - Show it cannot be started until is configured
 	- This is important to separate code from the environment configuration.
@@ -64,9 +63,9 @@ Once you choose a runtime, you see all it's version and the status of each one. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODQxMTM3ODUsLTg0NTA2NTM3OCwtOD
-gyNDMyNTAzLC0xNzg5NTAwMzc5LC0xMDExODUzNDQxLC0yMDQx
-MDE3MTAzLDE2OTQzMzAxMDUsMTg5NzMyMTk3NCwxNTE2NTQyND
-Q2LDQ3MjkwMDM4OSwtMTQ1MDM4Nzc1NSwtNzE2Mzg1MTcsMTE4
-NTI0MTA0MCwtMTU0OTMyNTUyLC0yMDI3OTc1OTE3XX0=
+eyJoaXN0b3J5IjpbLTMxMjQ3ODE4NywtODQ1MDY1Mzc4LC04OD
+I0MzI1MDMsLTE3ODk1MDAzNzksLTEwMTE4NTM0NDEsLTIwNDEw
+MTcxMDMsMTY5NDMzMDEwNSwxODk3MzIxOTc0LDE1MTY1NDI0ND
+YsNDcyOTAwMzg5LC0xNDUwMzg3NzU1LC03MTYzODUxNywxMTg1
+MjQxMDQwLC0xNTQ5MzI1NTIsLTIwMjc5NzU5MTddfQ==
 -->
