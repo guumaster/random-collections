@@ -9,7 +9,7 @@ From the beginning we've designed our tool as a Cloud Native Application. So it 
 
 That is our starting point. And that is the main requirement. If you have a Kubernetes cluster and a user with the proper permissions, you are already capable to install and run all this right away, you just need to deploy it with a few commands, thanks to the helm chart that we provide. (helm is how you package Kubernetes apps).
 
-And of course, being a Kubernetes application, itmeans that you can use your local machine, a bare metal cluster or any cloud flavor of Kubernetes (Google, Amazon or Azure).
+And of course, being a Kubernetes application, it means that you can run it in your local machine, a bare metal cluster or any cloud flavor of Kubernetes (Google, Amazon or Azure).
 
 
 2.  Use case implementation (Gus)
@@ -65,6 +65,6 @@ Currently this file is generated manually, but in future versions this will be e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODg1MzU2MDYsLTE1NDkzMjU1MiwtMj
-AyNzk3NTkxN119
+eyJoaXN0b3J5IjpbMTE4NTI0MTA0MCwtMTU0OTMyNTUyLC0yMD
+I3OTc1OTE3XX0=
 -->
