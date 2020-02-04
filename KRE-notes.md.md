@@ -14,6 +14,10 @@ And of course, being a Kubernetes application, it means that you can run it in y
 
 2.  Use case implementation (Gus)
 
+
+That is our base layer. On top of that we 
+
+
 Starting from top to bottom we have the following abstractions:
 
 
@@ -65,6 +69,6 @@ Currently this file is generated manually, but in future versions this will be e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODgwMDk1NDQsMTE4NTI0MTA0MCwtMT
-U0OTMyNTUyLC0yMDI3OTc1OTE3XX0=
+eyJoaXN0b3J5IjpbLTYxNTkwMDQyMSwxMTg1MjQxMDQwLC0xNT
+Q5MzI1NTIsLTIwMjc5NzU5MTddfQ==
 -->
