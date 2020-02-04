@@ -14,8 +14,7 @@ And of course, being a Kubernetes application, it means that you can run it in y
 
 2.  Use case implementation (Gus)
 
-
-On top of that base layer we have defined a new one with our own abstractions, trying to simplify all even more.
+On top of that base layer we have defined a new one with our own abstractions, trying to cover complexity with simple concepts.
 
 Starting from top to bottom we have the following:
 
@@ -68,6 +67,6 @@ Currently this file is generated manually, but in future versions this will be e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDAzMTA0OSwxMTg1MjQxMDQwLC0xNT
-Q5MzI1NTIsLTIwMjc5NzU5MTddfQ==
+eyJoaXN0b3J5IjpbMjY4MDgyMDYwLDExODUyNDEwNDAsLTE1ND
+kzMjU1MiwtMjAyNzk3NTkxN119
 -->
