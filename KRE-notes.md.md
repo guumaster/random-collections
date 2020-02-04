@@ -14,8 +14,7 @@ Any Kubernetes means that you can use your local machine, a bare metal cluster o
 
 Before starting with UI, you need to know some basic concept that we define in order to simplify all the underlying complexity. 
 
-Starting from the outer side and going in, we have the following abstractions:
-
+Starting from top to bottom we have the following abstractions:
 
 
 - **Konstellation Runtime Engine:** 
@@ -64,5 +63,6 @@ Currently this file is generated manually, but in future versions this will be e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDkzMjU1MiwtMjAyNzk3NTkxN119
+eyJoaXN0b3J5IjpbMTM5MTAwNzIwLC0xNTQ5MzI1NTIsLTIwMj
+c5NzU5MTddfQ==
 -->
