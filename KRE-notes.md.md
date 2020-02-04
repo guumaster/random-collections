@@ -42,7 +42,7 @@ Here you have a view of all the runtimes, and you can create more.
 Once you choose a runtime, you see all it's version and the status of each one. Also add new ones. Let's upload one now.
 
 - Explain status
-	- STOPPED: No resource is actually running (no resources in use)
+	- **STOPPED**: No resource is actually running (no resources in use)
 	- **STARTED**: All needed resources are running, but not accessible
 	- **PUBLISHED**: All is running AND accessible to consume.
 
@@ -63,9 +63,9 @@ Once you choose a runtime, you see all it's version and the status of each one. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjQ3ODE4NywtODQ1MDY1Mzc4LC04OD
-I0MzI1MDMsLTE3ODk1MDAzNzksLTEwMTE4NTM0NDEsLTIwNDEw
-MTcxMDMsMTY5NDMzMDEwNSwxODk3MzIxOTc0LDE1MTY1NDI0ND
-YsNDcyOTAwMzg5LC0xNDUwMzg3NzU1LC03MTYzODUxNywxMTg1
-MjQxMDQwLC0xNTQ5MzI1NTIsLTIwMjc5NzU5MTddfQ==
+eyJoaXN0b3J5IjpbNzk0OTgxMDc3LC04NDUwNjUzNzgsLTg4Mj
+QzMjUwMywtMTc4OTUwMDM3OSwtMTAxMTg1MzQ0MSwtMjA0MTAx
+NzEwMywxNjk0MzMwMTA1LDE4OTczMjE5NzQsMTUxNjU0MjQ0Ni
+w0NzI5MDAzODksLTE0NTAzODc3NTUsLTcxNjM4NTE3LDExODUy
+NDEwNDAsLTE1NDkzMjU1MiwtMjAyNzk3NTkxN119
 -->
