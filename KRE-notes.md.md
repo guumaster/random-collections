@@ -17,18 +17,18 @@ And of course, being a Kubernetes application, it means that you can run it in y
 On top of that base layer we have defined a new one with our own abstractions, trying to cover complexity with simple concepts.
 
 
-- **Konstellation Runtime Engine:** 
+**Konstellation Runtime Engine** 
 	This is the central component that acts as an operation tool to create and manage all the resources associated with each solution that you would put in production. This includes an UI and a backend. It's created on installation.
 
-- **Runtime:**
-Is an environment that is isolated from all other runtimes and other resources. Its where you can put one or more solutions and will share some resources. our price estimation solution is going to run. 
+ **Runtime**
+Is an environment that is isolated from all other runtimes and other resources. Its where you can put one or more solutions and will share some resources. Here is where our price estimation solution is going to run. 
 
 This two concepts alone provides flexibility. You can decide to have one engine per each of your clients. Or for a smaller company just a single engine with a runtime per client. Up to you.
 
-**- Version:**
+**Version**
 A version is all the software components and models on a given point in time. This is an important idea for us, if you make any change at any level, model or code, you have a new version that would be deployed. Hence, that you can have multiple versions of your solution deployed within the same runtime.
 
-**- KRT:** 
+**KRT** 
 ¿And how you create and deploy your version? You create a KRT file. This is just a package that contains the definition of your solution, and also the code and the model to be deployed and ran on your runtime.
 
 Currently this file is generated manually, but in future versions this will be exported by a Data Scientist from the Konstellation Development Toolkit directly. 
@@ -65,6 +65,6 @@ Currently this file is generated manually, but in future versions this will be e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyNzg2MTM0LDExODUyNDEwNDAsLTE1ND
+eyJoaXN0b3J5IjpbLTcxNjM4NTE3LDExODUyNDEwNDAsLTE1ND
 kzMjU1MiwtMjAyNzk3NTkxN119
 -->
