@@ -7,7 +7,7 @@ We won't be digging deeper on the technical details and requirements on this pre
 
 From the beginning we've designed our tool as a Cloud Native Application. So it was easy to pick Kubernetes as our foundation layer. This alone gives us lots of advantages out-of-the-box, cloud vendor agnostic, easy orchestration, distribution, monitoring, and lot more.
 
-That is our starting point. And that is the main requirement. If you have a Kubernetes cluster and a user with the proper permissions, you cab install and run all this right now with a few commands. You can get the helm chart that we provide and you are good to go. (helm is how you package Kubernetes apps).
+Basically that is the main requirement. If you have a Kubernetes cluster and a user with the proper permissions, you cab install and run all this right now with a few commands. You can get the helm chart that we provide and you are good to go. (helm is how you package Kubernetes apps).
 
 And of course, being a Kubernetes application, it means that you can run it in your local machine, a bare metal cluster or any cloud flavor of Kubernetes (Google, Amazon or Azure).
 
@@ -15,7 +15,7 @@ And of course, being a Kubernetes application, it means that you can run it in y
 2.  Use case implementation (Gus)
 
 
-That is our base layer. On top of that we 
+On top of that base layer. We create a new one with our own concepts that trie 
 
 
 Starting from top to bottom we have the following abstractions:
@@ -69,6 +69,6 @@ Currently this file is generated manually, but in future versions this will be e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTkwMDQyMSwxMTg1MjQxMDQwLC0xNT
+eyJoaXN0b3J5IjpbLTg5NTcxMjQyMSwxMTg1MjQxMDQwLC0xNT
 Q5MzI1NTIsLTIwMjc5NzU5MTddfQ==
 -->
