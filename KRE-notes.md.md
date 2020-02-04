@@ -39,7 +39,6 @@ At this point the KRT file is generated manually, but in future versions this wi
 - Initial screen
 Here you have a view of all the runtimes, and you can create more.
 
-
 - Version screen
 	- Add version
 	- List version with current status
@@ -66,7 +65,7 @@ Here you have a view of all the runtimes, and you can create more.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDM0ODkyMjUsLTE0NTAzODc3NTUsLT
-cxNjM4NTE3LDExODUyNDEwNDAsLTE1NDkzMjU1MiwtMjAyNzk3
-NTkxN119
+eyJoaXN0b3J5IjpbNDcyOTAwMzg5LC0xNDUwMzg3NzU1LC03MT
+YzODUxNywxMTg1MjQxMDQwLC0xNTQ5MzI1NTIsLTIwMjc5NzU5
+MTddfQ==
 -->
