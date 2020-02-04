@@ -23,7 +23,7 @@ On top of that base layer that is kubernetes we have defined a new one with our 
  **Runtime**
 Is an environment that is isolated from all other runtimes and other resources. Its where you can put one or more solutions. Things inside a runtime will share resources. Here is where our price estimation solution is going to run. 
 
-This two concepts alone provides great flexibility. You can decide to have one engine per each of your clients. Or for a smaller company just a single engine with a runtime per client. Up to you.
+This two concepts alone provides great flexibility. You can decide to have one engine per  clients. Or for a smaller company just a single engine with a runtime per client. Up to you.
 
 **Version**
 A version is all the software components and models on a given point in time. This is an important idea for us, if you make any change at any level, model or code, you have a new version that would be deployed. Hence, that you can have multiple versions of your solution deployed within the same runtime.
@@ -64,7 +64,7 @@ Once you choose a runtime, you see all it's version and the status of each one. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDEwMjM4OSwtMTAxMTg1MzQ0MSwtMj
+eyJoaXN0b3J5IjpbLTk1MTEzMDI2NCwtMTAxMTg1MzQ0MSwtMj
 A0MTAxNzEwMywxNjk0MzMwMTA1LDE4OTczMjE5NzQsMTUxNjU0
 MjQ0Niw0NzI5MDAzODksLTE0NTAzODc3NTUsLTcxNjM4NTE3LD
 ExODUyNDEwNDAsLTE1NDkzMjU1MiwtMjAyNzk3NTkxN119
