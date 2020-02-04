@@ -15,10 +15,9 @@ And of course, being a Kubernetes application, it means that you can run it in y
 2.  Use case implementation (Gus)
 
 
-On top of that base layer we have defined a new one with our own abstractions, trying to simplify 
+On top of that base layer we have defined a new one with our own abstractions, trying to simplify all even more.
 
-
-Starting from top to bottom we have the following abstractions:
+Starting from top to bottom we have the following:
 
 
 - **Konstellation Runtime Engine:** 
@@ -69,6 +68,6 @@ Currently this file is generated manually, but in future versions this will be e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNDczNjY4LDExODUyNDEwNDAsLTE1ND
-kzMjU1MiwtMjAyNzk3NTkxN119
+eyJoaXN0b3J5IjpbMTYwMDAzMTA0OSwxMTg1MjQxMDQwLC0xNT
+Q5MzI1NTIsLTIwMjc5NzU5MTddfQ==
 -->
