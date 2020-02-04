@@ -1,7 +1,7 @@
 
 1.  Requirements & Installation (Gus)
 
-Before starting with UI, you need to know some basic concept that we define in order to simplify all the underlying complexity. 
+Before starting with UI, you need to know some basic concept that we defined in order to simplify all the underlying complexity. 
 
 We won't be digging deeper on the technical details and requirements on this presentation in order to focus on all the features of Konstellation. 
 
@@ -65,6 +65,6 @@ Currently this file is generated manually, but in future versions this will be e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTI0MTA0MCwtMTU0OTMyNTUyLC0yMD
-I3OTc1OTE3XX0=
+eyJoaXN0b3J5IjpbLTE0NTY3MDU2OTAsMTE4NTI0MTA0MCwtMT
+U0OTMyNTUyLC0yMDI3OTc1OTE3XX0=
 -->
