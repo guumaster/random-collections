@@ -1,6 +1,8 @@
 
 1.  Requirements & Installation (Gus)
 
+Before starting with UI, you need to know some basic concept that we define in order to simplify all the underlying complexity. 
+
 From the beginning we've designed our tool as a Cloud Native Application. So it was easy for use to choose Kubernetes as our foundation layer. This gives us lots of advantages out-of-the-box, cloud vendor agnostic, easy orchestration, distribution, monitoring, and lot more.
 
 We won't be digging deeper on the technical details and requirements on this presentation in order to focus on all the features of Konstellation. 
@@ -12,8 +14,6 @@ Any Kubernetes means that you can use your local machine, a bare metal cluster o
 
 2.  Use case implementation (Gus)
 
-Before starting with UI, you need to know some basic concept that we define in order to simplify all the underlying complexity. 
-
 Starting from top to bottom we have the following abstractions:
 
 
@@ -23,7 +23,7 @@ Starting from top to bottom we have the following abstractions:
 - **Runtime:**
 This is an environment that isolated from all other runtimes and other resources. Its where our price estimation solution is going to run. 
 
-This two concepts gives the user lots of flexibility. You can have one runtime installed per each client. Or a single engine with multiple runtimes
+This two concepts alone provides flexibility. You can decide to have one engine per each of your clients. Or for a smaller company just a single engine with a runtime per client. Up to you.
 
 **- Version:**
 A version is all the software components and models on a given point in time. This is an important idea for us, if you make any change at any level, model or code, you have a new version that would be deployed. Hence, that you can have multiple versions of your solution deployed within the same runtime.
@@ -65,6 +65,6 @@ Currently this file is generated manually, but in future versions this will be e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTQ3NTk3MzAsLTE1NDkzMjU1MiwtMj
+eyJoaXN0b3J5IjpbLTIwMzc5OTg1MjgsLTE1NDkzMjU1MiwtMj
 AyNzk3NTkxN119
 -->
