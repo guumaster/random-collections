@@ -31,7 +31,7 @@ A version is all the software components and models on a given point in time. Th
 **KRT** 
 ¿And how you create and deploy your version? You create a KRT file. This is a package that contains the code, the model and a definition file of your solution. This is the file that you can upload and would be managed by the engine.
 
-Currently this file is generated manually, but in future versions this will be exported by a Data Scientist from the Konstellation Development Toolkit directly. 
+At this point the KRT file is generated manually, but in future versions this will be exported by a Data Scientist from the Konstellation Development Toolkit directly. 
 
 
 3.  GO TO ADMIN UI
@@ -65,7 +65,7 @@ Currently this file is generated manually, but in future versions this will be e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTUzNjc3MywtMTQ1MDM4Nzc1NSwtNz
-E2Mzg1MTcsMTE4NTI0MTA0MCwtMTU0OTMyNTUyLC0yMDI3OTc1
-OTE3XX0=
+eyJoaXN0b3J5IjpbLTE0MzA3NjI4MzIsLTE0NTAzODc3NTUsLT
+cxNjM4NTE3LDExODUyNDEwNDAsLTE1NDkzMjU1MiwtMjAyNzk3
+NTkxN119
 -->
