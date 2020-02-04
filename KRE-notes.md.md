@@ -1,7 +1,7 @@
 
 1.  Requirements & Installation (Gus)
 
-Before starting with UI, you need to know some basic concept that we defined in order to simplify all the underlying complexity. 
+Before showing the app, I will tell you about some basic concept that we defined in order to simplify all the underlying complexity. 
 
 We won't be going deeper on the technical details and requirements on this presentation in order to focus on all the features of Konstellation. 
 
@@ -63,9 +63,10 @@ Once you choose a runtime, you see all it's version and the status of each one. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk0OTgxMDc3LC04NDUwNjUzNzgsLTg4Mj
-QzMjUwMywtMTc4OTUwMDM3OSwtMTAxMTg1MzQ0MSwtMjA0MTAx
-NzEwMywxNjk0MzMwMTA1LDE4OTczMjE5NzQsMTUxNjU0MjQ0Ni
-w0NzI5MDAzODksLTE0NTAzODc3NTUsLTcxNjM4NTE3LDExODUy
-NDEwNDAsLTE1NDkzMjU1MiwtMjAyNzk3NTkxN119
+eyJoaXN0b3J5IjpbMjA2NDgzMTc2NSw3OTQ5ODEwNzcsLTg0NT
+A2NTM3OCwtODgyNDMyNTAzLC0xNzg5NTAwMzc5LC0xMDExODUz
+NDQxLC0yMDQxMDE3MTAzLDE2OTQzMzAxMDUsMTg5NzMyMTk3NC
+wxNTE2NTQyNDQ2LDQ3MjkwMDM4OSwtMTQ1MDM4Nzc1NSwtNzE2
+Mzg1MTcsMTE4NTI0MTA0MCwtMTU0OTMyNTUyLC0yMDI3OTc1OT
+E3XX0=
 -->
