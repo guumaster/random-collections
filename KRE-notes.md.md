@@ -37,8 +37,8 @@ At this point the KRT file is generated manually, but in future versions this wi
 3.  GO TO ADMIN UI
 
 - Initial screen
-Here you have a 
-	- Explain runtime list, and navigation
+Here you have a view of all the runtimes, and you can create more.
+
 
 - Version screen
 	- Add version
@@ -66,7 +66,7 @@ Here you have a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODY4NTMxNzYsLTE0NTAzODc3NTUsLT
+eyJoaXN0b3J5IjpbLTEzMDM0ODkyMjUsLTE0NTAzODc3NTUsLT
 cxNjM4NTE3LDExODUyNDEwNDAsLTE1NDkzMjU1MiwtMjAyNzk3
 NTkxN119
 -->
