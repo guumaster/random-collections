@@ -18,7 +18,7 @@ On top of that base layer that is kubernetes we have defined a new one with our 
 
 
 **Konstellation Runtime Engine** 
-	This is the central component that acts as an operation tool to create and manage all the resources associated with each solution that you would put in production. It's created on installation, and includes an UI and a backend.
+	This is the central component that acts as an operation tool to create and manage all the resources associated with each solution that you would put in production. It's created on installation, it includes an UI, an API some other components.
 
  **Runtime**
 Is an environment that is isolated from all other runtimes and other resources. Its where you can put one or more solutions and will share some resources. Here is where our price estimation solution is going to run. 
@@ -64,7 +64,7 @@ Once you choose a runtime, you see all it's version and the status of each one. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDU3MzE2NjYsLTIwNDEwMTcxMDMsMT
+eyJoaXN0b3J5IjpbLTEwMTE4NTM0NDEsLTIwNDEwMTcxMDMsMT
 Y5NDMzMDEwNSwxODk3MzIxOTc0LDE1MTY1NDI0NDYsNDcyOTAw
 Mzg5LC0xNDUwMzg3NzU1LC03MTYzODUxNywxMTg1MjQxMDQwLC
 0xNTQ5MzI1NTIsLTIwMjc5NzU5MTddfQ==
