@@ -5,7 +5,7 @@ From the beginning we've designed our tool as a Cloud Native Application. So it 
 
 We won't be digging deeper on the technical details and requirements on this presentation in order to focus on all the features of Konstellation. 
 
-So is enough to say that if you have a running Kubernetes cluster and a user with the proper permissions, you are able to install and run all this right away, just deploying with a few commands, thanks to the helm chart that we've created. (helm is how you package Kubernetes apps).
+So is enough to say that if you have a working Kubernetes cluster and a user with the proper permissions, you are able to install and run all this right away, just deploying it with a few commands, thanks to the helm chart that we've created. (helm is how you package Kubernetes apps).
 
 Any Kubernetes means that you can use your local machine, a bare metal cluster or any cloud flavor of Kubernetes (Google, Amazon or Azure).
 
@@ -64,5 +64,5 @@ Currently this file is generated manually, but in future versions this will be e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjc5NzU5MTddfQ==
+eyJoaXN0b3J5IjpbLTE1NDkzMjU1MiwtMjAyNzk3NTkxN119
 -->
