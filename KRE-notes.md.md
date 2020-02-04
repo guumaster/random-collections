@@ -29,7 +29,7 @@ This two concepts alone provides flexibility. You can decide to have one engine 
 A version is all the software components and models on a given point in time. This is an important idea for us, if you make any change at any level, model or code, you have a new version that would be deployed. Hence, that you can have multiple versions of your solution deployed within the same runtime.
 
 **KRT** 
-¿And how you create and deploy your version? You create a KRT file. This is a package that contains the definition of your solution, and also the code and the model to be deployed and ran on your runtime.
+¿And how you create and deploy your version? You create a KRT file. This is a package that contains the code, the model and a definition file of your solution.  and also the code and the model to be d
 
 Currently this file is generated manually, but in future versions this will be exported by a Data Scientist from the Konstellation Development Toolkit directly. 
 
@@ -65,6 +65,7 @@ Currently this file is generated manually, but in future versions this will be e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTAzODc3NTUsLTcxNjM4NTE3LDExOD
-UyNDEwNDAsLTE1NDkzMjU1MiwtMjAyNzk3NTkxN119
+eyJoaXN0b3J5IjpbLTE2MTM3MjcyOTIsLTE0NTAzODc3NTUsLT
+cxNjM4NTE3LDExODUyNDEwNDAsLTE1NDkzMjU1MiwtMjAyNzk3
+NTkxN119
 -->
