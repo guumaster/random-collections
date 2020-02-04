@@ -16,11 +16,9 @@ And of course, being a Kubernetes application, it means that you can run it in y
 
 On top of that base layer we have defined a new one with our own abstractions, trying to cover complexity with simple concepts.
 
-Starting from top to bottom we have the following:
-
 
 - **Konstellation Runtime Engine:** 
-	This is the central component that acts as an operation tool to create and manage all the needed resources for each solution that you would like to put in production. This includes an UI and a backend. It's the only piece that is created on installation.
+	This is the central component that acts as an operation tool to create and manage all the resources associated with each solution that you would put in production. This includes an UI and a backend. It's the only piece that is created on installation.
 
 - **Runtime:**
 This is an environment that isolated from all other runtimes and other resources. Its where our price estimation solution is going to run. 
@@ -67,6 +65,6 @@ Currently this file is generated manually, but in future versions this will be e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY4MDgyMDYwLDExODUyNDEwNDAsLTE1ND
-kzMjU1MiwtMjAyNzk3NTkxN119
+eyJoaXN0b3J5IjpbLTE4ODMwNzcyOTMsMTE4NTI0MTA0MCwtMT
+U0OTMyNTUyLC0yMDI3OTc1OTE3XX0=
 -->
