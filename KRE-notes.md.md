@@ -29,7 +29,7 @@ This two concepts alone provides great flexibility. You can decide to have one e
 A version is the sum of all the code and models that make your solution work. This is an important idea for us, if you make changes at any level, model or code, you have a new version that must be uploaded. This make version inmutable entities. Easier to track over time and debug. You can have multiple versions of your solution running within the same runtime.
 
 **KRT** 
-¿And how you create and deploy your version? You create a KRT file. This is a package that contains the code, the model and a definition file of your solution. This is the file that you can upload and would be managed by the engine.
+¿And how do you create and put your version in a runtime? You create a KRT file. This is a package that contains the code, the model and a definition file of your solution. This is the file that you can upload and would be managed by the engine.
 
 At this point the KRT file is generated manually, but in future versions this will be exported by a Data Scientist from the Konstellation Development Toolkit directly. 
 
@@ -64,9 +64,9 @@ Once you choose a runtime, you see all it's version and the status of each one. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjQzMjUwMywtMTc4OTUwMDM3OSwtMT
-AxMTg1MzQ0MSwtMjA0MTAxNzEwMywxNjk0MzMwMTA1LDE4OTcz
-MjE5NzQsMTUxNjU0MjQ0Niw0NzI5MDAzODksLTE0NTAzODc3NT
-UsLTcxNjM4NTE3LDExODUyNDEwNDAsLTE1NDkzMjU1MiwtMjAy
-Nzk3NTkxN119
+eyJoaXN0b3J5IjpbMTEyNjA4MTkyNCwtODgyNDMyNTAzLC0xNz
+g5NTAwMzc5LC0xMDExODUzNDQxLC0yMDQxMDE3MTAzLDE2OTQz
+MzAxMDUsMTg5NzMyMTk3NCwxNTE2NTQyNDQ2LDQ3MjkwMDM4OS
+wtMTQ1MDM4Nzc1NSwtNzE2Mzg1MTcsMTE4NTI0MTA0MCwtMTU0
+OTMyNTUyLC0yMDI3OTc1OTE3XX0=
 -->
