@@ -18,7 +18,7 @@ On top of that base layer we have defined a new one with our own abstractions, t
 
 
 - **Konstellation Runtime Engine:** 
-	This is the central component that acts as an operation tool to create and manage all the resources associated with each solution that you would put in production. This includes an UI and a backend. It's the only piece that is created on installation.
+	This is the central component that acts as an operation tool to create and manage all the resources associated with each solution that you would put in production. This includes an UI and a backend. It's created on installation and is running continously, although 
 
 - **Runtime:**
 This is an environment that isolated from all other runtimes and other resources. Its where our price estimation solution is going to run. 
@@ -65,6 +65,6 @@ Currently this file is generated manually, but in future versions this will be e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODMwNzcyOTMsMTE4NTI0MTA0MCwtMT
-U0OTMyNTUyLC0yMDI3OTc1OTE3XX0=
+eyJoaXN0b3J5IjpbODc5MTY1MTUwLDExODUyNDEwNDAsLTE1ND
+kzMjU1MiwtMjAyNzk3NTkxN119
 -->
