@@ -26,7 +26,7 @@ Is an environment that is isolated from all other runtimes and other resources. 
 This two concepts alone provides great flexibility. You can decide to have one engine per client. Or for a smaller company just a single engine with a runtime per client. Up to you.
 
 **Version**
-A version is all the software components and models on a given point in time. This is an important idea for us, if you make changes at any level, model or code, you have a new version that would be deployed. Hence, that you can have multiple versions of your solution deployed within the same runtime.
+A version is the sum of all the code and models that make your solution work. This is an important idea for us, if you make changes at any level, model or code, you have a new version that would be deployed. Hence, that you can have multiple versions of your solution deployed within the same runtime.
 
 **KRT** 
 ¿And how you create and deploy your version? You create a KRT file. This is a package that contains the code, the model and a definition file of your solution. This is the file that you can upload and would be managed by the engine.
@@ -64,7 +64,7 @@ Once you choose a runtime, you see all it's version and the status of each one. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzE3MzkwNCwtMTc4OTUwMDM3OSwtMT
+eyJoaXN0b3J5IjpbMTA2NzgwNzgzOCwtMTc4OTUwMDM3OSwtMT
 AxMTg1MzQ0MSwtMjA0MTAxNzEwMywxNjk0MzMwMTA1LDE4OTcz
 MjE5NzQsMTUxNjU0MjQ0Niw0NzI5MDAzODksLTE0NTAzODc3NT
 UsLTcxNjM4NTE3LDExODUyNDEwNDAsLTE1NDkzMjU1MiwtMjAy
