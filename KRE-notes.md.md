@@ -3,9 +3,9 @@
 
 Before starting with UI, you need to know some basic concept that we define in order to simplify all the underlying complexity. 
 
-From the beginning we've designed our tool as a Cloud Native Application. So it was easy for use to choose Kubernetes as our foundation layer. This gives us lots of advantages out-of-the-box, cloud vendor agnostic, easy orchestration, distribution, monitoring, and lot more.
-
 We won't be digging deeper on the technical details and requirements on this presentation in order to focus on all the features of Konstellation. 
+
+From the beginning we've designed our tool as a Cloud Native Application. So it was easy for use to choose Kubernetes as our foundation layer. This gives us lots of advantages out-of-the-box, cloud vendor agnostic, easy orchestration, distribution, monitoring, and lot more.
 
 So is enough to say that if you have a working Kubernetes cluster and a user with the proper permissions, you are able to install and run all this right away, just deploying it with a few commands, thanks to the helm chart that we've created. (helm is how you package Kubernetes apps).
 
@@ -65,6 +65,6 @@ Currently this file is generated manually, but in future versions this will be e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzc5OTg1MjgsLTE1NDkzMjU1MiwtMj
+eyJoaXN0b3J5IjpbLTIxMzIzODk1MDQsLTE1NDkzMjU1MiwtMj
 AyNzk3NTkxN119
 -->
