@@ -31,7 +31,7 @@ A version is the sum of all the code and models that make your solution work. Th
 **KRT** 
 ¿And how do you create and put your versions in a runtime? You need a KRT file. This is a package where you put the code, the model and a definition file of your solution. It is the file that you can upload into a runtime and would eventually become running resources.
 
-A side note. At this point the KRT file is generated manually, but in future versions thiwill be exported by a Data Scientist from the Konstellation Development Toolkit directly. 
+A side note. At this point the KRT file is generated manually, but in future versions they will be exported by a Data Scientist directly from the Konstellation Development Toolkit. 
 
 3.  GO TO ADMIN UI
 
@@ -63,7 +63,7 @@ Once you choose a runtime, you see all it's version and the status of each one. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Mzk4OTcxNSwxMTczMDkyMzA4LC04Mz
+eyJoaXN0b3J5IjpbMTQ0MTQ1MDI5NiwxMTczMDkyMzA4LC04Mz
 c2NjYwODMsMTA2MjEzOTI3MywtOTk4ODYzMjQ3LC0yMTIwNDA4
 ODIwLDE2MTIyNzYxMzgsMTkyODI5MzY3NiwtMTk4MjAyOTIwLD
 c5NDk4MTA3NywtODQ1MDY1Mzc4LC04ODI0MzI1MDMsLTE3ODk1
