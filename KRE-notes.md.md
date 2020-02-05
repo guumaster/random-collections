@@ -39,7 +39,7 @@ A side note. At this point the KRT file is generated manually, but in future ver
 Here you have a view of all the runtimes, and you can create more.
 
 - Version screen
-Once you choose a runtime, you see all it's version and the status of each one. Also add new ones. Let's upload one now.
+Once you choose a runtime, you see all its versions and the status of each one. Also add new ones. Let's upload one now.
 
 - Explain status
 	- **STOPPED**: No resource is actually running (no resources in use)
@@ -63,7 +63,7 @@ Once you choose a runtime, you see all it's version and the status of each one. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTQ1MDI5NiwxMTczMDkyMzA4LC04Mz
+eyJoaXN0b3J5IjpbMTAxNzQ1ODY4NCwxMTczMDkyMzA4LC04Mz
 c2NjYwODMsMTA2MjEzOTI3MywtOTk4ODYzMjQ3LC0yMTIwNDA4
 ODIwLDE2MTIyNzYxMzgsMTkyODI5MzY3NiwtMTk4MjAyOTIwLD
 c5NDk4MTA3NywtODQ1MDY1Mzc4LC04ODI0MzI1MDMsLTE3ODk1
