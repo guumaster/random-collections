@@ -26,7 +26,7 @@ Is an environment that is isolated from all other runtimes and other resources. 
 This two concepts alone provides great deal of control & flexibility. You can decide to have one engine per client. Or if you are a smaller company you can have a single engine with one runtime per client. Up to your needs.
 
 **Version**
-A version is the sum of all the code and models that make your solution work. This is a key concept for us, if you make changes at any level, model or code, you have a new version that must be uploaded. This make versions inmutable entities. Easier to track over time and debug. You can have multiple versions  running at the same time within a runtime.
+A version is the sum of all the code and models that make your solution work. This is a key concept for us, if you make changes at any level, model or code, you then have a new version that must be uploaded. This make versions inmutable entities. Easier to track over time and debug. You can have multiple versions  running at the same time within a runtime.
 
 **KRT** 
 ¿And how do you create and put your versions in a runtime? You need a KRT file. This is a package where you put the code, the model and a definition file of your solution. It is the file that you can upload into a runtime and would eventually become running resources.
@@ -63,11 +63,11 @@ Once you choose a runtime, you see all its versions and the status of each one. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2Njc4MzM5MywxMDE3NDU4Njg0LDExNz
-MwOTIzMDgsLTgzNzY2NjA4MywxMDYyMTM5MjczLC05OTg4NjMy
-NDcsLTIxMjA0MDg4MjAsMTYxMjI3NjEzOCwxOTI4MjkzNjc2LC
-0xOTgyMDI5MjAsNzk0OTgxMDc3LC04NDUwNjUzNzgsLTg4MjQz
-MjUwMywtMTc4OTUwMDM3OSwtMTAxMTg1MzQ0MSwtMjA0MTAxNz
-EwMywxNjk0MzMwMTA1LDE4OTczMjE5NzQsMTUxNjU0MjQ0Niw0
-NzI5MDAzODldfQ==
+eyJoaXN0b3J5IjpbLTEzMDM1OTYwOTQsMTk2Njc4MzM5MywxMD
+E3NDU4Njg0LDExNzMwOTIzMDgsLTgzNzY2NjA4MywxMDYyMTM5
+MjczLC05OTg4NjMyNDcsLTIxMjA0MDg4MjAsMTYxMjI3NjEzOC
+wxOTI4MjkzNjc2LC0xOTgyMDI5MjAsNzk0OTgxMDc3LC04NDUw
+NjUzNzgsLTg4MjQzMjUwMywtMTc4OTUwMDM3OSwtMTAxMTg1Mz
+Q0MSwtMjA0MTAxNzEwMywxNjk0MzMwMTA1LDE4OTczMjE5NzQs
+MTUxNjU0MjQ0Nl19
 -->
