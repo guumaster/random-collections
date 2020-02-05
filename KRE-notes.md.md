@@ -29,7 +29,7 @@ This two concepts alone provides great flexibility. You can decide to have one e
 A version is the sum of all the code and models that make your solution work. This is an important idea for us, if you make changes at any level, model or code, you have a new version that must be uploaded. This make versions inmutable entities. Easier to track over time and debug. You can have multiple versions of your solution running within the same runtime.
 
 **KRT** 
-¿And how do you create and put your version in a runtime? You need a KRT file. This is a package that contains a version. Inside this package you put the code, the model and a definition file of your solution. This is the file that you can upload and would become resources inside a runtime.
+¿And how do you create and put your version in a runtime? You need a KRT file. This is a package that contains a version. Inside this package you put the code, the model and a definition file of your solution. This is the file that you can upload to a runtime and would become resources at some point.
 
 A side note. At this point the KRT file is generated manually, but in future versions this will be exported by a Data Scientist from the Konstellation Development Toolkit directly. 
 
@@ -63,11 +63,11 @@ Once you choose a runtime, you see all it's version and the status of each one. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5ODg2MzI0NywtMjEyMDQwODgyMCwxNj
-EyMjc2MTM4LDE5MjgyOTM2NzYsLTE5ODIwMjkyMCw3OTQ5ODEw
-NzcsLTg0NTA2NTM3OCwtODgyNDMyNTAzLC0xNzg5NTAwMzc5LC
-0xMDExODUzNDQxLC0yMDQxMDE3MTAzLDE2OTQzMzAxMDUsMTg5
-NzMyMTk3NCwxNTE2NTQyNDQ2LDQ3MjkwMDM4OSwtMTQ1MDM4Nz
-c1NSwtNzE2Mzg1MTcsMTE4NTI0MTA0MCwtMTU0OTMyNTUyLC0y
-MDI3OTc1OTE3XX0=
+eyJoaXN0b3J5IjpbMTA2MjEzOTI3MywtOTk4ODYzMjQ3LC0yMT
+IwNDA4ODIwLDE2MTIyNzYxMzgsMTkyODI5MzY3NiwtMTk4MjAy
+OTIwLDc5NDk4MTA3NywtODQ1MDY1Mzc4LC04ODI0MzI1MDMsLT
+E3ODk1MDAzNzksLTEwMTE4NTM0NDEsLTIwNDEwMTcxMDMsMTY5
+NDMzMDEwNSwxODk3MzIxOTc0LDE1MTY1NDI0NDYsNDcyOTAwMz
+g5LC0xNDUwMzg3NzU1LC03MTYzODUxNywxMTg1MjQxMDQwLC0x
+NTQ5MzI1NTJdfQ==
 -->
