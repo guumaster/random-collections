@@ -26,10 +26,10 @@ Is an environment that is isolated from all other runtimes and other resources. 
 This two concepts alone provides great deal of control & flexibility. You can decide to have one engine per client. Or if you are a smaller company you can have a single engine with one runtime per client. Up to your needs.
 
 **Version**
-A version is the sum of all the code and models that make your solution work. This is a key concept for us, if you make changes at any level, model or code, you then have a new version that must be uploaded. This make versions inmutable entities. Easier to track over time and debug. You can have multiple versions  running at the same time within a runtime.
+A version is the sum of all the code and models that make your solution work. This is a key concept for us, if you make changes at any level, model or code, you then have a new version that must be uploaded. This make versions inmutable entities. Easier to track and debug over time. You can have multiple versions  running at the same time within a runtime.
 
 **KRT** 
-¿And how do you create and put your versions in a runtime? You need a KRT file. This is a package where you put the code, the model and a definition file of your solution. It is the file that you can upload into a runtime and would eventually become running resources.
+¿And how do you create and put your versions in a runtime? You need a KRT file. This is a package where you put the code, the model and a definition file of your solution. This is t file that you can upload into a runtime and would eventually become running resources.
 
 A side note. At this point the KRT file is generated manually, but in future versions they will be exported by a Data Scientist directly from the Konstellation Development Toolkit. 
 
@@ -63,7 +63,7 @@ Once you choose a runtime, you see all its versions and the status of each one. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDM1OTYwOTQsMTk2Njc4MzM5MywxMD
+eyJoaXN0b3J5IjpbLTEyMDI0ODc3MjYsMTk2Njc4MzM5MywxMD
 E3NDU4Njg0LDExNzMwOTIzMDgsLTgzNzY2NjA4MywxMDYyMTM5
 MjczLC05OTg4NjMyNDcsLTIxMjA0MDg4MjAsMTYxMjI3NjEzOC
 wxOTI4MjkzNjc2LC0xOTgyMDI5MjAsNzk0OTgxMDc3LC04NDUw
