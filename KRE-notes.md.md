@@ -23,10 +23,10 @@ On top of that base layer that is kubernetes we have created a new layer with ou
  **Runtime**
 Is an environment that is isolated from all other runtimes and other resources. This is  where you can put one or more solutions. Things inside a runtime will share resources. Here is where our price estimation solution is going to run. 
 
-This two concepts alone provides great deal of control & flexibility. You can decide to have one engine per client. Or if you are a smaller company yoa single engine with a runtime per client. Up to your needs.
+This two concepts alone provides great deal of control & flexibility. You can decide to have one engine per client. Or if you are a smaller company you can have a single engine with one runtime per client. Up to your needs.
 
 **Version**
-A version is the sum of all the code and models that make your solution work. This is an important idea for us, if you make changes at any level, model or code, you have a new version that must be uploaded. This make versions inmutable entities. Easier to track over time and debug. You can have multiple versions  running at the same time within a runtime.
+A version is the sum of all the code and models that make your solution work. This is a key concept for us, if you make changes at any level, model or code, you have a new version that must be uploaded. This make versions inmutable entities. Easier to track over time and debug. You can have multiple versions  running at the same time within a runtime.
 
 **KRT** 
 ¿And how do you create and put your version in a runtime? You need a KRT file. This is a package that contains a version. Inside this package you put the code, the model and a definition file of your solution. This is the file that you can upload into a runtime and would eventually become running resources.
@@ -63,7 +63,7 @@ Once you choose a runtime, you see all it's version and the status of each one. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTczMTU2OCwtODM3NjY2MDgzLDEwNj
+eyJoaXN0b3J5IjpbMTE3MzA5MjMwOCwtODM3NjY2MDgzLDEwNj
 IxMzkyNzMsLTk5ODg2MzI0NywtMjEyMDQwODgyMCwxNjEyMjc2
 MTM4LDE5MjgyOTM2NzYsLTE5ODIwMjkyMCw3OTQ5ODEwNzcsLT
 g0NTA2NTM3OCwtODgyNDMyNTAzLC0xNzg5NTAwMzc5LC0xMDEx
