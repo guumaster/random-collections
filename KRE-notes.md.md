@@ -14,7 +14,7 @@ And of course, being a Kubernetes application, it means that you can run it in y
 
 2.  Use case implementation (Gus)
 
-On top of that base layer that is kubernetes we have defined a new one with our own abstractions, trying to cover all the complexity behind more simple concepts.
+On top of that base layer that is kubernetes we have creayed awith our own abstractions, trying to cover all the complexity behind more simple concepts.
 
 
 **Konstellation Runtime Engine** 
@@ -63,11 +63,11 @@ Once you choose a runtime, you see all it's version and the status of each one. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MjEzOTI3MywtOTk4ODYzMjQ3LC0yMT
-IwNDA4ODIwLDE2MTIyNzYxMzgsMTkyODI5MzY3NiwtMTk4MjAy
-OTIwLDc5NDk4MTA3NywtODQ1MDY1Mzc4LC04ODI0MzI1MDMsLT
-E3ODk1MDAzNzksLTEwMTE4NTM0NDEsLTIwNDEwMTcxMDMsMTY5
-NDMzMDEwNSwxODk3MzIxOTc0LDE1MTY1NDI0NDYsNDcyOTAwMz
-g5LC0xNDUwMzg3NzU1LC03MTYzODUxNywxMTg1MjQxMDQwLC0x
-NTQ5MzI1NTJdfQ==
+eyJoaXN0b3J5IjpbMTI3NjU3OTc1MywxMDYyMTM5MjczLC05OT
+g4NjMyNDcsLTIxMjA0MDg4MjAsMTYxMjI3NjEzOCwxOTI4Mjkz
+Njc2LC0xOTgyMDI5MjAsNzk0OTgxMDc3LC04NDUwNjUzNzgsLT
+g4MjQzMjUwMywtMTc4OTUwMDM3OSwtMTAxMTg1MzQ0MSwtMjA0
+MTAxNzEwMywxNjk0MzMwMTA1LDE4OTczMjE5NzQsMTUxNjU0Mj
+Q0Niw0NzI5MDAzODksLTE0NTAzODc3NTUsLTcxNjM4NTE3LDEx
+ODUyNDEwNDBdfQ==
 -->
