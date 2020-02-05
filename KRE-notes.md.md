@@ -3,7 +3,7 @@
 
 Before showing the app, I will tell you about some basic concept that we defined in order to make complex things easier to use. 
 
-Today we won't stop much on the technical details and requirements tofocus on the main features of Konstellation. 
+Today we won't stop much on the technical details and requirements, instead we'll focus on the main features of Konstellation. 
 
 From the beginning we've designed our tool as a Cloud Native Application. So it was easy to pick Kubernetes as our foundation layer. This alone gives us lots of advantages out-of-the-box, cloud vendor agnostic, easy orchestration, distribution, monitoring, and lot more.
 
@@ -63,7 +63,7 @@ Once you choose a runtime, you see all its versions and the status of each one. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3Mzc1OTg5OSwxMDE3NDU4Njg0LDExNz
+eyJoaXN0b3J5IjpbMTQwNzExNjg2MywxMDE3NDU4Njg0LDExNz
 MwOTIzMDgsLTgzNzY2NjA4MywxMDYyMTM5MjczLC05OTg4NjMy
 NDcsLTIxMjA0MDg4MjAsMTYxMjI3NjEzOCwxOTI4MjkzNjc2LC
 0xOTgyMDI5MjAsNzk0OTgxMDc3LC04NDUwNjUzNzgsLTg4MjQz
