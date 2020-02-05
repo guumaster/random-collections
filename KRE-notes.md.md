@@ -26,10 +26,10 @@ Is an environment that is isolated from all other runtimes and other resources. 
 This two concepts alone provides great flexibility. You can decide to have one engine per client. Or for a smaller company just a single engine with a runtime per client. Up to your needs.
 
 **Version**
-A version is the sum of all the code and models that make your solution work. This is an important idea for us, if you make changes at any level, model or code, you have a new version that must be uploaded. This make versions inmutable entities. Easier to track over time and debug. You can have multiple versions  running within the same runtime.
+A version is the sum of all the code and models that make your solution work. This is an important idea for us, if you make changes at any level, model or code, you have a new version that must be uploaded. This make versions inmutable entities. Easier to track over time and debug. You can have multiple versions  running at the same time within a runtime.
 
 **KRT** 
-¿And how do you create and put your version in a runtime? You need a KRT file. This is a package that contains a version. Inside this package you put the code, the model and a definition file of your solution. This is the file that you can upload to a runtime and would become resources at some point.
+¿And how do you create and put your version in a runtime? You need a KRT file. This is a package that contains a version. Inside this package you put the code, the model and a definition file of your solution. This is the file that you can upload into a runtime and would become resources at some point.
 
 A side note. At this point the KRT file is generated manually, but in future versions this will be exported by a Data Scientist from the Konstellation Development Toolkit directly. 
 
@@ -63,11 +63,11 @@ Once you choose a runtime, you see all it's version and the status of each one. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MDY3ODc2MiwxMDYyMTM5MjczLC05OT
-g4NjMyNDcsLTIxMjA0MDg4MjAsMTYxMjI3NjEzOCwxOTI4Mjkz
-Njc2LC0xOTgyMDI5MjAsNzk0OTgxMDc3LC04NDUwNjUzNzgsLT
-g4MjQzMjUwMywtMTc4OTUwMDM3OSwtMTAxMTg1MzQ0MSwtMjA0
-MTAxNzEwMywxNjk0MzMwMTA1LDE4OTczMjE5NzQsMTUxNjU0Mj
-Q0Niw0NzI5MDAzODksLTE0NTAzODc3NTUsLTcxNjM4NTE3LDEx
-ODUyNDEwNDBdfQ==
+eyJoaXN0b3J5IjpbLTE5NDk3NjQ0MzAsMTA2MjEzOTI3MywtOT
+k4ODYzMjQ3LC0yMTIwNDA4ODIwLDE2MTIyNzYxMzgsMTkyODI5
+MzY3NiwtMTk4MjAyOTIwLDc5NDk4MTA3NywtODQ1MDY1Mzc4LC
+04ODI0MzI1MDMsLTE3ODk1MDAzNzksLTEwMTE4NTM0NDEsLTIw
+NDEwMTcxMDMsMTY5NDMzMDEwNSwxODk3MzIxOTc0LDE1MTY1ND
+I0NDYsNDcyOTAwMzg5LC0xNDUwMzg3NzU1LC03MTYzODUxNywx
+MTg1MjQxMDQwXX0=
 -->
