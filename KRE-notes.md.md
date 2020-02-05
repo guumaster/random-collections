@@ -1,9 +1,9 @@
 
 1.  Requirements & Installation (Gus)
 
-Before showing the app, I will tell you about some basic concept that we defined in order to simplify all the underlying complexity. 
+Before showing the app, I will tell you about some basic concept that we defined in order to make complex things easier to use. 
 
-Today we won't stop much on the technical details and requirements in order to focus on the main features of Konstellation. 
+Today we won't stop much on the technical details and requirements tofocus on the main features of Konstellation. 
 
 From the beginning we've designed our tool as a Cloud Native Application. So it was easy to pick Kubernetes as our foundation layer. This alone gives us lots of advantages out-of-the-box, cloud vendor agnostic, easy orchestration, distribution, monitoring, and lot more.
 
@@ -63,11 +63,11 @@ Once you choose a runtime, you see all its versions and the status of each one. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzQ1ODY4NCwxMTczMDkyMzA4LC04Mz
-c2NjYwODMsMTA2MjEzOTI3MywtOTk4ODYzMjQ3LC0yMTIwNDA4
-ODIwLDE2MTIyNzYxMzgsMTkyODI5MzY3NiwtMTk4MjAyOTIwLD
-c5NDk4MTA3NywtODQ1MDY1Mzc4LC04ODI0MzI1MDMsLTE3ODk1
-MDAzNzksLTEwMTE4NTM0NDEsLTIwNDEwMTcxMDMsMTY5NDMzMD
-EwNSwxODk3MzIxOTc0LDE1MTY1NDI0NDYsNDcyOTAwMzg5LC0x
-NDUwMzg3NzU1XX0=
+eyJoaXN0b3J5IjpbLTY3Mzc1OTg5OSwxMDE3NDU4Njg0LDExNz
+MwOTIzMDgsLTgzNzY2NjA4MywxMDYyMTM5MjczLC05OTg4NjMy
+NDcsLTIxMjA0MDg4MjAsMTYxMjI3NjEzOCwxOTI4MjkzNjc2LC
+0xOTgyMDI5MjAsNzk0OTgxMDc3LC04NDUwNjUzNzgsLTg4MjQz
+MjUwMywtMTc4OTUwMDM3OSwtMTAxMTg1MzQ0MSwtMjA0MTAxNz
+EwMywxNjk0MzMwMTA1LDE4OTczMjE5NzQsMTUxNjU0MjQ0Niw0
+NzI5MDAzODldfQ==
 -->
