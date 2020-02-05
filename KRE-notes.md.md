@@ -21,7 +21,7 @@ On top of that base layer that is kubernetes we have defined a new one with our 
 	This is the central component that acts as an operation tool to create and manage all the resources associated with each solution that you would put in production. It's created on installation, it includes an UI, an API some other components.
 
  **Runtime**
-Is an environment that is isolated from all other runtimes and other resources. Its where you can put one or more solutions. Things inside a runtime will share resources. Here is where our price estimation solution is going to run. 
+Is an environment that is isolated from all other runtimes and other resources. This is  where you can put one or more solutions. Things inside a runtime will share resources. Here is where our price estimation solution is going to run. 
 
 This two concepts alone provides great flexibility. You can decide to have one engine per client. Or for a smaller company just a single engine with a runtime per client. Up to you.
 
@@ -63,10 +63,10 @@ Once you choose a runtime, you see all it's version and the status of each one. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyODI5MzY3NiwtMTk4MjAyOTIwLDc5ND
-k4MTA3NywtODQ1MDY1Mzc4LC04ODI0MzI1MDMsLTE3ODk1MDAz
-NzksLTEwMTE4NTM0NDEsLTIwNDEwMTcxMDMsMTY5NDMzMDEwNS
-wxODk3MzIxOTc0LDE1MTY1NDI0NDYsNDcyOTAwMzg5LC0xNDUw
-Mzg3NzU1LC03MTYzODUxNywxMTg1MjQxMDQwLC0xNTQ5MzI1NT
-IsLTIwMjc5NzU5MTddfQ==
+eyJoaXN0b3J5IjpbMTYxMjI3NjEzOCwxOTI4MjkzNjc2LC0xOT
+gyMDI5MjAsNzk0OTgxMDc3LC04NDUwNjUzNzgsLTg4MjQzMjUw
+MywtMTc4OTUwMDM3OSwtMTAxMTg1MzQ0MSwtMjA0MTAxNzEwMy
+wxNjk0MzMwMTA1LDE4OTczMjE5NzQsMTUxNjU0MjQ0Niw0NzI5
+MDAzODksLTE0NTAzODc3NTUsLTcxNjM4NTE3LDExODUyNDEwND
+AsLTE1NDkzMjU1MiwtMjAyNzk3NTkxN119
 -->
