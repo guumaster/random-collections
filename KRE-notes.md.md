@@ -23,7 +23,7 @@ On top of that base layer that is kubernetes we have created a new layer with ou
  **Runtime**
 Is an environment that is isolated from all other runtimes and other resources. This is  where you can put one or more solutions. Things inside a runtime will share resources. Here is where our price estimation solution is going to run. 
 
-This two concepts alone provides great flexibility. You can decide to have one engine per client. Or for a smaller company just a single engine with a runtime per client. Up to your needs.
+This two concepts alone provides great deal of control & flexibility. You can decide to have one engine per client. Or for a smaller company just a single engine with a runtime per client. Up to your needs.
 
 **Version**
 A version is the sum of all the code and models that make your solution work. This is an important idea for us, if you make changes at any level, model or code, you have a new version that must be uploaded. This make versions inmutable entities. Easier to track over time and debug. You can have multiple versions  running at the same time within a runtime.
@@ -63,11 +63,11 @@ Once you choose a runtime, you see all it's version and the status of each one. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzY2NjA4MywxMDYyMTM5MjczLC05OT
-g4NjMyNDcsLTIxMjA0MDg4MjAsMTYxMjI3NjEzOCwxOTI4Mjkz
-Njc2LC0xOTgyMDI5MjAsNzk0OTgxMDc3LC04NDUwNjUzNzgsLT
-g4MjQzMjUwMywtMTc4OTUwMDM3OSwtMTAxMTg1MzQ0MSwtMjA0
-MTAxNzEwMywxNjk0MzMwMTA1LDE4OTczMjE5NzQsMTUxNjU0Mj
-Q0Niw0NzI5MDAzODksLTE0NTAzODc3NTUsLTcxNjM4NTE3LDEx
-ODUyNDEwNDBdfQ==
+eyJoaXN0b3J5IjpbLTEyNDM3MTk0NzcsLTgzNzY2NjA4MywxMD
+YyMTM5MjczLC05OTg4NjMyNDcsLTIxMjA0MDg4MjAsMTYxMjI3
+NjEzOCwxOTI4MjkzNjc2LC0xOTgyMDI5MjAsNzk0OTgxMDc3LC
+04NDUwNjUzNzgsLTg4MjQzMjUwMywtMTc4OTUwMDM3OSwtMTAx
+MTg1MzQ0MSwtMjA0MTAxNzEwMywxNjk0MzMwMTA1LDE4OTczMj
+E5NzQsMTUxNjU0MjQ0Niw0NzI5MDAzODksLTE0NTAzODc3NTUs
+LTcxNjM4NTE3XX0=
 -->
