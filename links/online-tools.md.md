@@ -1,4 +1,5 @@
 
+* [UTF-8 Character list · mcdlr](https://mcdlr.com/utf-8/#1)
 * [Transform | A polyglot web converter.](https://transform.tools/) Convert from/to lots of formats.
 
 * [All – Tiny Helpers](https://tiny-helpers.dev/) A collection of lots of simple online tools.
@@ -7,5 +8,5 @@
 * [Tokimeki Twitter Unfollow](https://tokimeki-unfollow.glitch.me/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMTc1OTAzNl19
+eyJoaXN0b3J5IjpbLTE1MzQ2NDI0NzNdfQ==
 -->
