@@ -1,7 +1,7 @@
 
 ## Clean Architecture 
 
-* [go-clean-arch/config.json at master · bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch/blob/master/config.json)
+* [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch)
 * [Implementing gRPC service in Golang - Kurio Toolbox](https://toolbox.kurio.co.id/implementing-grpc-service-in-golang-afb9e05c0064)
 * [Clean Architecture with GO - manato - Medium](https://medium.com/manato/clean-architecture-with-go-bce409427d31)
 * [Clean architecture for the rest of us](https://pusher.com/tutorials/clean-architecture-introduction)
@@ -23,5 +23,5 @@
 * [23 JavaScript design patterns](https://boostlog.io/@sonuton/23-javascript-design-patterns-5adb006847018500491f3f7f)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzYwNDE3OThdfQ==
+eyJoaXN0b3J5IjpbMjc0Mjc1ODIyLC0xMjc2MDQxNzk4XX0=
 -->
