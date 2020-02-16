@@ -23,6 +23,7 @@
 * [color: terminal output with color](https://github.com/fatih/color)
 * [go-prompt: interactive prompts](https://github.com/c-bata/go-prompt)
 * [emoji: emoji terminal output](https://github.com/kyokomi/emoji)
+* [go-cmd/cmd: Non-blocking external commands](https://github.com/go-cmd/cmd)
 
 
 ### NATS
@@ -45,5 +46,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5ODIzODM3MV19
+eyJoaXN0b3J5IjpbOTU1MDYyMTA0LDIwOTgyMzgzNzFdfQ==
 -->
