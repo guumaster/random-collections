@@ -9,6 +9,7 @@
 * [slug: URL-friendly](https://github.com/gosimple/slug)
 * [systray: a cross platfrom icon and menu in the notification area](https://github.com/getlantern/systray)
 * [gjson: JSON parser for Go](https://github.com/tidwall/gjson)
+* [mailru/easyjson: Fast JSON serializer for golang.](https://github.com/mailru/easyjson)
 
 
 ### Collections
@@ -44,6 +45,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MzYwMzc5OSwyMjYwNDE1NzQsLTExOD
+eyJoaXN0b3J5IjpbMjA5ODIzODM3MSwyMjYwNDE1NzQsLTExOD
 MxOTU2M119
 -->
