@@ -21,7 +21,7 @@
 * [API Testing with Cypress - Ali Haydar - Medium](https://medium.com/@ali.haydar/api-testing-with-cypress-d8c60ed6aa2e)
 * [Integration tests with GraphQL, Cypress and CircleCI](https://medium.com/s19-tech/integration-tests-with-graphql-cypress-and-circleci-d688b3a9a2c6)
 * 
-* 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDEyMzI3MV19
+eyJoaXN0b3J5IjpbMTg5NjE0MDIyMV19
 -->
