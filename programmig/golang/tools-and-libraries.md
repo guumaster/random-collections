@@ -10,7 +10,7 @@
 * [systray: a cross platfrom icon and menu in the notification area](https://github.com/getlantern/systray)
 * [gjson: JSON parser for Go](https://github.com/tidwall/gjson)
 * [mailru/easyjson: Fast JSON serializer for golang.](https://github.com/mailru/easyjson)
-
+* [go-unarr: decompression for RAR, TAR, ZIP and 7z](https://github.com/gen2brain/go-unarr)
 
 ### Collections
 * [ awesome Go software](https://oxozle.com/awetop/avelino-awesome-go/)
@@ -46,5 +46,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU1MDYyMTA0LDIwOTgyMzgzNzFdfQ==
+eyJoaXN0b3J5IjpbLTEzMDg3MTgxNDUsOTU1MDYyMTA0LDIwOT
+gyMzgzNzFdfQ==
 -->
