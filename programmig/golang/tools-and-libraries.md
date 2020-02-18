@@ -13,6 +13,7 @@
 * [go-unarr: decompression for RAR, TAR, ZIP and 7z](https://github.com/gen2brain/go-unarr)
 * [beeep: Go cross-platform desktop notifications](https://github.com/gen2brain/beeep)
 * [dlgs: Go cross-platform for dialogs and input boxes](https://github.com/gen2brain/dlgs)
+* [gen2brain/flite-go: Go bindings for Flite (festival-lite)](https://github.com/gen2brain/flite-go)
 
 ### Collections
 * [ awesome Go software](https://oxozle.com/awetop/avelino-awesome-go/)
@@ -48,6 +49,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDMyNjM1NjcsLTEyNTcyNjM1NzksOT
-U1MDYyMTA0LDIwOTgyMzgzNzFdfQ==
+eyJoaXN0b3J5IjpbLTE1ODE2MzUyODksLTIwMDMyNjM1NjcsLT
+EyNTcyNjM1NzksOTU1MDYyMTA0LDIwOTgyMzgzNzFdfQ==
 -->
