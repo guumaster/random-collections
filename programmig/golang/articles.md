@@ -6,6 +6,7 @@
 * [Faster builds in Docker with Go 1.11 - Container Solutions](https://container-solutions.com/faster-builds-in-docker-with-go-1-11/)
 * [Introducing NATS to Go Developers – Shiju Varghese – Medium](https://medium.com/@shijuvar/introducing-nats-to-go-developers-3cfcb98c21d0)
 * [Singleton Pattern in Go · marcio.io](http://marcio.io/2015/07/singleton-pattern-in-go/)
+* [function to return an Interface](https://stackoverflow.com/questions/35006640/golang-function-to-return-an-interface)
 
 
 ### Context 
@@ -82,5 +83,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTM1ODE3NjldfQ==
+eyJoaXN0b3J5IjpbLTE0ODE4NDUzMTFdfQ==
 -->
