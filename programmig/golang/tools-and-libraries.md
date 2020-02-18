@@ -11,7 +11,8 @@
 * [gjson: JSON parser for Go](https://github.com/tidwall/gjson)
 * [mailru/easyjson: Fast JSON serializer for golang.](https://github.com/mailru/easyjson)
 * [go-unarr: decompression for RAR, TAR, ZIP and 7z](https://github.com/gen2brain/go-unarr)
-* [gen2brain/beeep: Go cross-platform library for sending desktop notifications, alerts and beeps](https://github.com/gen2brain/beeep)
+* [beeep: Go cross-platform desktop notifications](https://github.com/gen2brain/beeep)
+* [dlgs: Go cross-platform for dialogs and input boxes](https://github.com/gen2brain/dlgs)
 
 ### Collections
 * [ awesome Go software](https://oxozle.com/awetop/avelino-awesome-go/)
@@ -47,6 +48,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTcyNjM1NzksOTU1MDYyMTA0LDIwOT
-gyMzgzNzFdfQ==
+eyJoaXN0b3J5IjpbLTIwMDMyNjM1NjcsLTEyNTcyNjM1NzksOT
+U1MDYyMTA0LDIwOTgyMzgzNzFdfQ==
 -->
