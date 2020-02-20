@@ -57,8 +57,12 @@
 
 ### Web Frameworks
 * [📖 Getting started - Fiber](https://fiber.wiki/)
+
+### ML
+
+[Dataframes in Go](https://github.com/go-gota/gota)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM4ODM4MDgsNDg3Nzc4MTg5LC0xNTI5MT
-A2NTcxLC01Njg1MTc2MzcsLTIwMDMyNjM1NjcsLTEyNTcyNjM1
-NzksOTU1MDYyMTA0LDIwOTgyMzgzNzFdfQ==
+eyJoaXN0b3J5IjpbLTc4NTQ5NTYzOCw4Mzg4MzgwOCw0ODc3Nz
+gxODksLTE1MjkxMDY1NzEsLTU2ODUxNzYzNywtMjAwMzI2MzU2
+NywtMTI1NzI2MzU3OSw5NTUwNjIxMDQsMjA5ODIzODM3MV19
 -->
