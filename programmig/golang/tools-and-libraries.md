@@ -15,6 +15,7 @@
 * [dlgs: Go cross-platform for dialogs and input boxes](https://github.com/gen2brain/dlgs)
 * [flite-go: Go bindings for Flite (text-to-speech)](https://github.com/gen2brain/flite-go)
 
+* [chroma: syntax highlighter in pure Go](https://github.com/alecthomas/chroma)
 
 ### Collections
 * [ awesome Go software](https://oxozle.com/awetop/avelino-awesome-go/)
@@ -52,7 +53,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTY1MzU2NDcsLTU2ODUxNzYzNywtMj
+eyJoaXN0b3J5IjpbLTE1MjkxMDY1NzEsLTU2ODUxNzYzNywtMj
 AwMzI2MzU2NywtMTI1NzI2MzU3OSw5NTUwNjIxMDQsMjA5ODIz
 ODM3MV19
 -->
