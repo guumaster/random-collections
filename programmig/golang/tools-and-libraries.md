@@ -51,9 +51,10 @@
 * [zerolog](https://github.com/rs/zerolog)
 * [zap](https://github.com/uber-go/zap)
 
-
+### Web Frameworks
+* [📖 Getting started - Fiber](https://fiber.wiki/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjkxMDY1NzEsLTU2ODUxNzYzNywtMj
-AwMzI2MzU2NywtMTI1NzI2MzU3OSw5NTUwNjIxMDQsMjA5ODIz
-ODM3MV19
+eyJoaXN0b3J5IjpbNDg3Nzc4MTg5LC0xNTI5MTA2NTcxLC01Nj
+g1MTc2MzcsLTIwMDMyNjM1NjcsLTEyNTcyNjM1NzksOTU1MDYy
+MTA0LDIwOTgyMzgzNzFdfQ==
 -->
