@@ -19,6 +19,8 @@
 ### Collections
 * [ awesome Go software](https://oxozle.com/awetop/avelino-awesome-go/)
 
+### Images
+* [smartcrop images](https://github.com/muesli/smartcrop)
 
 ### CLI
 * [uitable: terminal tabular data](https://github.com/gosuri/uitable)
@@ -50,6 +52,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2ODUxNzYzNywtMjAwMzI2MzU2NywtMT
-I1NzI2MzU3OSw5NTUwNjIxMDQsMjA5ODIzODM3MV19
+eyJoaXN0b3J5IjpbLTEzOTY1MzU2NDcsLTU2ODUxNzYzNywtMj
+AwMzI2MzU2NywtMTI1NzI2MzU3OSw5NTUwNjIxMDQsMjA5ODIz
+ODM3MV19
 -->
