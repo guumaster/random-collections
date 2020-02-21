@@ -47,7 +47,8 @@
 
 * [nats-io/go-nats-streaming: NATS Streaming System](https://github.com/nats-io/go-nats-streaming)
 
-### Postgres
+### Storages
+* [awesome-go-storage](https://github.com/gostor/awesome-go-storage/blob/master/README.md)
 * [jmoiron/sqlx: general purpose extensions to golang's database/sql](https://github.com/jmoiron/sqlx)
 
 
@@ -68,8 +69,9 @@
 
 [Dataframes in Go](https://github.com/go-gota/gota)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY4NjUyMzY0LC0xNjE2NDIwODU3LC0xNT
-YyNDM0NiwtNzg1NDk1NjM4LDgzODgzODA4LDQ4Nzc3ODE4OSwt
-MTUyOTEwNjU3MSwtNTY4NTE3NjM3LC0yMDAzMjYzNTY3LC0xMj
-U3MjYzNTc5LDk1NTA2MjEwNCwyMDk4MjM4MzcxXX0=
+eyJoaXN0b3J5IjpbMTMzMzQ5MzcwNCw0Njg2NTIzNjQsLTE2MT
+Y0MjA4NTcsLTE1NjI0MzQ2LC03ODU0OTU2MzgsODM4ODM4MDgs
+NDg3Nzc4MTg5LC0xNTI5MTA2NTcxLC01Njg1MTc2MzcsLTIwMD
+MyNjM1NjcsLTEyNTcyNjM1NzksOTU1MDYyMTA0LDIwOTgyMzgz
+NzFdfQ==
 -->
