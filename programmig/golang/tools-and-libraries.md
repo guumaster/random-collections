@@ -23,6 +23,7 @@
 
 ### Images
 * [smartcrop images](https://github.com/muesli/smartcrop)
+* [gifter: Gif image renderer running in terminal.](https://github.com/esimov/gifter)
 
 ### PDF
 
@@ -63,8 +64,8 @@
 
 [Dataframes in Go](https://github.com/go-gota/gota)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjI0MzQ2LC03ODU0OTU2MzgsODM4OD
-M4MDgsNDg3Nzc4MTg5LC0xNTI5MTA2NTcxLC01Njg1MTc2Mzcs
-LTIwMDMyNjM1NjcsLTEyNTcyNjM1NzksOTU1MDYyMTA0LDIwOT
-gyMzgzNzFdfQ==
+eyJoaXN0b3J5IjpbMTkzODE3NzY2NSwtMTU2MjQzNDYsLTc4NT
+Q5NTYzOCw4Mzg4MzgwOCw0ODc3NzgxODksLTE1MjkxMDY1NzEs
+LTU2ODUxNzYzNywtMjAwMzI2MzU2NywtMTI1NzI2MzU3OSw5NT
+UwNjIxMDQsMjA5ODIzODM3MV19
 -->
