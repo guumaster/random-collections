@@ -24,6 +24,7 @@
 ### Images
 * [smartcrop images](https://github.com/muesli/smartcrop)
 * [gifter: Gif image renderer running in terminal.](https://github.com/esimov/gifter)
+* [pigo: face detection library](https://github.com/esimov/pigo)
 
 ### PDF
 
@@ -64,8 +65,8 @@
 
 [Dataframes in Go](https://github.com/go-gota/gota)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzODE3NzY2NSwtMTU2MjQzNDYsLTc4NT
-Q5NTYzOCw4Mzg4MzgwOCw0ODc3NzgxODksLTE1MjkxMDY1NzEs
-LTU2ODUxNzYzNywtMjAwMzI2MzU2NywtMTI1NzI2MzU3OSw5NT
-UwNjIxMDQsMjA5ODIzODM3MV19
+eyJoaXN0b3J5IjpbLTE2MTY0MjA4NTcsLTE1NjI0MzQ2LC03OD
+U0OTU2MzgsODM4ODM4MDgsNDg3Nzc4MTg5LC0xNTI5MTA2NTcx
+LC01Njg1MTc2MzcsLTIwMDMyNjM1NjcsLTEyNTcyNjM1NzksOT
+U1MDYyMTA0LDIwOTgyMzgzNzFdfQ==
 -->
