@@ -7,12 +7,15 @@ Random collections of internets bits that caught my eye once.
 
 delivery
    grpc
-
+   graphql
+   
+infrastructure 
+  service
+  
 domain
    tipos y usecases
    
-   runtime  
-   version
+  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTIzODg4Ml19
+eyJoaXN0b3J5IjpbLTIwNzQwMjY4NTVdfQ==
 -->
