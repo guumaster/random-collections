@@ -26,6 +26,8 @@
 * [gifter: Gif image renderer running in terminal.](https://github.com/esimov/gifter)
 * [pigo: face detection library](https://github.com/esimov/pigo)
 * [gocv: computer vision using OpenCV](https://github.com/hybridgroup/gocv)
+* [colidr: Coherent Line Drawing algorithm](https://github.com/esimov/colidr)
+
 
 ### PDF
 
@@ -66,8 +68,8 @@
 
 [Dataframes in Go](https://github.com/go-gota/gota)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzkzNTE1MDAsLTE2MTY0MjA4NTcsLT
-E1NjI0MzQ2LC03ODU0OTU2MzgsODM4ODM4MDgsNDg3Nzc4MTg5
-LC0xNTI5MTA2NTcxLC01Njg1MTc2MzcsLTIwMDMyNjM1NjcsLT
-EyNTcyNjM1NzksOTU1MDYyMTA0LDIwOTgyMzgzNzFdfQ==
+eyJoaXN0b3J5IjpbNDY4NjUyMzY0LC0xNjE2NDIwODU3LC0xNT
+YyNDM0NiwtNzg1NDk1NjM4LDgzODgzODA4LDQ4Nzc3ODE4OSwt
+MTUyOTEwNjU3MSwtNTY4NTE3NjM3LC0yMDAzMjYzNTY3LC0xMj
+U3MjYzNTc5LDk1NTA2MjEwNCwyMDk4MjM4MzcxXX0=
 -->
