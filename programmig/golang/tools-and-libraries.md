@@ -16,6 +16,7 @@
 * [flite-go: Go bindings for Flite (text-to-speech)](https://github.com/gen2brain/flite-go)
 
 * [chroma: syntax highlighter in pure Go](https://github.com/alecthomas/chroma)
+* [Gobot - framework for robotics, drones, and IoT](https://gobot.io/)
 
 ### Collections
 * [ awesome Go software](https://oxozle.com/awetop/avelino-awesome-go/)
@@ -62,7 +63,8 @@
 
 [Dataframes in Go](https://github.com/go-gota/gota)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTQ5NTYzOCw4Mzg4MzgwOCw0ODc3Nz
-gxODksLTE1MjkxMDY1NzEsLTU2ODUxNzYzNywtMjAwMzI2MzU2
-NywtMTI1NzI2MzU3OSw5NTUwNjIxMDQsMjA5ODIzODM3MV19
+eyJoaXN0b3J5IjpbLTE1NjI0MzQ2LC03ODU0OTU2MzgsODM4OD
+M4MDgsNDg3Nzc4MTg5LC0xNTI5MTA2NTcxLC01Njg1MTc2Mzcs
+LTIwMDMyNjM1NjcsLTEyNTcyNjM1NzksOTU1MDYyMTA0LDIwOT
+gyMzgzNzFdfQ==
 -->
