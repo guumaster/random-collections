@@ -10,12 +10,12 @@ delivery
    graphql
    
 infrastructure 
-  service
   
 domain
-   tipos y usecases
+   entity interfaces 
+   usecases
    
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQwMjY4NTVdfQ==
+eyJoaXN0b3J5IjpbMTUyMjIwMTU4MV19
 -->
