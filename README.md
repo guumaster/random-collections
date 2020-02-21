@@ -9,10 +9,10 @@ delivery
    grpc
 
 domain
-   tipos y u
-   runtime
-     
+   tipos y usecases
+   
+   runtime  
    version
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4Njg3MDUwOV19
+eyJoaXN0b3J5IjpbMTY1MTIzODg4Ml19
 -->
