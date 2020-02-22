@@ -3,6 +3,8 @@
 
 ### Unsorted
 
+https://github.com/divan/slug
+
 * [emitter pub/sub](https://github.com/emitter-io/emitter) alternative to NATS
 * [teeproxy: multiply requests](https://github.com/chrislusf/teeproxy)
 * [benmanns/goworker](https://github.com/benmanns/goworker)
@@ -69,9 +71,9 @@
 
 [Dataframes in Go](https://github.com/go-gota/gota)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzQ5MzcwNCw0Njg2NTIzNjQsLTE2MT
-Y0MjA4NTcsLTE1NjI0MzQ2LC03ODU0OTU2MzgsODM4ODM4MDgs
-NDg3Nzc4MTg5LC0xNTI5MTA2NTcxLC01Njg1MTc2MzcsLTIwMD
-MyNjM1NjcsLTEyNTcyNjM1NzksOTU1MDYyMTA0LDIwOTgyMzgz
-NzFdfQ==
+eyJoaXN0b3J5IjpbLTE5NDIxMDYwMzgsMTMzMzQ5MzcwNCw0Nj
+g2NTIzNjQsLTE2MTY0MjA4NTcsLTE1NjI0MzQ2LC03ODU0OTU2
+MzgsODM4ODM4MDgsNDg3Nzc4MTg5LC0xNTI5MTA2NTcxLC01Nj
+g1MTc2MzcsLTIwMDMyNjM1NjcsLTEyNTcyNjM1NzksOTU1MDYy
+MTA0LDIwOTgyMzgzNzFdfQ==
 -->
