@@ -3,8 +3,10 @@
 
 ### Unsorted
 
-https://github.com/divan/slug
 
+
+* [jimlawless/whereami](https://github.com/jimlawless/whereami)
+* [slug: URL-friendly slugify with multiple languages support.](https://github.com/gosimple/slug) 
 * [emitter pub/sub](https://github.com/emitter-io/emitter) alternative to NATS
 * [teeproxy: multiply requests](https://github.com/chrislusf/teeproxy)
 * [benmanns/goworker](https://github.com/benmanns/goworker)
@@ -71,9 +73,9 @@ https://github.com/divan/slug
 
 [Dataframes in Go](https://github.com/go-gota/gota)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDIxMDYwMzgsMTMzMzQ5MzcwNCw0Nj
-g2NTIzNjQsLTE2MTY0MjA4NTcsLTE1NjI0MzQ2LC03ODU0OTU2
-MzgsODM4ODM4MDgsNDg3Nzc4MTg5LC0xNTI5MTA2NTcxLC01Nj
-g1MTc2MzcsLTIwMDMyNjM1NjcsLTEyNTcyNjM1NzksOTU1MDYy
-MTA0LDIwOTgyMzgzNzFdfQ==
+eyJoaXN0b3J5IjpbMTQ1OTEwMjE3NSwtMTk0MjEwNjAzOCwxMz
+MzNDkzNzA0LDQ2ODY1MjM2NCwtMTYxNjQyMDg1NywtMTU2MjQz
+NDYsLTc4NTQ5NTYzOCw4Mzg4MzgwOCw0ODc3NzgxODksLTE1Mj
+kxMDY1NzEsLTU2ODUxNzYzNywtMjAwMzI2MzU2NywtMTI1NzI2
+MzU3OSw5NTUwNjIxMDQsMjA5ODIzODM3MV19
 -->
