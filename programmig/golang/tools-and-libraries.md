@@ -4,6 +4,7 @@
 ### Unsorted
 
 
+* [go-chromecast: cli for Google Chromecast](https://github.com/vishen/go-chromecast)
 * [golang-set: A simple set type](https://github.com/deckarep/golang-set)
 * [GoReplay tool for capturing and replaying HTTP traffic](https://github.com/buger/goreplay)
 * [jimlawless/whereami](https://github.com/jimlawless/whereami)
@@ -74,10 +75,10 @@
 
 [Dataframes in Go](https://github.com/go-gota/gota)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MzgyMjg4MywtMTQ0Mjc5NjkwMSwxND
-U5MTAyMTc1LC0xOTQyMTA2MDM4LDEzMzM0OTM3MDQsNDY4NjUy
-MzY0LC0xNjE2NDIwODU3LC0xNTYyNDM0NiwtNzg1NDk1NjM4LD
-gzODgzODA4LDQ4Nzc3ODE4OSwtMTUyOTEwNjU3MSwtNTY4NTE3
-NjM3LC0yMDAzMjYzNTY3LC0xMjU3MjYzNTc5LDk1NTA2MjEwNC
-wyMDk4MjM4MzcxXX0=
+eyJoaXN0b3J5IjpbLTE4MTUwNjc5LDIwNjM4MjI4ODMsLTE0ND
+I3OTY5MDEsMTQ1OTEwMjE3NSwtMTk0MjEwNjAzOCwxMzMzNDkz
+NzA0LDQ2ODY1MjM2NCwtMTYxNjQyMDg1NywtMTU2MjQzNDYsLT
+c4NTQ5NTYzOCw4Mzg4MzgwOCw0ODc3NzgxODksLTE1MjkxMDY1
+NzEsLTU2ODUxNzYzNywtMjAwMzI2MzU2NywtMTI1NzI2MzU3OS
+w5NTUwNjIxMDQsMjA5ODIzODM3MV19
 -->
