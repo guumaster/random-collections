@@ -2,6 +2,7 @@
 
 ## Articles
 
+* [Go Proverbs](http://go-proverbs.github.io/)
 * [generating-good-unique-ids-in-go](https://blog.kowalczyk.info/article/JyRZ/generating-good-unique-ids-in-go.html)
 * [Faster builds in Docker with Go 1.11 - Container Solutions](https://container-solutions.com/faster-builds-in-docker-with-go-1-11/)
 * [Introducing NATS to Go Developers – Shiju Varghese – Medium](https://medium.com/@shijuvar/introducing-nats-to-go-developers-3cfcb98c21d0)
@@ -83,6 +84,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjczMzA3NjIsLTE0ODE4NDUzMTFdfQ
-==
+eyJoaXN0b3J5IjpbNzM3OTMzNiwtMTIyNzMzMDc2MiwtMTQ4MT
+g0NTMxMV19
 -->
