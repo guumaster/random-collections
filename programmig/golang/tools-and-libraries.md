@@ -4,7 +4,7 @@
 ### Unsorted
 
 
-
+* [golang-set: A simple set type](https://github.com/deckarep/golang-set)
 * [GoReplay tool for capturing and replaying HTTP traffic](https://github.com/buger/goreplay)
 * [jimlawless/whereami](https://github.com/jimlawless/whereami)
 * [slug: URL-friendly slugify with multiple languages support.](https://github.com/gosimple/slug) 
@@ -74,10 +74,10 @@
 
 [Dataframes in Go](https://github.com/go-gota/gota)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTEzODMyNTEsLTE0NDI3OTY5MDEsMT
-Q1OTEwMjE3NSwtMTk0MjEwNjAzOCwxMzMzNDkzNzA0LDQ2ODY1
-MjM2NCwtMTYxNjQyMDg1NywtMTU2MjQzNDYsLTc4NTQ5NTYzOC
-w4Mzg4MzgwOCw0ODc3NzgxODksLTE1MjkxMDY1NzEsLTU2ODUx
-NzYzNywtMjAwMzI2MzU2NywtMTI1NzI2MzU3OSw5NTUwNjIxMD
-QsMjA5ODIzODM3MV19
+eyJoaXN0b3J5IjpbMjA2MzgyMjg4MywtMTQ0Mjc5NjkwMSwxND
+U5MTAyMTc1LC0xOTQyMTA2MDM4LDEzMzM0OTM3MDQsNDY4NjUy
+MzY0LC0xNjE2NDIwODU3LC0xNTYyNDM0NiwtNzg1NDk1NjM4LD
+gzODgzODA4LDQ4Nzc3ODE4OSwtMTUyOTEwNjU3MSwtNTY4NTE3
+NjM3LC0yMDAzMjYzNTY3LC0xMjU3MjYzNTc5LDk1NTA2MjEwNC
+wyMDk4MjM4MzcxXX0=
 -->
