@@ -7,6 +7,9 @@
 * [go-chromecast: cli for Google Chromecast, Home devices and Cast Groups](https://github.com/vishen/go-chromecast)
 * [golang-set: A simple set type](https://github.com/deckarep/golang-set)
 * [GoReplay tool for capturing and replaying HTTP traffic](https://github.com/buger/goreplay)
+
+* [txn2/txeh: Go library and CLI utilty for /etc/hosts management.](https://github.com/txn2/txeh)
+
 * [jimlawless/whereami](https://github.com/jimlawless/whereami)
 * [slug: URL-friendly slugify with multiple languages support.](https://github.com/gosimple/slug) 
 * [emitter pub/sub](https://github.com/emitter-io/emitter) alternative to NATS
@@ -75,10 +78,10 @@
 
 [Dataframes in Go](https://github.com/go-gota/gota)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODc0NzY2NTksMjA2MzgyMjg4MywtMT
-Q0Mjc5NjkwMSwxNDU5MTAyMTc1LC0xOTQyMTA2MDM4LDEzMzM0
-OTM3MDQsNDY4NjUyMzY0LC0xNjE2NDIwODU3LC0xNTYyNDM0Ni
-wtNzg1NDk1NjM4LDgzODgzODA4LDQ4Nzc3ODE4OSwtMTUyOTEw
-NjU3MSwtNTY4NTE3NjM3LC0yMDAzMjYzNTY3LC0xMjU3MjYzNT
-c5LDk1NTA2MjEwNCwyMDk4MjM4MzcxXX0=
+eyJoaXN0b3J5IjpbNzQ4MTQ5MTE0LC0xMjg3NDc2NjU5LDIwNj
+M4MjI4ODMsLTE0NDI3OTY5MDEsMTQ1OTEwMjE3NSwtMTk0MjEw
+NjAzOCwxMzMzNDkzNzA0LDQ2ODY1MjM2NCwtMTYxNjQyMDg1Ny
+wtMTU2MjQzNDYsLTc4NTQ5NTYzOCw4Mzg4MzgwOCw0ODc3Nzgx
+ODksLTE1MjkxMDY1NzEsLTU2ODUxNzYzNywtMjAwMzI2MzU2Ny
+wtMTI1NzI2MzU3OSw5NTUwNjIxMDQsMjA5ODIzODM3MV19
 -->
