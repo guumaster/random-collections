@@ -4,7 +4,7 @@
 ### Unsorted
 
 
-
+* [GoReplay tool for capturing and replaying HTTP traffic](https://github.com/buger/goreplay)
 * [jimlawless/whereami](https://github.com/jimlawless/whereami)
 * [slug: URL-friendly slugify with multiple languages support.](https://github.com/gosimple/slug) 
 * [emitter pub/sub](https://github.com/emitter-io/emitter) alternative to NATS
@@ -73,9 +73,10 @@
 
 [Dataframes in Go](https://github.com/go-gota/gota)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTEwMjE3NSwtMTk0MjEwNjAzOCwxMz
-MzNDkzNzA0LDQ2ODY1MjM2NCwtMTYxNjQyMDg1NywtMTU2MjQz
-NDYsLTc4NTQ5NTYzOCw4Mzg4MzgwOCw0ODc3NzgxODksLTE1Mj
-kxMDY1NzEsLTU2ODUxNzYzNywtMjAwMzI2MzU2NywtMTI1NzI2
-MzU3OSw5NTUwNjIxMDQsMjA5ODIzODM3MV19
+eyJoaXN0b3J5IjpbLTE0NDI3OTY5MDEsMTQ1OTEwMjE3NSwtMT
+k0MjEwNjAzOCwxMzMzNDkzNzA0LDQ2ODY1MjM2NCwtMTYxNjQy
+MDg1NywtMTU2MjQzNDYsLTc4NTQ5NTYzOCw4Mzg4MzgwOCw0OD
+c3NzgxODksLTE1MjkxMDY1NzEsLTU2ODUxNzYzNywtMjAwMzI2
+MzU2NywtMTI1NzI2MzU3OSw5NTUwNjIxMDQsMjA5ODIzODM3MV
+19
 -->
