@@ -11,9 +11,9 @@
 
 ### Possible CLI ideas
 
-git changelog  # show a markdown output 
-git authors list 
-git is-rebased
+git changelog    # show a markdown output of commits with links
+git authors list  # list all authors in markdown with links
+git is-rebased   <current> <branch>  # check if the curren granc 
 
 
 
@@ -33,6 +33,6 @@ git is-rebased
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MzgyODI2NSwtMTQ3Nzk4NTkzNSwtNT
-c4NTkzMTM3LC0xNTQyNjQ4NzQ0LDE3MDI5MTI0NzFdfQ==
+eyJoaXN0b3J5IjpbODkyMDE2OTc0LC0xNDc3OTg1OTM1LC01Nz
+g1OTMxMzcsLTE1NDI2NDg3NDQsMTcwMjkxMjQ3MV19
 -->
