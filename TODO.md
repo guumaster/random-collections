@@ -7,7 +7,7 @@
 
 ## Coding Ideas
 
-* A CLI wrapper for [caniuse.com](http://caniuse.com) 
+* A CLI similar to  [hexsticker: create stickers automatically](https://github.com/fridex/hexsticker)
 
 
 ### Golang CLI
@@ -26,6 +26,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODU5MzEzNywtMTU0MjY0ODc0NCwxNz
-AyOTEyNDcxXX0=
+eyJoaXN0b3J5IjpbLTE0Nzc5ODU5MzUsLTU3ODU5MzEzNywtMT
+U0MjY0ODc0NCwxNzAyOTEyNDcxXX0=
 -->
