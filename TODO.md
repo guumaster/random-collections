@@ -9,12 +9,18 @@
 
 * A CLI similar to  [hexsticker: create stickers automatically](https://github.com/fridex/hexsticker)
 
+
+
+
+
 ### Possible CLI ideas
 
 git changelog    # show a markdown output of commits with links
 git authors list  # list all authors in markdown with links
 git check-rebased  <branch>  # check if the current branch is rebased from dest branch 
 
+### Copy as practice
+* [carbon-now-cli](https://github.com/mixn/carbon-now-cli)
 
 
 ### Golang CLI
@@ -33,7 +39,7 @@ git check-rebased  <branch>  # check if the current branch is rebased from dest 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MjEwODc1MCwtMTYyOTE1MjY3MiwtMT
-A0MjEwNjg1NiwtMTQ3Nzk4NTkzNSwtNTc4NTkzMTM3LC0xNTQy
-NjQ4NzQ0LDE3MDI5MTI0NzFdfQ==
+eyJoaXN0b3J5IjpbMTY3NDQ3NDA4MywxMjYyMTA4NzUwLC0xNj
+I5MTUyNjcyLC0xMDQyMTA2ODU2LC0xNDc3OTg1OTM1LC01Nzg1
+OTMxMzcsLTE1NDI2NDg3NDQsMTcwMjkxMjQ3MV19
 -->
