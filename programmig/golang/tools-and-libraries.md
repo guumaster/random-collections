@@ -42,6 +42,11 @@
 
 [Pdf](https://github.com/unidoc/unipdf)
 
+### Markdown
+* [russross/blackfriday: a markdown processor](https://github.com/russross/blackfriday)
+* [golang-commonmark / markdown](https://gitlab.com/golang-commonmark/markdown)
+* [yuin/goldmark: A markdown parser](https://github.com/yuin/goldmark)
+
 ### CLI
 * [uitable: terminal tabular data](https://github.com/gosuri/uitable)
 * [cli: command line apps](https://github.com/urfave/cli)
@@ -78,10 +83,11 @@
 
 [Dataframes in Go](https://github.com/go-gota/gota)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4MTQ5MTE0LC0xMjg3NDc2NjU5LDIwNj
-M4MjI4ODMsLTE0NDI3OTY5MDEsMTQ1OTEwMjE3NSwtMTk0MjEw
-NjAzOCwxMzMzNDkzNzA0LDQ2ODY1MjM2NCwtMTYxNjQyMDg1Ny
-wtMTU2MjQzNDYsLTc4NTQ5NTYzOCw4Mzg4MzgwOCw0ODc3Nzgx
-ODksLTE1MjkxMDY1NzEsLTU2ODUxNzYzNywtMjAwMzI2MzU2Ny
-wtMTI1NzI2MzU3OSw5NTUwNjIxMDQsMjA5ODIzODM3MV19
+eyJoaXN0b3J5IjpbLTEyNzUxNDcwMjgsNzQ4MTQ5MTE0LC0xMj
+g3NDc2NjU5LDIwNjM4MjI4ODMsLTE0NDI3OTY5MDEsMTQ1OTEw
+MjE3NSwtMTk0MjEwNjAzOCwxMzMzNDkzNzA0LDQ2ODY1MjM2NC
+wtMTYxNjQyMDg1NywtMTU2MjQzNDYsLTc4NTQ5NTYzOCw4Mzg4
+MzgwOCw0ODc3NzgxODksLTE1MjkxMDY1NzEsLTU2ODUxNzYzNy
+wtMjAwMzI2MzU2NywtMTI1NzI2MzU3OSw5NTUwNjIxMDQsMjA5
+ODIzODM3MV19
 -->
