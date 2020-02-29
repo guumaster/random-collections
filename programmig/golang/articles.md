@@ -16,7 +16,7 @@
 
 
 ### Architecture 
-* [H/main.go at hex · Holmes89/hex-example](https://github.com/Holmes89/hex-example/blob/hex/main.go)
+* [hex-example: Hexagonal architecture example](https://github.com/Holmes89/hex-example/blob/hex/main.go)
 * [bxcodec/go-clean-arch: Go Clean Architecture](https://github.com/bxcodec/go-clean-arch/)
 * [Using DDD in Golang](https://dev.to/stevensunflash/using-domain-driven-design-ddd-in-golang-3ee5)
 	* [victorsteven/food-app-server: Exploring Domain-Driven Design in Golang](https://github.com/victorsteven/food-app-server)
@@ -84,6 +84,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1NzM0MDI3LDMxNDMyNTYwLDczNzkzMz
-YsLTEyMjczMzA3NjIsLTE0ODE4NDUzMTFdfQ==
+eyJoaXN0b3J5IjpbMTgxMjYxMTUzMCwzMTQzMjU2MCw3Mzc5Mz
+M2LC0xMjI3MzMwNzYyLC0xNDgxODQ1MzExXX0=
 -->
