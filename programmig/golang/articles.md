@@ -1,5 +1,10 @@
 # Golang
 
+
+## Videos
+* [gophervids](http://gophervids.appspot.com/)
+
+
 ## Articles
 
 * [Go Proverbs](http://go-proverbs.github.io/)
@@ -84,6 +89,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3OTMzNiwtMTIyNzMzMDc2MiwtMTQ4MT
-g0NTMxMV19
+eyJoaXN0b3J5IjpbMzE0MzI1NjAsNzM3OTMzNiwtMTIyNzMzMD
+c2MiwtMTQ4MTg0NTMxMV19
 -->
