@@ -15,6 +15,13 @@
 * [function to return an Interface](https://stackoverflow.com/questions/35006640/golang-function-to-return-an-interface)
 
 
+### Architecture 
+* [H/main.go at hex · Holmes89/hex-example](https://github.com/Holmes89/hex-example/blob/hex/main.go)
+* [bxcodec/go-clean-arch: Go Clean Architecture](https://github.com/bxcodec/go-clean-arch/)
+* [Using DDD in Golang](https://dev.to/stevensunflash/using-domain-driven-design-ddd-in-golang-3ee5)
+	* [victorsteven/food-app-server: Exploring Domain-Driven Design in Golang](https://github.com/victorsteven/food-app-server)
+
+
 ### Context 
 * [Go Concurrency Patterns: Pipelines and cancellation - The Go Blog](https://blog.golang.org/pipelines)
 * [Go Concurrency Patterns: Context - The Go Blog](https://blog.golang.org/context)
@@ -76,19 +83,7 @@
 * [alco/gostart: A getting started guide for Go newcomers](https://github.com/alco/gostart)
 
 
-### Complain articles
-
-* [More Adventures in the Land of Go](http://pinchito.es/2018/more-golang-adventures.html)
-* [Adventures in the Land of Go](http://pinchito.es/2016/golang-adventures.html)
-* [Ten Reasons Why I Don't Like Golang](https://www.teamten.com/lawrence/writings/why-i-dont-like-go.html)
-
-
-## IDE
-
-* [Setup Go Development Environment with Visual Studio Code](https://rominirani.com/setup-go-development-environment-with-visual-studio-code-7ea5d643a51a)
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0MzI1NjAsNzM3OTMzNiwtMTIyNzMzMD
-c2MiwtMTQ4MTg0NTMxMV19
+eyJoaXN0b3J5IjpbNTk1NzM0MDI3LDMxNDMyNTYwLDczNzkzMz
+YsLTEyMjczMzA3NjIsLTE0ODE4NDUzMTFdfQ==
 -->
