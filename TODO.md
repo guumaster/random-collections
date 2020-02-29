@@ -13,7 +13,7 @@
 
 git changelog    # show a markdown output of commits with links
 git authors list  # list all authors in markdown with links
-git is-rebased   <current> <branch>  # check if the curren granc 
+git check-rebased  <branch>  # check if the current branch is rebased from dest branch 
 
 
 
@@ -33,6 +33,6 @@ git is-rebased   <current> <branch>  # check if the curren granc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyMDE2OTc0LC0xNDc3OTg1OTM1LC01Nz
-g1OTMxMzcsLTE1NDI2NDg3NDQsMTcwMjkxMjQ3MV19
+eyJoaXN0b3J5IjpbLTEwNDIxMDY4NTYsLTE0Nzc5ODU5MzUsLT
+U3ODU5MzEzNywtMTU0MjY0ODc0NCwxNzAyOTEyNDcxXX0=
 -->
