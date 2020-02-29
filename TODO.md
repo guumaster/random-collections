@@ -2,6 +2,7 @@
 ## Reading list
 
 * [Learn Fast by Doing. Learn Faster by Teaching](https://medium.com/@_erikaybar/learn-fast-by-doing-learn-faster-by-teaching-5b669c71dc03)
+* 
 
 
 
@@ -14,7 +15,7 @@
 git changelog    # show a markdown output of commits with links
 git authors list  # list all authors in markdown with links
 git check-rebased  <branch>  # check if the current branch is rebased from dest branch 
-[https://www.digitalocean.com/community/tutorials/creating-custom-errors-in-go](https://www.digitalocean.com/community/tutorials/creating-custom-errors-in-go)
+
 
 
 ### Golang CLI
@@ -33,7 +34,7 @@ git check-rebased  <branch>  # check if the current branch is rebased from dest 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NDkxNzg1NywtMTA0MjEwNjg1NiwtMT
-Q3Nzk4NTkzNSwtNTc4NTkzMTM3LC0xNTQyNjQ4NzQ0LDE3MDI5
-MTI0NzFdfQ==
+eyJoaXN0b3J5IjpbLTE2MjkxNTI2NzIsLTEwNDIxMDY4NTYsLT
+E0Nzc5ODU5MzUsLTU3ODU5MzEzNywtMTU0MjY0ODc0NCwxNzAy
+OTEyNDcxXX0=
 -->
