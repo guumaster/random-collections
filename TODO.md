@@ -2,8 +2,7 @@
 ## Reading list
 
 * [Learn Fast by Doing. Learn Faster by Teaching](https://medium.com/@_erikaybar/learn-fast-by-doing-learn-faster-by-teaching-5b669c71dc03)
-* 
-
+* [Mocking gRPC in Go](https://rogchap.com/2019/06/25/mocking-grpc-in-go/)
 
 
 ## Coding Ideas
@@ -34,7 +33,7 @@ git check-rebased  <branch>  # check if the current branch is rebased from dest 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjkxNTI2NzIsLTEwNDIxMDY4NTYsLT
-E0Nzc5ODU5MzUsLTU3ODU5MzEzNywtMTU0MjY0ODc0NCwxNzAy
-OTEyNDcxXX0=
+eyJoaXN0b3J5IjpbMTI2MjEwODc1MCwtMTYyOTE1MjY3MiwtMT
+A0MjEwNjg1NiwtMTQ3Nzk4NTkzNSwtNTc4NTkzMTM3LC0xNTQy
+NjQ4NzQ0LDE3MDI5MTI0NzFdfQ==
 -->
