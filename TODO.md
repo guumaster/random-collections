@@ -9,6 +9,13 @@
 
 * A CLI similar to  [hexsticker: create stickers automatically](https://github.com/fridex/hexsticker)
 
+### Possible CLI ideas
+
+git changelog  # show a markdown output 
+git authors list 
+git is-rebased
+
+
 
 ### Golang CLI
 
@@ -26,6 +33,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzc5ODU5MzUsLTU3ODU5MzEzNywtMT
-U0MjY0ODc0NCwxNzAyOTEyNDcxXX0=
+eyJoaXN0b3J5IjpbLTc3MzgyODI2NSwtMTQ3Nzk4NTkzNSwtNT
+c4NTkzMTM3LC0xNTQyNjQ4NzQ0LDE3MDI5MTI0NzFdfQ==
 -->
