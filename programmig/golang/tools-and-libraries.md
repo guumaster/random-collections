@@ -55,6 +55,7 @@
 * [go-prompt: interactive prompts](https://github.com/c-bata/go-prompt)
 * [emoji: emoji terminal output](https://github.com/kyokomi/emoji)
 * [go-cmd/cmd: Non-blocking external commands](https://github.com/go-cmd/cmd)
+* [dimiro1/banner: CLI banners](https://github.com/dimiro1/banner)
 
 
 ### NATS
@@ -83,11 +84,11 @@
 
 [Dataframes in Go](https://github.com/go-gota/gota)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzUxNDcwMjgsNzQ4MTQ5MTE0LC0xMj
-g3NDc2NjU5LDIwNjM4MjI4ODMsLTE0NDI3OTY5MDEsMTQ1OTEw
-MjE3NSwtMTk0MjEwNjAzOCwxMzMzNDkzNzA0LDQ2ODY1MjM2NC
-wtMTYxNjQyMDg1NywtMTU2MjQzNDYsLTc4NTQ5NTYzOCw4Mzg4
-MzgwOCw0ODc3NzgxODksLTE1MjkxMDY1NzEsLTU2ODUxNzYzNy
-wtMjAwMzI2MzU2NywtMTI1NzI2MzU3OSw5NTUwNjIxMDQsMjA5
-ODIzODM3MV19
+eyJoaXN0b3J5IjpbMTIyNDk3NjAzNiwtMTI3NTE0NzAyOCw3ND
+gxNDkxMTQsLTEyODc0NzY2NTksMjA2MzgyMjg4MywtMTQ0Mjc5
+NjkwMSwxNDU5MTAyMTc1LC0xOTQyMTA2MDM4LDEzMzM0OTM3MD
+QsNDY4NjUyMzY0LC0xNjE2NDIwODU3LC0xNTYyNDM0NiwtNzg1
+NDk1NjM4LDgzODgzODA4LDQ4Nzc3ODE4OSwtMTUyOTEwNjU3MS
+wtNTY4NTE3NjM3LC0yMDAzMjYzNTY3LC0xMjU3MjYzNTc5LDk1
+NTA2MjEwNF19
 -->
