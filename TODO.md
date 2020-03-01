@@ -19,6 +19,11 @@ git changelog    # show a markdown output of commits with links
 git authors list  # list all authors in markdown with links
 git check-rebased  <branch>  # check if the current branch is rebased from dest branch 
 
+
+
+* [Text to ASCII Art Generator (TAAG)](http://patorjk.com/software/taag/#p=testall&f=Flower%20Power&t=Dracarys)
+* [FIGlet - hosted by PLiG](http://www.figlet.org/fontdb.cgi)
+
 ### Copy as practice
 * [carbon-now-cli](https://github.com/mixn/carbon-now-cli)
 
@@ -39,7 +44,8 @@ git check-rebased  <branch>  # check if the current branch is rebased from dest 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDQ3NDA4MywxMjYyMTA4NzUwLC0xNj
-I5MTUyNjcyLC0xMDQyMTA2ODU2LC0xNDc3OTg1OTM1LC01Nzg1
-OTMxMzcsLTE1NDI2NDg3NDQsMTcwMjkxMjQ3MV19
+eyJoaXN0b3J5IjpbMjEyMzY0MjQ4NSwxNjc0NDc0MDgzLDEyNj
+IxMDg3NTAsLTE2MjkxNTI2NzIsLTEwNDIxMDY4NTYsLTE0Nzc5
+ODU5MzUsLTU3ODU5MzEzNywtMTU0MjY0ODc0NCwxNzAyOTEyND
+cxXX0=
 -->
