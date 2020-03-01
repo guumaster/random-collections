@@ -15,9 +15,10 @@
 
 ### Possible CLI ideas
 
-dir-cleaner  # remove directories like npm_modules, 
-   - remove all in .gitignore ?
-   - dry-run to check what would be deleted
+dir-cleaner  # * [voidcosmos/npkill: List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.](https://github.com/voidcosmos/npkill)
+	- remove directories like npm_modules, 
+	- remove all in .gitignore ?
+	- dry-run to check what would be deleted
 
 git changelog    # show a markdown output of commits with links
 git authors list  # list all authors in markdown with links
@@ -48,7 +49,7 @@ git check-rebased  <branch>  # check if the current branch is rebased from dest 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzczODcxNzEsMTY3NDQ3NDA4MywxMj
+eyJoaXN0b3J5IjpbLTExMjEwODE5MTgsMTY3NDQ3NDA4MywxMj
 YyMTA4NzUwLC0xNjI5MTUyNjcyLC0xMDQyMTA2ODU2LC0xNDc3
 OTg1OTM1LC01Nzg1OTMxMzcsLTE1NDI2NDg3NDQsMTcwMjkxMj
 Q3MV19
