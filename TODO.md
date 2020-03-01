@@ -26,6 +26,7 @@ git check-rebased  <branch>  # check if the current branch is rebased from dest 
 
 
 
+
 * [Text to ASCII Art Generator (TAAG)](http://patorjk.com/software/taag/#p=testall&t=Dracarys)
 * [FIGlet - hosted by PLiG](http://www.figlet.org/fontdb.cgi)
 
@@ -49,8 +50,8 @@ git check-rebased  <branch>  # check if the current branch is rebased from dest 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NDY2MzYxMSwxNjc0NDc0MDgzLDEyNj
-IxMDg3NTAsLTE2MjkxNTI2NzIsLTEwNDIxMDY4NTYsLTE0Nzc5
-ODU5MzUsLTU3ODU5MzEzNywtMTU0MjY0ODc0NCwxNzAyOTEyND
-cxXX0=
+eyJoaXN0b3J5IjpbLTM1MjkxMTA4MSwtMjk0NjYzNjExLDE2Nz
+Q0NzQwODMsMTI2MjEwODc1MCwtMTYyOTE1MjY3MiwtMTA0MjEw
+Njg1NiwtMTQ3Nzk4NTkzNSwtNTc4NTkzMTM3LC0xNTQyNjQ4Nz
+Q0LDE3MDI5MTI0NzFdfQ==
 -->
