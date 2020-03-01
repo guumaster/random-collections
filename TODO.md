@@ -15,6 +15,8 @@
 
 ### Possible CLI ideas
 
+dir-cleaner  # remove 
+
 git changelog    # show a markdown output of commits with links
 git authors list  # list all authors in markdown with links
 git check-rebased  <branch>  # check if the current branch is rebased from dest branch 
@@ -44,7 +46,7 @@ git check-rebased  <branch>  # check if the current branch is rebased from dest 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzY0MjQ4NSwxNjc0NDc0MDgzLDEyNj
+eyJoaXN0b3J5IjpbMTg1NDU5NDExNCwxNjc0NDc0MDgzLDEyNj
 IxMDg3NTAsLTE2MjkxNTI2NzIsLTEwNDIxMDY4NTYsLTE0Nzc5
 ODU5MzUsLTU3ODU5MzEzNywtMTU0MjY0ODc0NCwxNzAyOTEyND
 cxXX0=
