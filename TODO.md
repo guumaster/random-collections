@@ -30,7 +30,7 @@ git check-rebased  <branch>  # check if the current branch is rebased from dest 
 * [dominikwilkowski/cfonts: fonts for the console](https://github.com/dominikwilkowski/cfonts)
 * [Text to ASCII Art Generator (TAAG)](http://patorjk.com/software/taag/#p=testall&t=Dracarys)
 * [FIGlet - hosted by PLiG](http://www.figlet.org/fontdb.cgi)
-
+* [sindresorhus/boxen: Create boxes in the terminal](https://github.com/sindresorhus/boxen)
 
 
 ### Copy as practice
@@ -53,7 +53,7 @@ git check-rebased  <branch>  # check if the current branch is rebased from dest 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyODc1OTAwMiwtMjk0NjYzNjExLDE2Nz
+eyJoaXN0b3J5IjpbMTI1NTQ1ODg0NiwtMjk0NjYzNjExLDE2Nz
 Q0NzQwODMsMTI2MjEwODc1MCwtMTYyOTE1MjY3MiwtMTA0MjEw
 Njg1NiwtMTQ3Nzk4NTkzNSwtNTc4NTkzMTM3LC0xNTQyNjQ4Nz
 Q0LDE3MDI5MTI0NzFdfQ==
