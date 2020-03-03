@@ -47,14 +47,16 @@ git check-rebased  <branch>  # check if the current branch is rebased from dest 
 
 ## Blogging 
 
+### Nice templates
 * [ribice/kiss: simple Hugo theme](https://github.com/ribice/kiss)
+* [natefinch/rpg: a personal website about RPGs](https://github.com/natefinch/rpg)
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTQ1ODg0NiwtMjk0NjYzNjExLDE2Nz
-Q0NzQwODMsMTI2MjEwODc1MCwtMTYyOTE1MjY3MiwtMTA0MjEw
-Njg1NiwtMTQ3Nzk4NTkzNSwtNTc4NTkzMTM3LC0xNTQyNjQ4Nz
-Q0LDE3MDI5MTI0NzFdfQ==
+eyJoaXN0b3J5IjpbMTQ0ODQ1NDMwNSwxMjU1NDU4ODQ2LC0yOT
+Q2NjM2MTEsMTY3NDQ3NDA4MywxMjYyMTA4NzUwLC0xNjI5MTUy
+NjcyLC0xMDQyMTA2ODU2LC0xNDc3OTg1OTM1LC01Nzg1OTMxMz
+csLTE1NDI2NDg3NDQsMTcwMjkxMjQ3MV19
 -->
