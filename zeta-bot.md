@@ -3,6 +3,14 @@
 # ZETA - automation helper
 
 
+### Features
+- Allows to run Go binaries or node programs as plugins. 
+- If Go is detected, can run programs from source (maybe with `mage` ?) 
+- Has a config file to store global preferences `$HOME/.zeta/config`
+- Export variables to underlying plugins
+- Has a simple SDK for plugin developments
+	
+	
 ### Env Vars
 ZETA_CONFIG=path to config folder
 ZETA_PLUGINS=path to plugin binaries
@@ -42,21 +50,12 @@ Inspired in Krew, plugin index is a central repo with a yaml/json file pointing 
 - **programs** (IGZ specific) help with program tasks
 	- upload video
 	- notify  send slack messages about coming talks and videos uploaded
-	- 
-
-
-### Features
-- Install Go binaries or node programs as plugins. 
-- Has a config file to store global preferences `$HOME/.zeta/config`
-- Export variables to underlying plugins
-	- ZETA_VERSION
-	- ZETA_CONFIG
-	- ZETA_PLUGIN
-
+	
+	
 ### Mini SDK
 - Expose helper functions to run interactive questionaries both CLI and web
 - Expose helper functions to save plugin preferences
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDM1NTAyOTYsLTEwMzI4ODYzNjVdfQ
-==
+eyJoaXN0b3J5IjpbLTE3Mzc3MTA0MzgsLTEwNDM1NTAyOTYsLT
+EwMzI4ODYzNjVdfQ==
 -->
