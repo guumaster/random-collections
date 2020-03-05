@@ -17,7 +17,7 @@
 - Expose helper functions to save plugin preferences
 - templating helper
 - Git/gitlab/gihtub setup helper to handle tokens without env vars
-	- functions to ad
+	- functions to check requiremets like `useGitlabToken` or 
 - integrates with fzf  ?
 
 
@@ -51,6 +51,9 @@ Inspired in Krew, plugin index is a central repo with a yaml/json file pointing 
 
 - **git-changelog** reads commits and make a markdown changelog list (maybe with a template)
 
+
+- **monorepo** he
+	
 - **onboarding** (IGZ specific) help with introduction of new employee
 	- web-draft: open a web editor to write your Markdown presentation
 	- send PR
@@ -68,6 +71,6 @@ ZETA_ALIAS=path to aliases config
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNjYxOTQ4MiwxNDEwMzY0OTcsLTEwND
-M1NTAyOTYsLTEwMzI4ODYzNjVdfQ==
+eyJoaXN0b3J5IjpbNjA5MTE2NTE3LDE0MTAzNjQ5NywtMTA0Mz
+U1MDI5NiwtMTAzMjg4NjM2NV19
 -->
