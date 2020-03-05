@@ -54,6 +54,7 @@ Inspired in Krew, plugin index is a central repo with a yaml/json file pointing 
 
 - **git-changelog** reads commits and make a markdown changelog list (maybe with a template)
 
+- **github-install** install binaries directly from 
 
 - **monorepo** helper to work with monorepo
 	- get tags: show tags 
@@ -78,6 +79,6 @@ ZETA_ALIAS=path to aliases config
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMTM3MTkyNSwtMTY4ODczNjU0OCwxND
+eyJoaXN0b3J5IjpbLTM5MDU1MzIyNSwtMTY4ODczNjU0OCwxND
 EwMzY0OTcsLTEwNDM1NTAyOTYsLTEwMzI4ODYzNjVdfQ==
 -->
