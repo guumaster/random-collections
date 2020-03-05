@@ -6,7 +6,7 @@
 ### Env Vars
 ZETA_CONFIG=path to config folder
 ZETA_PLUGINS=path to plugin binaries
-ZETA_
+ZETA_ALIAS=path to aliases config
 
 ### Possible commands 
 
@@ -48,5 +48,5 @@ Inspired in Krew, plugin index is a central repo with a yaml/json file pointing 
 - Expose helper functions to run interactive questionaries both CLI and web
 - Expose helper functions to save plugin preferences
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDkwODI2NF19
+eyJoaXN0b3J5IjpbLTEwMzI4ODYzNjVdfQ==
 -->
