@@ -27,6 +27,8 @@ Inspired in Krew, plugin index is a central repo with a yaml/json file pointing 
 	- list
 	- set/unset
 
+- **onboarding** (IGZ specific) a helper to 
+
 
 ### Features
 - Install Go binaries or node programs as plugins. 
@@ -40,5 +42,5 @@ Inspired in Krew, plugin index is a central repo with a yaml/json file pointing 
 - Expose helper functions to run interactive questionaries both CLI and web
 - Expose helper functions to save plugin preferences
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MjkyOTM0MV19
+eyJoaXN0b3J5IjpbLTEyNDE0OTU4OTRdfQ==
 -->
