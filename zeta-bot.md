@@ -27,7 +27,11 @@ Inspired in Krew, plugin index is a central repo with a yaml/json file pointing 
 - Export variables to underlying plugins
 	- ZETA_VERSION
 	- ZETA_CONFIG
-	- ZETA_PLUGIN 
+	- ZETA_PLUGIN
+
+### Mini SDK
+- Expose helper functions to run interactive questionaries both CLI and web
+- Expose helper functions to save plugin preferences
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTYxMzAxNl19
+eyJoaXN0b3J5IjpbLTg2Nzc3Mjg1MV19
 -->
