@@ -17,6 +17,7 @@
 - Expose helper functions to save plugin preferences
 - templating helper
 - Git/gitlab/gihtub setup helper to handle tokens without env vars
+	- functions to ad
 - integrates with fzf  ?
 
 
@@ -32,6 +33,8 @@
 	- config <plugin> allows to save preferences for plugins
 
 - **help** show all available commands and aliases
+	- help <plugin> show specific plugin help (use templating or simple string)
+
 
 
 ### Plugins ideas
@@ -65,6 +68,6 @@ ZETA_ALIAS=path to aliases config
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMTg4NzgxMywxNDEwMzY0OTcsLTEwND
+eyJoaXN0b3J5IjpbLTcxNjYxOTQ4MiwxNDEwMzY0OTcsLTEwND
 M1NTAyOTYsLTEwMzI4ODYzNjVdfQ==
 -->
