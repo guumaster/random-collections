@@ -8,7 +8,7 @@
 - **login**  oauth login with Google
 
 - **plugin** list installed plugins or search
-	- **search** 
+	- search 
 	- install 
 	- list 
 
@@ -23,6 +23,8 @@ Inspired in Krew, plugin index is a central repo with a yaml/json file pointing 
 	- list 
 	- add/edit
 	- remove
+- **alias** create ZETA shortcuts to specific plugins on an executable path
+	- 
 
 
 ### Features
@@ -37,5 +39,5 @@ Inspired in Krew, plugin index is a central repo with a yaml/json file pointing 
 - Expose helper functions to run interactive questionaries both CLI and web
 - Expose helper functions to save plugin preferences
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTM3NDgxOTZdfQ==
+eyJoaXN0b3J5IjpbLTcxMDIyNDk4M119
 -->
