@@ -14,10 +14,9 @@
 ### Mini SDK
 - Expose helper functions to run interactive questions both CLI and web
 - Expose helper functions to save plugin preferences
-
-- Git helper 
-- gitlab/gihtub setup helper (using [GITHUB/GITLAB]_TOKEN)
-
+- templating helper
+- Git/gitlab/gihtub setup helper to handle tokens without env vars
+- 
 
 ### Possible commands 
 
@@ -62,6 +61,6 @@ ZETA_ALIAS=path to aliases config
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTIyMTEyMCwtMTA0MzU1MDI5NiwtMT
-AzMjg4NjM2NV19
+eyJoaXN0b3J5IjpbNDc4NDg0MDAzLC0xMDQzNTUwMjk2LC0xMD
+MyODg2MzY1XX0=
 -->
