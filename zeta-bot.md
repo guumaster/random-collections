@@ -5,10 +5,12 @@
 
 ### Features
 - Allows to run Go binaries or node programs as plugins. 
-- If Go is detected, can run programs from source (maybe with `mage` ?) 
+- If Go is detected, can run programs from source (maybe with `magefiles` ?) 
 - Has a config file to store global preferences `$HOME/.zeta/config`
 - Export variables to underlying plugins
 - Has a simple SDK for plugin development
+- Can compile into a single binary including plugins in Go (using `magefiles`)
+ 
 	
 	
 ### Mini SDK
@@ -76,6 +78,6 @@ ZETA_ALIAS=path to aliases config
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODg3MzY1NDgsMTQxMDM2NDk3LC0xMD
-QzNTUwMjk2LC0xMDMyODg2MzY1XX0=
+eyJoaXN0b3J5IjpbMTIwMTM3MTkyNSwtMTY4ODczNjU0OCwxND
+EwMzY0OTcsLTEwNDM1NTAyOTYsLTEwMzI4ODYzNjVdfQ==
 -->
