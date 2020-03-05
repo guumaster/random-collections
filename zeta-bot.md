@@ -21,10 +21,11 @@ Inspired in Krew, plugin index is a central repo with a yaml/json file pointing 
 
 - **etc-host** handle content of etc/host files with ease
 	- list 
-	- add/edit
-	- remove
+	- set/unset
+
 - **alias** create ZETA shortcuts to specific plugins on an executable path
-	- 
+	- list
+	- set/unset
 
 
 ### Features
@@ -39,5 +40,5 @@ Inspired in Krew, plugin index is a central repo with a yaml/json file pointing 
 - Expose helper functions to run interactive questionaries both CLI and web
 - Expose helper functions to save plugin preferences
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDIyNDk4M119
+eyJoaXN0b3J5IjpbLTc5MjkyOTM0MV19
 -->
