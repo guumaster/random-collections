@@ -15,9 +15,10 @@
 - Available for Go/Node/Python/Bash 
 - Expose helper functions to run interactive questions both CLI and web
 - Expose helper functions to save plugin preferences
+- Expose plugin interface to allow interop between plugins
 - templating helper
 - Git/gitlab/gihtub setup helper to handle tokens without env vars
-	- functions to check requiremets like `useGitlabToken` or 
+	- functions to check requiremets like `useGitlabToken`  
 - integrates with fzf  ?
 
 
@@ -75,6 +76,6 @@ ZETA_ALIAS=path to aliases config
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3NjQ4MjE3LDE0MTAzNjQ5NywtMTA0Mz
-U1MDI5NiwtMTAzMjg4NjM2NV19
+eyJoaXN0b3J5IjpbLTE2ODg3MzY1NDgsMTQxMDM2NDk3LC0xMD
+QzNTUwMjk2LC0xMDMyODg2MzY1XX0=
 -->
