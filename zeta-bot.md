@@ -17,7 +17,8 @@
 - Expose helper functions to save plugin preferences
 - templating helper
 - Git/gitlab/gihtub setup helper to handle tokens without env vars
-- 
+- integrates with fzf  ?
+
 
 ### Possible commands 
 
@@ -28,6 +29,8 @@
 	- list 
 - **web**  start a local server on http://localhost:7777 with UI options
 - **config** command to setup all zeta variables
+	- config <plugin> allows to save preferences for plugins
+
 - **help** show all available commands and aliases
 
 
@@ -62,6 +65,6 @@ ZETA_ALIAS=path to aliases config
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMDM2NDk3LC0xMDQzNTUwMjk2LC0xMD
-MyODg2MzY1XX0=
+eyJoaXN0b3J5IjpbMTIxMTg4NzgxMywxNDEwMzY0OTcsLTEwND
+M1NTAyOTYsLTEwMzI4ODYzNjVdfQ==
 -->
