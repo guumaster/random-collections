@@ -8,23 +8,21 @@
 - If Go is detected, can run programs from source (maybe with `mage` ?) 
 - Has a config file to store global preferences `$HOME/.zeta/config`
 - Export variables to underlying plugins
-- Has a simple SDK for plugin developments
+- Has a simple SDK for plugin development
 	
 	
-### Env Vars
-ZETA_CONFIG=path to config folder
-ZETA_PLUGINS=path to plugin binaries
-ZETA_ALIAS=path to aliases config
+### Mini SDK
+- Expose helper functions to run interactive questions both CLI and web
+- Expose helper functions to save plugin preferences
+- Git helper (
 
 ### Possible commands 
 
 - **login**  oauth login with Google
-
 - **plugin** list installed plugins or search
 	- search 
 	- install 
 	- list 
-
 - **web**  start a local server on http://localhost:7777 with UI options
 - **config** command to setup all zeta variables
 - **help** show all available commands and aliases
@@ -50,12 +48,15 @@ Inspired in Krew, plugin index is a central repo with a yaml/json file pointing 
 - **programs** (IGZ specific) help with program tasks
 	- upload video
 	- notify  send slack messages about coming talks and videos uploaded
+		
+### Env Vars
+ZETA_CONFIG=path to config folder
+ZETA_PLUGINS=path to plugin binaries
+ZETA_ALIAS=path to aliases config
+
+
 	
-	
-### Mini SDK
-- Expose helper functions to run interactive questionaries both CLI and web
-- Expose helper functions to save plugin preferences
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzc3MTA0MzgsLTEwNDM1NTAyOTYsLT
-EwMzI4ODYzNjVdfQ==
+eyJoaXN0b3J5IjpbNTgxMzI0OTk1LC0xMDQzNTUwMjk2LC0xMD
+MyODg2MzY1XX0=
 -->
