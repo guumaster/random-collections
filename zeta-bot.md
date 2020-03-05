@@ -52,7 +52,8 @@ Inspired in Krew, plugin index is a central repo with a yaml/json file pointing 
 - **git-changelog** reads commits and make a markdown changelog list (maybe with a template)
 
 
-- **monorepo** he
+- **monorepo** helper to work with monorepo
+	- get tags: show tags 
 	
 - **onboarding** (IGZ specific) help with introduction of new employee
 	- web-draft: open a web editor to write your Markdown presentation
@@ -62,7 +63,10 @@ Inspired in Krew, plugin index is a central repo with a yaml/json file pointing 
 - **programs** (IGZ specific) help with program tasks
 	- upload video
 	- notify  send slack messages about coming talks and videos uploaded
+
+- **kre** (konstellation) helper to handle kre local environment
 		
+
 ### Env Vars
 ZETA_CONFIG=path to config folder
 ZETA_PLUGINS=path to plugin binaries
@@ -71,6 +75,6 @@ ZETA_ALIAS=path to aliases config
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5MTE2NTE3LDE0MTAzNjQ5NywtMTA0Mz
+eyJoaXN0b3J5IjpbMzg3NjQ4MjE3LDE0MTAzNjQ5NywtMTA0Mz
 U1MDI5NiwtMTAzMjg4NjM2NV19
 -->
