@@ -3,6 +3,9 @@
 # ZETA - automation helper
 
 
+### Vars
+ZETA_CONFIG=path to 
+
 ### Possible commands 
 
 - **login**  oauth login with Google
@@ -13,6 +16,7 @@
 	- list 
 
 - **web**  start a local server on http://localhost:7777 with UI options
+- **config** command to setup all zeta variables
 
 
 ### Plugins ideas
@@ -27,7 +31,7 @@ Inspired in Krew, plugin index is a central repo with a yaml/json file pointing 
 	- list
 	- set/unset
 
-- **onboarding** (IGZ specific) a helper to 
+- **onboarding** (IGZ specific) help with introduction
 
 
 ### Features
@@ -42,5 +46,5 @@ Inspired in Krew, plugin index is a central repo with a yaml/json file pointing 
 - Expose helper functions to run interactive questionaries both CLI and web
 - Expose helper functions to save plugin preferences
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDE0OTU4OTRdfQ==
+eyJoaXN0b3J5IjpbMTQ4NzM4ODc5Nl19
 -->
