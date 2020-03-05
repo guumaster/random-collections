@@ -9,16 +9,20 @@
 
 - **plugin** list installed plugins or search
 	- **search** 
-	- **install** 
-	- **list** 
+	- install 
+	- list 
 
 - **web**  start a local server on http://localhost:7777 with UI options
 
 
-### Plugins
+### Plugins ideas
 
 Inspired in Krew, plugin index is a central repo with a yaml/json file pointing to different plugins
 
+- **etc-host** handle content of etc/host files with ease
+	- list 
+	- add/edit
+	- remove
 
 
 ### Features
@@ -33,5 +37,5 @@ Inspired in Krew, plugin index is a central repo with a yaml/json file pointing 
 - Expose helper functions to run interactive questionaries both CLI and web
 - Expose helper functions to save plugin preferences
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2Nzc3Mjg1MV19
+eyJoaXN0b3J5IjpbLTEzMTM3NDgxOTZdfQ==
 -->
