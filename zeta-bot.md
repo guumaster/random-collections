@@ -22,7 +22,12 @@ Inspired in Krew, plugin index is a central repo with a yaml/json file pointing 
 
 
 ### Features
-Install Go bina
+- Install Go binaries or node programs as plugins. 
+- Has a config file to store global preferences `$HOME/.zeta/config`
+- Export variables to underlying plugins
+	- ZETA_VERSION
+	- ZETA_CONFIG
+	- ZETA_PLUGIN 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTk3NTcxXX0=
+eyJoaXN0b3J5IjpbLTMyOTYxMzAxNl19
 -->
