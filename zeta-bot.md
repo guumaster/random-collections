@@ -12,6 +12,7 @@
 	
 	
 ### Mini SDK
+- Available for Go/Node/Python/Bash 
 - Expose helper functions to run interactive questions both CLI and web
 - Expose helper functions to save plugin preferences
 - templating helper
@@ -61,6 +62,6 @@ ZETA_ALIAS=path to aliases config
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc4NDg0MDAzLC0xMDQzNTUwMjk2LC0xMD
+eyJoaXN0b3J5IjpbMTQxMDM2NDk3LC0xMDQzNTUwMjk2LC0xMD
 MyODg2MzY1XX0=
 -->
