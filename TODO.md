@@ -32,7 +32,6 @@ A CLI tool to enhance work with Markdown files. Similar to [thlorenz/doctoc](htt
 	- generate dependency list 
 
 
-
 git check-rebased  <branch>  # check if the current branch is rebased from dest branch 
 
 
@@ -67,9 +66,9 @@ git check-rebased  <branch>  # check if the current branch is rebased from dest 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUzMzA1MzI0LDE0NDg0NTQzMDUsMTI1NT
-Q1ODg0NiwtMjk0NjYzNjExLDE2NzQ0NzQwODMsMTI2MjEwODc1
-MCwtMTYyOTE1MjY3MiwtMTA0MjEwNjg1NiwtMTQ3Nzk4NTkzNS
-wtNTc4NTkzMTM3LC0xNTQyNjQ4NzQ0LDE3MDI5MTI0NzFdfQ==
+eyJoaXN0b3J5IjpbMTEwMjM2ODg5NCwxNDQ4NDU0MzA1LDEyNT
+U0NTg4NDYsLTI5NDY2MzYxMSwxNjc0NDc0MDgzLDEyNjIxMDg3
+NTAsLTE2MjkxNTI2NzIsLTEwNDIxMDY4NTYsLTE0Nzc5ODU5Mz
+UsLTU3ODU5MzEzNywtMTU0MjY0ODc0NCwxNzAyOTEyNDcxXX0=
 
 -->
