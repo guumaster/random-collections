@@ -10,26 +10,6 @@
  * [List of Golang books](https://github.com/dariubs/GoBooks)  
   
   
-### Articles  
- * [Micro In Action, Part4：Pub/Sub](https://itnext.io/micro-in-action-part4-pub-sub-564f3b054ecd)  
- * [go-advice · cristaloleg/go-advice](https://github.com/cristaloleg/go-advice)  
- * [ultimate-go · hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go)  
- * [Mocking gRPC in Go](https://rogchap.com/2019/06/25/mocking-grpc-in-go/)  
- * [Starting an Open Source Project](https://opensource.guide/starting-a-project/)  
- * [Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)  
- * [PubSub using channels in Go](https://eli.thegreenplace.net/2020/pubsub-using-channels-in-go/)  
- * [Using fzf in your program](https://junegunn.kr/2016/02/using-fzf-in-your-program)  
-  
-  
-#### Architecture  
- * [Go Hex Arch | Joel Holmes](https://www.joeldholmes.com/post/go-hex-arch/)  
- * [hexagonal-architecture · GitHub Topics](https://github.com/topics/hexagonal-architecture?l=go)  
- * [goddd · marcusolsson/goddd](https://github.com/marcusolsson/goddd)  
- * [Domain Driven Design in Go | Citerus](https://www.citerus.se/go-ddd)  
- * [Domain Driven Design in Go: Part 2 | Citerus](https://www.citerus.se/part-2-domain-driven-design-in-go)  
- * [Domain Driven Design in Go: Part 3 | Citerus](https://www.citerus.se/part-3-domain-driven-design-in-go)  
-  
-  
 ### Go + K8s  
  * [bcreane/k8sutils](https://github.com/bcreane/k8sutils)  
  * [yogeshlonkar/pod-dependency-init-container](https://github.com/yogeshlonkar/pod-dependency-init-container)  
@@ -86,24 +66,7 @@
  * [go-kubectx/fzf.go at master · aca/go-kubectx](https://github.com/aca/go-kubectx/blob/master/fzfutil/fzf.go)  
   
   
-### CLI Ideas  
-  
- * [git-chlog · teohm/git-chlog](https://github.com/teohm/git-chlog)  
- * [gofeed · mmcdole/gofeed](https://github.com/mmcdole/gofeed)  
- * [sindresorhus/awesome-nodejs: CLI Apps](https://github.com/sindresorhus/awesome-nodejs#command-line-apps)  
- * [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)  
- * [Understanding Volta | Volta](https://docs.volta.sh/guide/understanding#managing-your-toolchain)  
- * [hvnsweeting/gosearch](https://github.com/hvnsweeting/gosearch?files=1)  
- * [bitfield/script: Making it easy to write shell-like scripts in Go](https://github.com/bitfield/script)  
- * [containous/yaegi](https://github.com/containous/yaegi)  
- * [sh · mvdan/sh](https://github.com/mvdan/sh)  
- * [hashicorp/go-plugin](https://github.com/hashicorp/go-plugin)  
- * [mitchellh/golicense: Scan and analyze OSS licenses](https://github.com/mitchellh/golicense)  
-  
- * [thlorenz/doctoc](https://github.com/thlorenz/doctoc)  
- * [nikitavoloboev/markdown-parser](https://github.com/nikitavoloboev/markdown-parser)  
- * [gomarkdown/markdow](https://github.com/gomarkdown/markdown)  
-  
+
 
 ### Unsorted
 
@@ -188,11 +151,11 @@
 
 [Dataframes in Go](https://github.com/go-gota/gota)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4MTY1MjY2LC0xMjc1MTQ3MDI4LDc0OD
-E0OTExNCwtMTI4NzQ3NjY1OSwyMDYzODIyODgzLC0xNDQyNzk2
-OTAxLDE0NTkxMDIxNzUsLTE5NDIxMDYwMzgsMTMzMzQ5MzcwNC
-w0Njg2NTIzNjQsLTE2MTY0MjA4NTcsLTE1NjI0MzQ2LC03ODU0
-OTU2MzgsODM4ODM4MDgsNDg3Nzc4MTg5LC0xNTI5MTA2NTcxLC
-01Njg1MTc2MzcsLTIwMDMyNjM1NjcsLTEyNTcyNjM1NzksOTU1
-MDYyMTA0XX0=
+eyJoaXN0b3J5IjpbLTEwOTg4NzkyMDgsLTEyNzUxNDcwMjgsNz
+Q4MTQ5MTE0LC0xMjg3NDc2NjU5LDIwNjM4MjI4ODMsLTE0NDI3
+OTY5MDEsMTQ1OTEwMjE3NSwtMTk0MjEwNjAzOCwxMzMzNDkzNz
+A0LDQ2ODY1MjM2NCwtMTYxNjQyMDg1NywtMTU2MjQzNDYsLTc4
+NTQ5NTYzOCw4Mzg4MzgwOCw0ODc3NzgxODksLTE1MjkxMDY1Nz
+EsLTU2ODUxNzYzNywtMjAwMzI2MzU2NywtMTI1NzI2MzU3OSw5
+NTUwNjIxMDRdfQ==
 -->
