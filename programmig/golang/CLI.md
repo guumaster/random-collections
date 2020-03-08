@@ -17,6 +17,16 @@
  * [nikitavoloboev/markdown-parser](https://github.com/nikitavoloboev/markdown-parser)  
  * [gomarkdown/markdow](https://github.com/gomarkdown/markdown)  
   
+  
+### Sample CLI projects
+
+-   [**kubectl**](https://github.com/kubernetes/kubectl)**:** Kubernetes CLI
+-   [**minikube**](https://github.com/kubernetes/minikube): A tool for running Kubernetes locally
+-   [**helm**](https://github.com/helm/helm): A Kubernetes package manager
+-   [**kops**](https://github.com/kubernetes/kops)**:**  A tool for managing production Kubernetes
+-   [**eksctl**](https://github.com/weaveworks/eksctl): The official CLI for Amazon EKS
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxODMyNjU3XX0=
+eyJoaXN0b3J5IjpbNTIxMjc2MDYzXX0=
 -->
