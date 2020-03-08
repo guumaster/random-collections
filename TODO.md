@@ -20,6 +20,7 @@
     - remove all in .gitignore ?
 
 
+
 ### MDok
 
 A CLI tool to enhance work with Markdown files. 
@@ -55,6 +56,7 @@ git check-rebased  <branch>  # check if the current branch is rebased from dest 
 * [Building an Awesome CLI App in Go – OSCON 2017 - spf13.com](https://spf13.com/presentation/building-an-awesome-cli-app-in-go-oscon/)
 
 
+
 ## Blogging 
 
 ### Nice templates
@@ -65,9 +67,9 @@ git check-rebased  <branch>  # check if the current branch is rebased from dest 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTc4ODU4NywxNDQ4NDU0MzA1LDEyNT
-U0NTg4NDYsLTI5NDY2MzYxMSwxNjc0NDc0MDgzLDEyNjIxMDg3
-NTAsLTE2MjkxNTI2NzIsLTEwNDIxMDY4NTYsLTE0Nzc5ODU5Mz
-UsLTU3ODU5MzEzNywtMTU0MjY0ODc0NCwxNzAyOTEyNDcxXX0=
+eyJoaXN0b3J5IjpbLTExNTkxMzYwMjEsMTQ0ODQ1NDMwNSwxMj
+U1NDU4ODQ2LC0yOTQ2NjM2MTEsMTY3NDQ3NDA4MywxMjYyMTA4
+NzUwLC0xNjI5MTUyNjcyLC0xMDQyMTA2ODU2LC0xNDc3OTg1OT
+M1LC01Nzg1OTMxMzcsLTE1NDI2NDg3NDQsMTcwMjkxMjQ3MV19
 
 -->
