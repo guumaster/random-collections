@@ -25,13 +25,13 @@
 A CLI tool to enhance work with Markdown files. 
 
 - Features:
-	- generate TOC for files 
-	- generate AUTHOR list from git
-	- generate 
+	- TOC for files 
+	- AUTHOR list from git
+	- changelog from git 
+	- generate dependency list 
 
 
-git changelog    # show a markdown output of commits with links
-git authors list  # list all authors in markdown with links
+
 git check-rebased  <branch>  # check if the current branch is rebased from dest branch 
 
 
@@ -65,7 +65,7 @@ git check-rebased  <branch>  # check if the current branch is rebased from dest 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzE4NTg5MSwxNDQ4NDU0MzA1LDEyNT
+eyJoaXN0b3J5IjpbMTM3NTc4ODU4NywxNDQ4NDU0MzA1LDEyNT
 U0NTg4NDYsLTI5NDY2MzYxMSwxNjc0NDc0MDgzLDEyNjIxMDg3
 NTAsLTE2MjkxNTI2NzIsLTEwNDIxMDY4NTYsLTE0Nzc5ODU5Mz
 UsLTU3ODU5MzEzNywtMTU0MjY0ODc0NCwxNzAyOTEyNDcxXX0=
