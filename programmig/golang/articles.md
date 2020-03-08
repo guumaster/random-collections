@@ -46,15 +46,6 @@
 * [How to correctly use context.Context in Go](https://medium.com/@cep21/how-to-correctly-use-context-context-in-go-1-7-8f2c0fafdf39)
 * 
 
-### Sample CLI projects
-
--   [**kubectl**](https://github.com/kubernetes/kubectl)**:** Kubernetes CLI
--   [**minikube**](https://github.com/kubernetes/minikube): A tool for running Kubernetes locally
--   [**helm**](https://github.com/helm/helm): A Kubernetes package manager
--   [**kops**](https://github.com/kubernetes/kops)**:**  A tool for managing production Kubernetes
--   [**eksctl**](https://github.com/weaveworks/eksctl): The official CLI for Amazon EKS
-
-
 ### Concurrency
 
 * [Concurrency Patterns: Golang – Thejas Babu – Medium](https://medium.com/@thejasbabu/concurrency-patterns-golang-5c5e1bcd0833)
@@ -98,7 +89,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg1MjI3NDgsMTgxMjYxMTUzMCwzMTQzMj
-U2MCw3Mzc5MzM2LC0xMjI3MzMwNzYyLC0xNDgxODQ1MzExXX0=
-
+eyJoaXN0b3J5IjpbLTE0MTU1MTMyNTYsMTgxMjYxMTUzMCwzMT
+QzMjU2MCw3Mzc5MzM2LC0xMjI3MzMwNzYyLC0xNDgxODQ1MzEx
+XX0=
 -->
