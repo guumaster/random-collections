@@ -16,22 +16,6 @@
  * [hjacobs/k3s-demo: single-node server with K3s](https://codeberg.org/hjacobs/k3s-demo)  
   
   
-### Libraries  
-  
- * [Talento90/go-health](https://github.com/Talento90/go-health)  
- * [InVisionApp/go-health](https://github.com/InVisionApp/go-health)  
- * [twitchtv/twirp: A simple RPC framework](https://github.com/twitchtv/twirp)  
- * [hashicorp/go-memdb](https://github.com/hashicorp/go-memdb)  
- * [pion/webrtc](https://github.com/pion/webrtc)  
- * [facebookincubator/ent](https://github.com/facebookincubator/ent)  
- * [fsnotify: Cross-platform file system notifications](https://github.com/fsnotify/fsnotify)  
- * [y0ssar1an/q: Quick and dirty debugging](https://github.com/y0ssar1an/q)  
- * [gen2brain/beeep](https://github.com/gen2brain/beeep)  
- * [segmentio/stats](https://github.com/segmentio/stats)  
- * [sony/gobreaker: Circuit Breaker](https://github.com/sony/gobreaker)  
- * [InVisionApp/tabular: printing ASCII tables for CLI](https://github.com/InVisionApp/tabular)  
-  
-  
 ### Apps & Tools  
   
  * [Mage Build files](https://magefile.org/)  
@@ -57,11 +41,22 @@
  * [enfipy/spreest: Google spreadsheet test project](https://github.com/enfipy/spreest)  
  * [go-kubectx/fzf.go at master · aca/go-kubectx](https://github.com/aca/go-kubectx/blob/master/fzfutil/fzf.go)  
   
-  
 
 
 ### Unsorted
 
+* [Talento90/go-health](https://github.com/Talento90/go-health)  
+* [InVisionApp/go-health](https://github.com/InVisionApp/go-health)  
+* [twitchtv/twirp: A simple RPC framework](https://github.com/twitchtv/twirp)  
+* [hashicorp/go-memdb](https://github.com/hashicorp/go-memdb)  
+* [pion/webrtc](https://github.com/pion/webrtc)  
+* [facebookincubator/ent](https://github.com/facebookincubator/ent)  
+* [fsnotify: Cross-platform file system notifications](https://github.com/fsnotify/fsnotify)  
+* [y0ssar1an/q: Quick and dirty debugging](https://github.com/y0ssar1an/q)  
+* [gen2brain/beeep](https://github.com/gen2brain/beeep)  
+* [segmentio/stats](https://github.com/segmentio/stats)  
+* [sony/gobreaker: Circuit Breaker](https://github.com/sony/gobreaker)  
+* [InVisionApp/tabular: printing ASCII tables for CLI](https://github.com/InVisionApp/tabular)  
 
 * [go-chromecast: cli for Google Chromecast, Home devices and Cast Groups](https://github.com/vishen/go-chromecast)
 * [golang-set: A simple set type](https://github.com/deckarep/golang-set)
@@ -106,16 +101,6 @@
 * [golang-commonmark / markdown](https://gitlab.com/golang-commonmark/markdown)
 * [yuin/goldmark: A markdown parser](https://github.com/yuin/goldmark)
 
-### CLI
-* [uitable: terminal tabular data](https://github.com/gosuri/uitable)
-* [cli: command line apps](https://github.com/urfave/cli)
-* [survey: interactive prompts](https://github.com/AlecAivazis/survey)
-* [color: terminal output with color](https://github.com/fatih/color)
-* [go-prompt: interactive prompts](https://github.com/c-bata/go-prompt)
-* [emoji: emoji terminal output](https://github.com/kyokomi/emoji)
-* [go-cmd/cmd: Non-blocking external commands](https://github.com/go-cmd/cmd)
-* [dimiro1/banner: CLI banners](https://github.com/dimiro1/banner)
-
 
 ### NATS
 
@@ -143,11 +128,11 @@
 
 [Dataframes in Go](https://github.com/go-gota/gota)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMzQ0NzI5OCwtMTI3NTE0NzAyOCw3ND
-gxNDkxMTQsLTEyODc0NzY2NTksMjA2MzgyMjg4MywtMTQ0Mjc5
-NjkwMSwxNDU5MTAyMTc1LC0xOTQyMTA2MDM4LDEzMzM0OTM3MD
-QsNDY4NjUyMzY0LC0xNjE2NDIwODU3LC0xNTYyNDM0NiwtNzg1
-NDk1NjM4LDgzODgzODA4LDQ4Nzc3ODE4OSwtMTUyOTEwNjU3MS
-wtNTY4NTE3NjM3LC0yMDAzMjYzNTY3LC0xMjU3MjYzNTc5LDk1
-NTA2MjEwNF19
+eyJoaXN0b3J5IjpbLTIwNDE0ODE0NDQsLTEyNzUxNDcwMjgsNz
+Q4MTQ5MTE0LC0xMjg3NDc2NjU5LDIwNjM4MjI4ODMsLTE0NDI3
+OTY5MDEsMTQ1OTEwMjE3NSwtMTk0MjEwNjAzOCwxMzMzNDkzNz
+A0LDQ2ODY1MjM2NCwtMTYxNjQyMDg1NywtMTU2MjQzNDYsLTc4
+NTQ5NTYzOCw4Mzg4MzgwOCw0ODc3NzgxODksLTE1MjkxMDY1Nz
+EsLTU2ODUxNzYzNywtMjAwMzI2MzU2NywtMTI1NzI2MzU3OSw5
+NTUwNjIxMDRdfQ==
 -->
