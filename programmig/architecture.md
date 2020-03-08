@@ -22,7 +22,6 @@
 
 
 
-
 ## Microservices
 * [Goodbye Microservices: From 100s of problem children to 1 superstar · Segment Blog](https://segment.com/blog/goodbye-microservices/)
 
@@ -39,5 +38,5 @@
 * [23 JavaScript design patterns](https://boostlog.io/@sonuton/23-javascript-design-patterns-5adb006847018500491f3f7f)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0ODM1MjMxMF19
+eyJoaXN0b3J5IjpbMTM3MjAzNzU3Nl19
 -->
