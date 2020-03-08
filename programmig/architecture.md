@@ -7,6 +7,22 @@
 * [Clean architecture for the rest of us](https://pusher.com/tutorials/clean-architecture-introduction)
 
 
+### Golang
+
+* [hex-example: Hexagonal architecture example](https://github.com/Holmes89/hex-example/blob/hex/main.go)
+* [bxcodec/go-clean-arch: Go Clean Architecture](https://github.com/bxcodec/go-clean-arch/)
+* [Using DDD in Golang](https://dev.to/stevensunflash/using-domain-driven-design-ddd-in-golang-3ee5)
+	* [victorsteven/food-app-server: Exploring Domain-Driven Design in Golang](https://github.com/victorsteven/food-app-server)
+* [Go Hex Arch | Joel Holmes](https://www.joeldholmes.com/post/go-hex-arch/)  
+* [hexagonal-architecture · GitHub Topics](https://github.com/topics/hexagonal-architecture?l=go)  
+* [goddd · marcusolsson/goddd](https://github.com/marcusolsson/goddd)  
+* [Domain Driven Design in Go | Citerus](https://www.citerus.se/go-ddd)  
+* [Domain Driven Design in Go: Part 2 | Citerus](https://www.citerus.se/part-2-domain-driven-design-in-go)  
+* [Domain Driven Design in Go: Part 3 | Citerus](https://www.citerus.se/part-3-domain-driven-design-in-go)  
+
+
+
+
 ## Microservices
 * [Goodbye Microservices: From 100s of problem children to 1 superstar · Segment Blog](https://segment.com/blog/goodbye-microservices/)
 
@@ -23,5 +39,5 @@
 * [23 JavaScript design patterns](https://boostlog.io/@sonuton/23-javascript-design-patterns-5adb006847018500491f3f7f)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0Mjc1ODIyXX0=
+eyJoaXN0b3J5IjpbMTQ0ODM1MjMxMF19
 -->
