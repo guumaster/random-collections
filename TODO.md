@@ -19,6 +19,14 @@
   - similar to  [voidcosmos/npkill](https://github.com/voidcosmos/npkill)
     - remove all in .gitignore ?
 
+
+### MDok
+
+A CLI tool to enhance work with Markdown files. 
+
+- Features:
+	- 
+
 git changelog    # show a markdown output of commits with links
 git authors list  # list all authors in markdown with links
 git check-rebased  <branch>  # check if the current branch is rebased from dest branch 
@@ -54,7 +62,7 @@ git check-rebased  <branch>  # check if the current branch is rebased from dest 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTU1MjA3LDE0NDg0NTQzMDUsMTI1NT
+eyJoaXN0b3J5IjpbNzgyNTAzMTM1LDE0NDg0NTQzMDUsMTI1NT
 Q1ODg0NiwtMjk0NjYzNjExLDE2NzQ0NzQwODMsMTI2MjEwODc1
 MCwtMTYyOTE1MjY3MiwtMTA0MjEwNjg1NiwtMTQ3Nzk4NTkzNS
 wtNTc4NTkzMTM3LC0xNTQyNjQ4NzQ0LDE3MDI5MTI0NzFdfQ==
