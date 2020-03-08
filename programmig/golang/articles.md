@@ -23,19 +23,6 @@
 * [function to return an Interface](https://stackoverflow.com/questions/35006640/golang-function-to-return-an-interface)
 
 
-### Architecture 
-* [hex-example: Hexagonal architecture example](https://github.com/Holmes89/hex-example/blob/hex/main.go)
-* [bxcodec/go-clean-arch: Go Clean Architecture](https://github.com/bxcodec/go-clean-arch/)
-* [Using DDD in Golang](https://dev.to/stevensunflash/using-domain-driven-design-ddd-in-golang-3ee5)
-	* [victorsteven/food-app-server: Exploring Domain-Driven Design in Golang](https://github.com/victorsteven/food-app-server)
-* [Go Hex Arch | Joel Holmes](https://www.joeldholmes.com/post/go-hex-arch/)  
-* [hexagonal-architecture · GitHub Topics](https://github.com/topics/hexagonal-architecture?l=go)  
-* [goddd · marcusolsson/goddd](https://github.com/marcusolsson/goddd)  
-* [Domain Driven Design in Go | Citerus](https://www.citerus.se/go-ddd)  
-* [Domain Driven Design in Go: Part 2 | Citerus](https://www.citerus.se/part-2-domain-driven-design-in-go)  
-* [Domain Driven Design in Go: Part 3 | Citerus](https://www.citerus.se/part-3-domain-driven-design-in-go)  
-
-
 ### Context 
 * [Go Concurrency Patterns: Pipelines and cancellation - The Go Blog](https://blog.golang.org/pipelines)
 * [Go Concurrency Patterns: Context - The Go Blog](https://blog.golang.org/context)
@@ -89,7 +76,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTU1MTMyNTYsMTgxMjYxMTUzMCwzMT
+eyJoaXN0b3J5IjpbLTE0MDIxOTI3NjEsMTgxMjYxMTUzMCwzMT
 QzMjU2MCw3Mzc5MzM2LC0xMjI3MzMwNzYyLC0xNDgxODQ1MzEx
 XX0=
 -->
