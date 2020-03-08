@@ -1,14 +1,6 @@
 
 ## Libraries
 
-
-  
-### Random  
- * [We Love Go](https://www.welovegolang.com/)  
- * [Opensource.builders](https://opensource.builders)  
- * [Gophercises](https://gophercises.com/)  
- * [List of Golang books](https://github.com/dariubs/GoBooks)  
-  
   
 ### Go + K8s  
  * [bcreane/k8sutils](https://github.com/bcreane/k8sutils)  
@@ -151,11 +143,11 @@
 
 [Dataframes in Go](https://github.com/go-gota/gota)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTg4NzkyMDgsLTEyNzUxNDcwMjgsNz
-Q4MTQ5MTE0LC0xMjg3NDc2NjU5LDIwNjM4MjI4ODMsLTE0NDI3
-OTY5MDEsMTQ1OTEwMjE3NSwtMTk0MjEwNjAzOCwxMzMzNDkzNz
-A0LDQ2ODY1MjM2NCwtMTYxNjQyMDg1NywtMTU2MjQzNDYsLTc4
-NTQ5NTYzOCw4Mzg4MzgwOCw0ODc3NzgxODksLTE1MjkxMDY1Nz
-EsLTU2ODUxNzYzNywtMjAwMzI2MzU2NywtMTI1NzI2MzU3OSw5
-NTUwNjIxMDRdfQ==
+eyJoaXN0b3J5IjpbLTYyMzQ0NzI5OCwtMTI3NTE0NzAyOCw3ND
+gxNDkxMTQsLTEyODc0NzY2NTksMjA2MzgyMjg4MywtMTQ0Mjc5
+NjkwMSwxNDU5MTAyMTc1LC0xOTQyMTA2MDM4LDEzMzM0OTM3MD
+QsNDY4NjUyMzY0LC0xNjE2NDIwODU3LC0xNTYyNDM0NiwtNzg1
+NDk1NjM4LDgzODgzODA4LDQ4Nzc3ODE4OSwtMTUyOTEwNjU3MS
+wtNTY4NTE3NjM3LC0yMDAzMjYzNTY3LC0xMjU3MjYzNTc5LDk1
+NTA2MjEwNF19
 -->
