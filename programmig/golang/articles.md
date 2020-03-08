@@ -1,7 +1,6 @@
 # Golang
 
 
-
 ### Articles  
  * [Micro In Action, Part4：Pub/Sub](https://itnext.io/micro-in-action-part4-pub-sub-564f3b054ecd)  
  * [go-advice · cristaloleg/go-advice](https://github.com/cristaloleg/go-advice)  
@@ -105,7 +104,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk2NTEwNDg5LDE4MTI2MTE1MzAsMzE0Mz
+eyJoaXN0b3J5IjpbLTY0NDAzNTEzLDE4MTI2MTE1MzAsMzE0Mz
 I1NjAsNzM3OTMzNiwtMTIyNzMzMDc2MiwtMTQ4MTg0NTMxMV19
 
 -->
