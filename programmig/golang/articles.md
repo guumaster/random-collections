@@ -23,6 +23,7 @@
   
 ## Videos
 * [gophervids](http://gophervids.appspot.com/)
+* [Gophercises](https://gophercises.com/)  
 
 
 ## Articles
@@ -104,7 +105,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NDAzNTEzLDE4MTI2MTE1MzAsMzE0Mz
-I1NjAsNzM3OTMzNiwtMTIyNzMzMDc2MiwtMTQ4MTg0NTMxMV19
-
+eyJoaXN0b3J5IjpbLTE4NzI2ODYwOTEsMTgxMjYxMTUzMCwzMT
+QzMjU2MCw3Mzc5MzM2LC0xMjI3MzMwNzYyLC0xNDgxODQ1MzEx
+XX0=
 -->
