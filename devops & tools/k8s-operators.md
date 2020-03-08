@@ -6,8 +6,8 @@
 * [operator-framework/operator-sdk: SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.](https://github.com/operator-framework/operator-sdk)
 * [wordpress-operator/deploy.go at master · presslabs/wordpress-operator](https://github.com/presslabs/wordpress-operator/blob/master/pkg/controller/wordpress/internal/sync/deploy.go)
 * [https://github.com/operator-framework/operator-sdk/blob/master/doc/helm/project_layout.md](https://github.com/operator-framework/operator-sdk/blob/master/doc/helm/project_layout.md)
-* [Velotio Technologies](https://velotio.com/blog/2019/9/24/kubernetes-golang-operators-part-3)
-* [Velotio Technologies](https://velotio.com/blog/2019/9/10/kubernetes-helm-operators-part-1)
+* [Velotio Technologies 1/3](https://velotio.com/blog/2019/9/10/kubernetes-helm-operators-part-1)
+* [Velotio Technologies 3/3](https://velotio.com/blog/2019/9/24/kubernetes-golang-operators-part-3)
 * [bookstore-operator/bookapp-deployment.yaml at master · akash-gautam/bookstore-operator](https://github.com/akash-gautam/bookstore-operator/blob/master/helm-charts/book-store/templates/bookapp-deployment.yaml)
 * [jinghzhu/KubernetesCRD: Example of how to create and manage Kubernetes Custom Resource Definition.](https://github.com/jinghzhu/KubernetesCRD)
 * [How to generate client codes for Kubernetes Custom Resource Definitions (CRD)](https://itnext.io/how-to-generate-client-codes-for-kubernetes-custom-resource-definitions-crd-b4b9907769ba)
@@ -21,5 +21,5 @@
 * [crd-example/go.mod at master · ligato/crd-example](https://github.com/ligato/crd-example/blob/master/go.mod)
 * [crd-code-generation/vendor/k8s.io/code-generator at master · openshift-evangelists/crd-code-generation](https://github.com/openshift-evangelists/crd-code-generation/tree/master/vendor/k8s.io/code-generator)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5Mzk3ODI1OV19
+eyJoaXN0b3J5IjpbLTQ2OTgzNzM0NV19
 -->
