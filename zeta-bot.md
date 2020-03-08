@@ -10,9 +10,8 @@
 - Export variables to underlying plugins
 - Has a simple SDK for plugin development
 - Can compile into a single binary including plugins in Go (using `magefiles`)
- 
-	
-	
+
+
 ### Mini SDK
 - Available for Go/Node/Python/Bash 
 - Expose helper functions to run interactive questions both CLI and web
@@ -82,6 +81,7 @@ ZETA_ALIAS=path to aliases config
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3OTU4OTI5MCwtMTY4ODczNjU0OCwxND
-EwMzY0OTcsLTEwNDM1NTAyOTYsLTEwMzI4ODYzNjVdfQ==
+eyJoaXN0b3J5IjpbNTAyNzY0NDQsLTI3OTU4OTI5MCwtMTY4OD
+czNjU0OCwxNDEwMzY0OTcsLTEwNDM1NTAyOTYsLTEwMzI4ODYz
+NjVdfQ==
 -->
