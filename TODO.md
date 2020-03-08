@@ -23,7 +23,7 @@
 
 ### MDok
 
-A CLI tool to enhance work with Markdown files. 
+A CLI tool to enhance work with Markdown files. Similar to [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
 
 - Features:
 	- TOC for files 
@@ -67,9 +67,9 @@ git check-rebased  <branch>  # check if the current branch is rebased from dest 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTkxMzYwMjEsMTQ0ODQ1NDMwNSwxMj
-U1NDU4ODQ2LC0yOTQ2NjM2MTEsMTY3NDQ3NDA4MywxMjYyMTA4
-NzUwLC0xNjI5MTUyNjcyLC0xMDQyMTA2ODU2LC0xNDc3OTg1OT
-M1LC01Nzg1OTMxMzcsLTE1NDI2NDg3NDQsMTcwMjkxMjQ3MV19
+eyJoaXN0b3J5IjpbODUzMzA1MzI0LDE0NDg0NTQzMDUsMTI1NT
+Q1ODg0NiwtMjk0NjYzNjExLDE2NzQ0NzQwODMsMTI2MjEwODc1
+MCwtMTYyOTE1MjY3MiwtMTA0MjEwNjg1NiwtMTQ3Nzk4NTkzNS
+wtNTc4NTkzMTM3LC0xNTQyNjQ4NzQ0LDE3MDI5MTI0NzFdfQ==
 
 -->
