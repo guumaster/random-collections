@@ -5,6 +5,9 @@
 * [Gophercises](https://gophercises.com/)  
 
 
+* [How to Test Local Changes with Go Mod](https://medium.com/@teivah/how-to-test-a-local-branch-with-go-mod-54df087fc9cc)
+
+
 ## Articles
 
 * [Micro In Action, Part4：Pub/Sub](https://itnext.io/micro-in-action-part4-pub-sub-564f3b054ecd)  
@@ -76,7 +79,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDIxOTI3NjEsMTgxMjYxMTUzMCwzMT
+eyJoaXN0b3J5IjpbLTE5MjI1MDA5MzksMTgxMjYxMTUzMCwzMT
 QzMjU2MCw3Mzc5MzM2LC0xMjI3MzMwNzYyLC0xNDgxODQ1MzEx
 XX0=
 -->
