@@ -9,7 +9,12 @@
 * [Git Explorer](https://gitexplorer.com/)
 * [Gopherize.me - A Gopher pic that's as unique as you](https://gopherize.me/)
 * [Go Sandbox](https://go-sandbox.com/)
+
+## Coding for Kids
+
+[tynker.com](https://www.tynker.com/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzQ2NTgyOTEsLTEzMzk4ODkzNjYsMT
-M4MTI4MzcxN119
+eyJoaXN0b3J5IjpbMTUxNjIyMTkwMSwtMjAzNDY1ODI5MSwtMT
+MzOTg4OTM2NiwxMzgxMjgzNzE3XX0=
 -->
