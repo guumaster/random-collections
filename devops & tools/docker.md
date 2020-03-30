@@ -11,6 +11,14 @@
 * [Dockerize a node app](https://nodesource.com/blog/dockerizing-your-nodejs-applications)
 * [More info](http://blog.thoward37.me/articles/where-are-docker-images-stored/)
 
+### Compose show IPs of all containers
+
+```sh
+docker-compose -f /tmp/voting-app/docker-compose.yml ps -q \
+  | xargs docker inspect  --format \
+  '{{- range .NetworkSettings.Networks -}}{{ .IPAddress }} {{ $.Name }}{{ println }}{{- end -}}'
+ 
+```
 
 ### Remove images
 
@@ -28,5 +36,5 @@ DOCKER_OPTS="-g /path/to/docker/data"
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzc3MjIzNTJdfQ==
+eyJoaXN0b3J5IjpbLTE2Nzg5OTA5ODVdfQ==
 -->
