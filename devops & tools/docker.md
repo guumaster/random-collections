@@ -16,8 +16,7 @@
 ```sh
 docker-compose -f /tmp/voting-app/docker-compose.yml ps -q \
   | xargs docker inspect  --format \
-  '{{- range .NetworkSettings.Networks -}}{{ .IPAddress }} {{ $.Name }}{{ println }}{{- end -}}'
- 
+  '{{ range .NetworkSettings.Networks }}{{ .IPAddress }} {{ $.Name }}{{ println }}{{ end }}'
 ```
 
 ### Remove images
@@ -36,5 +35,5 @@ DOCKER_OPTS="-g /path/to/docker/data"
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzg5OTA5ODVdfQ==
+eyJoaXN0b3J5IjpbOTY5NzQwMjY1XX0=
 -->
