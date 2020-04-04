@@ -15,9 +15,8 @@
 * [Even](https://themes.gohugo.io/hugo-theme-even/)
 * [Hermit](https://themes.gohugo.io/hermit/)
 * [Tract](https://tract-docs.dev/en/docs/getting-started/)
-* 
-* 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTAxNDUyODYsMjA0MjQ3NzY4NSwtNT
-UwMzMzODI2XX0=
+eyJoaXN0b3J5IjpbMTI0MDI1NDAwOCwyMDQyNDc3Njg1LC01NT
+AzMzM4MjZdfQ==
 -->
