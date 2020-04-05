@@ -19,8 +19,12 @@
 
 [tynker.com](https://www.tynker.com/)
 
+## Photo maker
+
+[Make Passport Photo](https://makepassportphoto.com/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NjA3NDcwMiwzMTIyMzM1NDAsMTg5Mj
-U4NDg4OSwxNTE2MjIxOTAxLC0yMDM0NjU4MjkxLC0xMzM5ODg5
-MzY2LDEzODEyODM3MTddfQ==
+eyJoaXN0b3J5IjpbLTE5MjQ0OTYzOTgsLTM3NjA3NDcwMiwzMT
+IyMzM1NDAsMTg5MjU4NDg4OSwxNTE2MjIxOTAxLC0yMDM0NjU4
+MjkxLC0xMzM5ODg5MzY2LDEzODEyODM3MTddfQ==
 -->
