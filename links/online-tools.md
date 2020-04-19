@@ -12,7 +12,7 @@
 * [Go Sandbox](https://go-sandbox.com/)
 * [Octobox](https://octobox.io/)
 * [Jitsi Meet](https://meet.jit.si/)
-* [Logo Designer](https://eu1.flamingtext.com/)
+* [Text Logo Designer](https://eu1.flamingtext.com/)
 
 * [Illustrated guide to jq](https://mosermichael.github.io/jq-illustrated/dir/content.html)
 
@@ -26,7 +26,7 @@
 [Make Passport Photo](https://makepassportphoto.com/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MTkzMjcxMSwyMDAzMzI1MDE3LC0xOT
+eyJoaXN0b3J5IjpbLTQxNzE1OTQyOCwyMDAzMzI1MDE3LC0xOT
 I0NDk2Mzk4LC0zNzYwNzQ3MDIsMzEyMjMzNTQwLDE4OTI1ODQ4
 ODksMTUxNjIyMTkwMSwtMjAzNDY1ODI5MSwtMTMzOTg4OTM2Ni
 wxMzgxMjgzNzE3XX0=
