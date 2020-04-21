@@ -24,6 +24,11 @@
 * [Integration tests with GraphQL, Cypress and CircleCI](https://medium.com/s19-tech/integration-tests-with-graphql-cypress-and-circleci-d688b3a9a2c6)
 * 
 
+## GraphQL tutorials
+
+* [How to GraphQL - The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
+* [machinebox/graphql: Simple low-level GraphQL HTTP client for Go](https://github.com/machinebox/graphql)
+* [A GraphQL client library for Go - Machine Box](https://blog.machinebox.io/a-graphql-client-library-for-go-5bffd0455878)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1ODM4MzldfQ==
+eyJoaXN0b3J5IjpbMTc3NDQzMzE3OCwtNDU4MzgzOV19
 -->
