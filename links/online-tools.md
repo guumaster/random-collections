@@ -25,9 +25,14 @@
 
 [Make Passport Photo](https://makepassportphoto.com/)
 
+
+## Extensions
+
+* [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzE1OTQyOCwyMDAzMzI1MDE3LC0xOT
-I0NDk2Mzk4LC0zNzYwNzQ3MDIsMzEyMjMzNTQwLDE4OTI1ODQ4
-ODksMTUxNjIyMTkwMSwtMjAzNDY1ODI5MSwtMTMzOTg4OTM2Ni
-wxMzgxMjgzNzE3XX0=
+eyJoaXN0b3J5IjpbLTM3MzIxMTQ3MywtNDE3MTU5NDI4LDIwMD
+MzMjUwMTcsLTE5MjQ0OTYzOTgsLTM3NjA3NDcwMiwzMTIyMzM1
+NDAsMTg5MjU4NDg4OSwxNTE2MjIxOTAxLC0yMDM0NjU4MjkxLC
+0xMzM5ODg5MzY2LDEzODEyODM3MTddfQ==
 -->
