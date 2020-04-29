@@ -30,9 +30,13 @@
 
 * [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
 
+
+## Steam games list
+
+[gamedb.online](https://gamedb.online/players/76561198026280908/guuplanewalker?o=desc&s=1#games)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MzIxMTQ3MywtNDE3MTU5NDI4LDIwMD
-MzMjUwMTcsLTE5MjQ0OTYzOTgsLTM3NjA3NDcwMiwzMTIyMzM1
-NDAsMTg5MjU4NDg4OSwxNTE2MjIxOTAxLC0yMDM0NjU4MjkxLC
-0xMzM5ODg5MzY2LDEzODEyODM3MTddfQ==
+eyJoaXN0b3J5IjpbODk4NjQ5Mjk5LC0zNzMyMTE0NzMsLTQxNz
+E1OTQyOCwyMDAzMzI1MDE3LC0xOTI0NDk2Mzk4LC0zNzYwNzQ3
+MDIsMzEyMjMzNTQwLDE4OTI1ODQ4ODksMTUxNjIyMTkwMSwtMj
+AzNDY1ODI5MSwtMTMzOTg4OTM2NiwxMzgxMjgzNzE3XX0=
 -->
