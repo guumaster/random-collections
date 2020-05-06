@@ -14,6 +14,9 @@
 * [Jitsi Meet](https://meet.jit.si/)
 * [Text Logo Designer](https://eu1.flamingtext.com/)
 
+* [Pixel-me](https://pixel-me.tokyo/en/)
+
+
 * [Illustrated guide to jq](https://mosermichael.github.io/jq-illustrated/dir/content.html)
 
 
@@ -35,8 +38,9 @@
 
 [gamedb.online](https://gamedb.online/players/76561198026280908/guuplanewalker?o=desc&s=1#games)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4NjQ5Mjk5LC0zNzMyMTE0NzMsLTQxNz
-E1OTQyOCwyMDAzMzI1MDE3LC0xOTI0NDk2Mzk4LC0zNzYwNzQ3
-MDIsMzEyMjMzNTQwLDE4OTI1ODQ4ODksMTUxNjIyMTkwMSwtMj
-AzNDY1ODI5MSwtMTMzOTg4OTM2NiwxMzgxMjgzNzE3XX0=
+eyJoaXN0b3J5IjpbMTEyNjYxMDQwNiw4OTg2NDkyOTksLTM3Mz
+IxMTQ3MywtNDE3MTU5NDI4LDIwMDMzMjUwMTcsLTE5MjQ0OTYz
+OTgsLTM3NjA3NDcwMiwzMTIyMzM1NDAsMTg5MjU4NDg4OSwxNT
+E2MjIxOTAxLC0yMDM0NjU4MjkxLC0xMzM5ODg5MzY2LDEzODEy
+ODM3MTddfQ==
 -->
