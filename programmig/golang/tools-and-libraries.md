@@ -1,7 +1,13 @@
 
 ## Libraries
 
-  
+### AI/ML
+* [ynqa/wego: Word Embeddings, Word2Vec in Go!](https://github.com/ynqa/wego)
+* [aunum/goro: High-level ML for Go](https://github.com/aunum/goro)
+* [nlpodyssey/spago: ML in Go designed to support relevant neural network architectures in natural language processing tasks](https://github.com/nlpodyssey/spago)
+* [owulveryck/onnx-go: onnx-go gives the ability to import a pre-trained neural network within Go without being linked to a framework or library.](https://github.com/owulveryck/onnx-go)
+
+
 ### Go + K8s  
  * [bcreane/k8sutils](https://github.com/bcreane/k8sutils)  
  * [yogeshlonkar/pod-dependency-init-container](https://github.com/yogeshlonkar/pod-dependency-init-container)  
@@ -129,11 +135,11 @@
 
 [Dataframes in Go](https://github.com/go-gota/gota)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI5NDM2NzE4LC0xMjc1MTQ3MDI4LDc0OD
-E0OTExNCwtMTI4NzQ3NjY1OSwyMDYzODIyODgzLC0xNDQyNzk2
-OTAxLDE0NTkxMDIxNzUsLTE5NDIxMDYwMzgsMTMzMzQ5MzcwNC
-w0Njg2NTIzNjQsLTE2MTY0MjA4NTcsLTE1NjI0MzQ2LC03ODU0
-OTU2MzgsODM4ODM4MDgsNDg3Nzc4MTg5LC0xNTI5MTA2NTcxLC
-01Njg1MTc2MzcsLTIwMDMyNjM1NjcsLTEyNTcyNjM1NzksOTU1
-MDYyMTA0XX0=
+eyJoaXN0b3J5IjpbMjA2NTY2MzUyNyw3Mjk0MzY3MTgsLTEyNz
+UxNDcwMjgsNzQ4MTQ5MTE0LC0xMjg3NDc2NjU5LDIwNjM4MjI4
+ODMsLTE0NDI3OTY5MDEsMTQ1OTEwMjE3NSwtMTk0MjEwNjAzOC
+wxMzMzNDkzNzA0LDQ2ODY1MjM2NCwtMTYxNjQyMDg1NywtMTU2
+MjQzNDYsLTc4NTQ5NTYzOCw4Mzg4MzgwOCw0ODc3NzgxODksLT
+E1MjkxMDY1NzEsLTU2ODUxNzYzNywtMjAwMzI2MzU2NywtMTI1
+NzI2MzU3OV19
 -->
