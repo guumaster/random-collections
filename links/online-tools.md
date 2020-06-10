@@ -2,6 +2,8 @@
 * [UTF-8 Character list · mcdlr](https://mcdlr.com/utf-8/#1)
 * [Transform | A polyglot web converter.](https://transform.tools/) Convert from/to lots of formats.
 
+- [trianglify](https://trianglify.io/)
+
 * [vectorized editor](https://vectr.com/)
 * [All – Tiny Helpers](https://tiny-helpers.dev/) A collection of lots of simple online tools.
 * [Awesome Frontend collection](https://awesomejs.dev/)
@@ -38,9 +40,9 @@
 
 [gamedb.online](https://gamedb.online/players/76561198026280908/guuplanewalker?o=desc&s=1#games)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjYxMDQwNiw4OTg2NDkyOTksLTM3Mz
-IxMTQ3MywtNDE3MTU5NDI4LDIwMDMzMjUwMTcsLTE5MjQ0OTYz
-OTgsLTM3NjA3NDcwMiwzMTIyMzM1NDAsMTg5MjU4NDg4OSwxNT
-E2MjIxOTAxLC0yMDM0NjU4MjkxLC0xMzM5ODg5MzY2LDEzODEy
-ODM3MTddfQ==
+eyJoaXN0b3J5IjpbLTI0MzMzOTE0OCwxMTI2NjEwNDA2LDg5OD
+Y0OTI5OSwtMzczMjExNDczLC00MTcxNTk0MjgsMjAwMzMyNTAx
+NywtMTkyNDQ5NjM5OCwtMzc2MDc0NzAyLDMxMjIzMzU0MCwxOD
+kyNTg0ODg5LDE1MTYyMjE5MDEsLTIwMzQ2NTgyOTEsLTEzMzk4
+ODkzNjYsMTM4MTI4MzcxN119
 -->
