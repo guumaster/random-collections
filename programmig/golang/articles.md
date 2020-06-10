@@ -77,12 +77,13 @@
 * [Chapter 8: Concurrency | Go Bootcamp | Softcover.io](http://www.golangbootcamp.com/book/concurrency)
 * [alco/gostart: A getting started guide for Go newcomers](https://github.com/alco/gostart)
 
+* [Go Tutorial - Tutorialspoint](https://www.tutorialspoint.com/go/)
 * [Learning Go](https://miek.nl/go/)
 * [Bootcamp | Go Resources](https://www.golang-book.com/guides/bootcamp)
 * [Go Resources](http://www.golang-book.com/)
 * [Golang tutorial: Table Of Contents](https://golangbot.com/learn-golang-series/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODcxNjg1MTgsLTE5MjI1MDA5MzksMT
-gxMjYxMTUzMCwzMTQzMjU2MCw3Mzc5MzM2LC0xMjI3MzMwNzYy
-LC0xNDgxODQ1MzExXX0=
+eyJoaXN0b3J5IjpbMzgzNjEyNzY5LC0xOTIyNTAwOTM5LDE4MT
+I2MTE1MzAsMzE0MzI1NjAsNzM3OTMzNiwtMTIyNzMzMDc2Miwt
+MTQ4MTg0NTMxMV19
 -->
