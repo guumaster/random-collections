@@ -10,6 +10,8 @@
 
 ## Articles
 
+* [Python and Go : Part I - gRPC](https://www.ardanlabs.com/blog/2020/06/python-go-grpc.html)
+* 
 * [An Overview of Go's Tooling - Alex Edwards](https://www.alexedwards.net/blog/an-overview-of-go-tooling)
 * [go-advice · cristaloleg/go-advice](https://github.com/cristaloleg/go-advice)  
 * [ultimate-go · hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go)  
@@ -91,7 +93,7 @@
 * [Golang oAuth2 Google Example for Web and API - Christopher Grant - Medium](https://medium.com/@cgrant/golang-oauth2-google-example-for-web-and-api-59187ce8b119)
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQzMTU0NDMsMzgzNjEyNzY5LC0xOT
-IyNTAwOTM5LDE4MTI2MTE1MzAsMzE0MzI1NjAsNzM3OTMzNiwt
-MTIyNzMzMDc2MiwtMTQ4MTg0NTMxMV19
+eyJoaXN0b3J5IjpbMzQ5NTEwMTAwLDM4MzYxMjc2OSwtMTkyMj
+UwMDkzOSwxODEyNjExNTMwLDMxNDMyNTYwLDczNzkzMzYsLTEy
+MjczMzA3NjIsLTE0ODE4NDUzMTFdfQ==
 -->
