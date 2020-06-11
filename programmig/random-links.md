@@ -1,6 +1,11 @@
 # Random programming stuff
 
 
+## Python deps
+
+* [Poetry - dependency management and packaging made easy.](https://python-poetry.org/docs/repositories/#using-a-private-repository)
+* [dephell deps convert](https://dephell.readthedocs.io/cmd-deps-convert.html)
+
 ## Algorithms
 * [Sorting algorithms visually explained](http://www.sorting-algorithms.com/)
 
@@ -30,5 +35,6 @@
 * [machinebox/graphql: Simple low-level GraphQL HTTP client for Go](https://github.com/machinebox/graphql)
 * [A GraphQL client library for Go - Machine Box](https://blog.machinebox.io/a-graphql-client-library-for-go-5bffd0455878)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NDQzMzE3OCwtNDU4MzgzOV19
+eyJoaXN0b3J5IjpbLTE3NTc1OTk1MzMsMTc3NDQzMzE3OCwtND
+U4MzgzOV19
 -->
