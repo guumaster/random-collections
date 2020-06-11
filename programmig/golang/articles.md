@@ -82,8 +82,16 @@
 * [Bootcamp | Go Resources](https://www.golang-book.com/guides/bootcamp)
 * [Go Resources](http://www.golang-book.com/)
 * [Golang tutorial: Table Of Contents](https://golangbot.com/learn-golang-series/)
+
+### OAuth
+
+* [OAuth Tokens on the Command Line · Libelli](https://bbengfort.github.io/snippets/2017/04/20/oauth-token-command-line.html)
+* [OAuth 2.0 authentication in a Golang CLI](https://gist.github.com/marians/3b55318106df0e4e648158f1ffb43d38)
+* [nmrshll/oauth2-noserver: Simplifying the oauth2 auth flow for desktop / cli apps that have no server side.](https://github.com/nmrshll/oauth2-noserver)
+* [Golang oAuth2 Google Example for Web and API - Christopher Grant - Medium](https://medium.com/@cgrant/golang-oauth2-google-example-for-web-and-api-59187ce8b119)
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzNjEyNzY5LC0xOTIyNTAwOTM5LDE4MT
-I2MTE1MzAsMzE0MzI1NjAsNzM3OTMzNiwtMTIyNzMzMDc2Miwt
-MTQ4MTg0NTMxMV19
+eyJoaXN0b3J5IjpbLTEwMDQzMTU0NDMsMzgzNjEyNzY5LC0xOT
+IyNTAwOTM5LDE4MTI2MTE1MzAsMzE0MzI1NjAsNzM3OTMzNiwt
+MTIyNzMzMDc2MiwtMTQ4MTg0NTMxMV19
 -->
