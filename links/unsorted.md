@@ -1,6 +1,8 @@
 
 ## Random Links
 
+* [Become a ninja with Vue.js - the ebook](https://books.ninja-squad.com/vue#buy)
+
 * [speaker-starter-kit](https://github.com/coryhouse/speaker-starter-kit/blob/master/README.md)
 * [Graph CPU/memory usage of a single process](https://unix.stackexchange.com/questions/554/how-to-monitor-cpu-memory-usage-of-a-single-process)
 * [commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji/blob/master/README.md)
@@ -22,6 +24,6 @@
 * [obs-v4l2sink: obs studio output plugin for Video4Linux2](https://github.com/CatxFish/obs-v4l2sink)
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzIzNTY0NiwxMjQwMjU0MDA4LDIwND
-I0Nzc2ODUsLTU1MDMzMzgyNl19
+eyJoaXN0b3J5IjpbMTk0NDU0OTIzNSwxMjMzMjM1NjQ2LDEyND
+AyNTQwMDgsMjA0MjQ3NzY4NSwtNTUwMzMzODI2XX0=
 -->
