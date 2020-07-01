@@ -7,7 +7,7 @@
 ## Random
 
 * [realtime translation for notes](https://fluently.so/)
-* 
+
 * [UTF-8 Character list · mcdlr](https://mcdlr.com/utf-8/#1)
 * [Transform | A polyglot web converter.](https://transform.tools/) Convert from/to lots of formats.
 
@@ -66,10 +66,10 @@
 
 [gamedb.online](https://gamedb.online/players/76561198026280908/guuplanewalker?o=desc&s=1#games)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0MTI2MjYsNjEwNTkyMTM0LDE1NjY3ND
-A0ODgsLTI0MzMzOTE0OCwxMTI2NjEwNDA2LDg5ODY0OTI5OSwt
-MzczMjExNDczLC00MTcxNTk0MjgsMjAwMzMyNTAxNywtMTkyND
-Q5NjM5OCwtMzc2MDc0NzAyLDMxMjIzMzU0MCwxODkyNTg0ODg5
-LDE1MTYyMjE5MDEsLTIwMzQ2NTgyOTEsLTEzMzk4ODkzNjYsMT
-M4MTI4MzcxN119
+eyJoaXN0b3J5IjpbLTU5NDc1NDQ2OCw2MTA1OTIxMzQsMTU2Nj
+c0MDQ4OCwtMjQzMzM5MTQ4LDExMjY2MTA0MDYsODk4NjQ5Mjk5
+LC0zNzMyMTE0NzMsLTQxNzE1OTQyOCwyMDAzMzI1MDE3LC0xOT
+I0NDk2Mzk4LC0zNzYwNzQ3MDIsMzEyMjMzNTQwLDE4OTI1ODQ4
+ODksMTUxNjIyMTkwMSwtMjAzNDY1ODI5MSwtMTMzOTg4OTM2Ni
+wxMzgxMjgzNzE3XX0=
 -->
