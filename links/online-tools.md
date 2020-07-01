@@ -2,8 +2,12 @@
 ## Radio online 
 * [MINIMAL TECH HOUSE - Radio Caprice](http://radcap.ru/mintechhouse.html)
 
+
+
 ## Random
 
+* [realtime translation for notes](https://fluently.so/)
+* 
 * [UTF-8 Character list · mcdlr](https://mcdlr.com/utf-8/#1)
 * [Transform | A polyglot web converter.](https://transform.tools/) Convert from/to lots of formats.
 
@@ -62,10 +66,10 @@
 
 [gamedb.online](https://gamedb.online/players/76561198026280908/guuplanewalker?o=desc&s=1#games)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwNTkyMTM0LDE1NjY3NDA0ODgsLTI0Mz
-MzOTE0OCwxMTI2NjEwNDA2LDg5ODY0OTI5OSwtMzczMjExNDcz
-LC00MTcxNTk0MjgsMjAwMzMyNTAxNywtMTkyNDQ5NjM5OCwtMz
-c2MDc0NzAyLDMxMjIzMzU0MCwxODkyNTg0ODg5LDE1MTYyMjE5
-MDEsLTIwMzQ2NTgyOTEsLTEzMzk4ODkzNjYsMTM4MTI4MzcxN1
-19
+eyJoaXN0b3J5IjpbNTc0MTI2MjYsNjEwNTkyMTM0LDE1NjY3ND
+A0ODgsLTI0MzMzOTE0OCwxMTI2NjEwNDA2LDg5ODY0OTI5OSwt
+MzczMjExNDczLC00MTcxNTk0MjgsMjAwMzMyNTAxNywtMTkyND
+Q5NjM5OCwtMzc2MDc0NzAyLDMxMjIzMzU0MCwxODkyNTg0ODg5
+LDE1MTYyMjE5MDEsLTIwMzQ2NTgyOTEsLTEzMzk4ODkzNjYsMT
+M4MTI4MzcxN119
 -->
