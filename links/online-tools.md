@@ -11,6 +11,8 @@
 
 * [vectorized editor](https://vectr.com/)
 * [All – Tiny Helpers](https://tiny-helpers.dev/) A collection of lots of simple online tools.
+* [Illustrated guide to jq](https://mosermichael.github.io/jq-illustrated/dir/content.html)
+
 * [Awesome Frontend collection](https://awesomejs.dev/)
 * [explainshell.com - show CLI help text with visual help](https://explainshell.com/)
 * [Tokimeki Twitter Unfollow](https://tokimeki-unfollow.glitch.me/)
@@ -34,8 +36,6 @@
 * [video](https://sumo.app/video/es)
 
 
-
-* [Illustrated guide to jq](https://mosermichael.github.io/jq-illustrated/dir/content.html)
 
 
 ## Image editors
@@ -62,7 +62,7 @@
 
 [gamedb.online](https://gamedb.online/players/76561198026280908/guuplanewalker?o=desc&s=1#games)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYzNzAwMjMyLDE1NjY3NDA0ODgsLTI0Mz
+eyJoaXN0b3J5IjpbNjEwNTkyMTM0LDE1NjY3NDA0ODgsLTI0Mz
 MzOTE0OCwxMTI2NjEwNDA2LDg5ODY0OTI5OSwtMzczMjExNDcz
 LC00MTcxNTk0MjgsMjAwMzMyNTAxNywtMTkyNDQ5NjM5OCwtMz
 c2MDc0NzAyLDMxMjIzMzU0MCwxODkyNTg0ODg5LDE1MTYyMjE5
