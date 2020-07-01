@@ -27,6 +27,9 @@
 * [Illustrated guide to jq](https://mosermichael.github.io/jq-illustrated/dir/content.html)
 
 
+## Image editors
+
+
 ## Coding for Kids
 
 [tynker.com](https://www.tynker.com/)
@@ -45,9 +48,10 @@
 
 [gamedb.online](https://gamedb.online/players/76561198026280908/guuplanewalker?o=desc&s=1#games)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Njc0MDQ4OCwtMjQzMzM5MTQ4LDExMj
-Y2MTA0MDYsODk4NjQ5Mjk5LC0zNzMyMTE0NzMsLTQxNzE1OTQy
-OCwyMDAzMzI1MDE3LC0xOTI0NDk2Mzk4LC0zNzYwNzQ3MDIsMz
-EyMjMzNTQwLDE4OTI1ODQ4ODksMTUxNjIyMTkwMSwtMjAzNDY1
-ODI5MSwtMTMzOTg4OTM2NiwxMzgxMjgzNzE3XX0=
+eyJoaXN0b3J5IjpbNzU3MzQ1NTIxLDE1NjY3NDA0ODgsLTI0Mz
+MzOTE0OCwxMTI2NjEwNDA2LDg5ODY0OTI5OSwtMzczMjExNDcz
+LC00MTcxNTk0MjgsMjAwMzMyNTAxNywtMTkyNDQ5NjM5OCwtMz
+c2MDc0NzAyLDMxMjIzMzU0MCwxODkyNTg0ODg5LDE1MTYyMjE5
+MDEsLTIwMzQ2NTgyOTEsLTEzMzk4ODkzNjYsMTM4MTI4MzcxN1
+19
 -->
