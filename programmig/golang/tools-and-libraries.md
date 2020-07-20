@@ -101,7 +101,9 @@
 * [colidr: Coherent Line Drawing algorithm](https://github.com/esimov/colidr)
 * [faiface/pixel: 2D game library](https://github.com/faiface/pixel)
 * [fogleman/gg: 2D rendering](https://github.com/fogleman/gg)
-
+* [ajstarks/svgo: Go Language Library for SVG generation](https://github.com/ajstarks/svgo)
+* [disintegration/gift: Go Image Filtering Toolkit](https://github.com/disintegration/gift)
+* 
 ### PDF
 
 [Pdf](https://github.com/unidoc/unipdf)
@@ -139,11 +141,11 @@
 
 [Dataframes in Go](https://github.com/go-gota/gota)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzk5OTk1MzAsLTg1OTc4MjY0Miw3Mj
-k0MzY3MTgsLTEyNzUxNDcwMjgsNzQ4MTQ5MTE0LC0xMjg3NDc2
-NjU5LDIwNjM4MjI4ODMsLTE0NDI3OTY5MDEsMTQ1OTEwMjE3NS
-wtMTk0MjEwNjAzOCwxMzMzNDkzNzA0LDQ2ODY1MjM2NCwtMTYx
-NjQyMDg1NywtMTU2MjQzNDYsLTc4NTQ5NTYzOCw4Mzg4MzgwOC
-w0ODc3NzgxODksLTE1MjkxMDY1NzEsLTU2ODUxNzYzNywtMjAw
-MzI2MzU2N119
+eyJoaXN0b3J5IjpbMTUyMDkyODMwMywtMTMzOTk5OTUzMCwtOD
+U5NzgyNjQyLDcyOTQzNjcxOCwtMTI3NTE0NzAyOCw3NDgxNDkx
+MTQsLTEyODc0NzY2NTksMjA2MzgyMjg4MywtMTQ0Mjc5NjkwMS
+wxNDU5MTAyMTc1LC0xOTQyMTA2MDM4LDEzMzM0OTM3MDQsNDY4
+NjUyMzY0LC0xNjE2NDIwODU3LC0xNTYyNDM0NiwtNzg1NDk1Nj
+M4LDgzODgzODA4LDQ4Nzc3ODE4OSwtMTUyOTEwNjU3MSwtNTY4
+NTE3NjM3XX0=
 -->
