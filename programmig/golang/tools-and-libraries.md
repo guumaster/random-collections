@@ -99,7 +99,8 @@
 * [pigo: face detection library](https://github.com/esimov/pigo)
 * [gocv: computer vision using OpenCV](https://github.com/hybridgroup/gocv)
 * [colidr: Coherent Line Drawing algorithm](https://github.com/esimov/colidr)
-
+* [faiface/pixel: 2D game library](https://github.com/faiface/pixel)
+* [fogleman/gg: 2D rendering](https://github.com/fogleman/gg)
 
 ### PDF
 
@@ -138,11 +139,11 @@
 
 [Dataframes in Go](https://github.com/go-gota/gota)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzY2MTk1LC04NTk3ODI2NDIsNzI5ND
-M2NzE4LC0xMjc1MTQ3MDI4LDc0ODE0OTExNCwtMTI4NzQ3NjY1
-OSwyMDYzODIyODgzLC0xNDQyNzk2OTAxLDE0NTkxMDIxNzUsLT
-E5NDIxMDYwMzgsMTMzMzQ5MzcwNCw0Njg2NTIzNjQsLTE2MTY0
-MjA4NTcsLTE1NjI0MzQ2LC03ODU0OTU2MzgsODM4ODM4MDgsND
-g3Nzc4MTg5LC0xNTI5MTA2NTcxLC01Njg1MTc2MzcsLTIwMDMy
-NjM1NjddfQ==
+eyJoaXN0b3J5IjpbLTEzMzk5OTk1MzAsLTg1OTc4MjY0Miw3Mj
+k0MzY3MTgsLTEyNzUxNDcwMjgsNzQ4MTQ5MTE0LC0xMjg3NDc2
+NjU5LDIwNjM4MjI4ODMsLTE0NDI3OTY5MDEsMTQ1OTEwMjE3NS
+wtMTk0MjEwNjAzOCwxMzMzNDkzNzA0LDQ2ODY1MjM2NCwtMTYx
+NjQyMDg1NywtMTU2MjQzNDYsLTc4NTQ5NTYzOCw4Mzg4MzgwOC
+w0ODc3NzgxODksLTE1MjkxMDY1NzEsLTU2ODUxNzYzNywtMjAw
+MzI2MzU2N119
 -->
