@@ -50,7 +50,10 @@
 
 
 ### Unsorted
-
+* [thoas/go-funk: helpers (map, find, contains, filter, ...)](https://github.com/thoas/go-funk)
+* [mingrammer/commonregex](https://github.com/mingrammer/commonregex)
+* [disintegration/imaging](https://github.com/disintegration/imaging)
+* 
 * [Talento90/go-health](https://github.com/Talento90/go-health)  
 * [InVisionApp/go-health](https://github.com/InVisionApp/go-health)  
 * [twitchtv/twirp: A simple RPC framework](https://github.com/twitchtv/twirp)  
@@ -135,11 +138,11 @@
 
 [Dataframes in Go](https://github.com/go-gota/gota)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1OTc4MjY0Miw3Mjk0MzY3MTgsLTEyNz
-UxNDcwMjgsNzQ4MTQ5MTE0LC0xMjg3NDc2NjU5LDIwNjM4MjI4
-ODMsLTE0NDI3OTY5MDEsMTQ1OTEwMjE3NSwtMTk0MjEwNjAzOC
-wxMzMzNDkzNzA0LDQ2ODY1MjM2NCwtMTYxNjQyMDg1NywtMTU2
-MjQzNDYsLTc4NTQ5NTYzOCw4Mzg4MzgwOCw0ODc3NzgxODksLT
-E1MjkxMDY1NzEsLTU2ODUxNzYzNywtMjAwMzI2MzU2NywtMTI1
-NzI2MzU3OV19
+eyJoaXN0b3J5IjpbLTExMDIzMTc4MjcsLTg1OTc4MjY0Miw3Mj
+k0MzY3MTgsLTEyNzUxNDcwMjgsNzQ4MTQ5MTE0LC0xMjg3NDc2
+NjU5LDIwNjM4MjI4ODMsLTE0NDI3OTY5MDEsMTQ1OTEwMjE3NS
+wtMTk0MjEwNjAzOCwxMzMzNDkzNzA0LDQ2ODY1MjM2NCwtMTYx
+NjQyMDg1NywtMTU2MjQzNDYsLTc4NTQ5NTYzOCw4Mzg4MzgwOC
+w0ODc3NzgxODksLTE1MjkxMDY1NzEsLTU2ODUxNzYzNywtMjAw
+MzI2MzU2N119
 -->
