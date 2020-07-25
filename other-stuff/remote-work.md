@@ -1,7 +1,9 @@
 ### Sites
 
 - [flexjobs.com](https://www.flexjobs.com/)
-- 
+- [weworkremotely.com](https://weworkremotely.com/)
+- [trabajarporelmundo.org](https://trabajarporelmundo.org/)
+- [workingnomads.co](https://workingnomads.co/)
 -   Freelancer  **[http://www.freelancer.com](http://www.freelancer.com/)**
 -   Trabajando Freelance:  **[http://www.trabajofreelance.com](http://www.trabajofreelance.com/)**
 -   Workana: **[http://www.workana.es/jobs](http://www.workana.es/jobs)**
@@ -83,6 +85,5 @@ Un listado de ofertas de trabajo remoto. Puedes filtrar los empleos por reclutad
 
 La web ofrece un listado de oportunidades empleo a distancia. Además, puedes conocer sobre compañías que ofrecen este tipo de empleos así como leer alguno de los artículos relacionados con la temática que aparecen en su blog.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTUxOTkyNjIsLTE1NjI2NDc0MThdfQ
-==
+eyJoaXN0b3J5IjpbLTkzODk2NjM0MywtMTU2MjY0NzQxOF19
 -->
