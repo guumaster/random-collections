@@ -6,8 +6,8 @@
 
 # ESP32
 
-
+![enter image description here](https://components101.com/sites/default/files/component_pin/ESP32-Pinout.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODkxOTAzMTgsMTU0NjYwNjQzMSw2Nj
-M5OTA4NF19
+eyJoaXN0b3J5IjpbNDA2NDk5MTg3LC0xODg5MTkwMzE4LDE1ND
+Y2MDY0MzEsNjYzOTkwODRdfQ==
 -->
