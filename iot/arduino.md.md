@@ -7,7 +7,10 @@
 # ESP32
 
 ![enter image description here](https://components101.com/sites/default/files/component_pin/ESP32-Pinout.png)
+
+
+Explanation about [esp32 gpios](https://randomnerdtutorials.com/esp32-pinout-reference-gpios/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA2NDk5MTg3LC0xODg5MTkwMzE4LDE1ND
-Y2MDY0MzEsNjYzOTkwODRdfQ==
+eyJoaXN0b3J5IjpbMTE5NDQyMzM4NCw0MDY0OTkxODcsLTE4OD
+kxOTAzMTgsMTU0NjYwNjQzMSw2NjM5OTA4NF19
 -->
